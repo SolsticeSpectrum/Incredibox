@@ -15,20 +15,25 @@ To change the version, just open `js/main.min.js` and `js/index.min.js`
 In those file, find those lines under `var machine = {},` in the beginning of the code  
 
 ```javascript
-target = "windows",
+target = "undefined",
 osname = "win",
 appTotalVersion = appCN && "windows" == osname ? 4 : 8,
 ```
-Then you can replace `"windows"` with
+Then you can replace `"undefined"` with
 ```
-"android"
-"ios"
-"mac os x"
+"mobile"
 ```
 
-And then replace `"win"` with
+then replace `"win"` with
 ```
 "and"
 "ios"
 "osx"
+```
+
+and then replace `"windows"` with
+```
+"android"
+"ios"
+"mac os x"
 ```
