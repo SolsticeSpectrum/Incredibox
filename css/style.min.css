@@ -121,7 +121,7 @@ body.fluid {
 }
 
 body.black {
-	background-color: rgb(255, 255, 255)!important
+	background-color: #000!important
 }
 
 body.darkback {

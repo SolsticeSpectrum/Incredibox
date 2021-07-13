@@ -15,17 +15,14 @@ To change the version, just open `js/main.min.js` and `js/index.min.js`
 In those file, find those lines under `var machine = {},` in the beginning of the code  
 
 ```javascript
-target = "undefined",
+target = "desktop",
 osname = "win",
 appTotalVersion = appCN && "windows" == osname ? 4 : 8,
 ```
-Then you can replace `"undefined"` with
+Then you can replace `"desktop"` with
 ```
 "mobile"
-
-"undefined" should usually be "desktop" or "browser" but desktop will make it stop working because it requires electron  
-and browser will turn the app into demo version  
-only "mobile" works and "undefined" is kind of hack that makes the desktop version work
+"browser" this will enable the demo version from incredibox website
 ```
 
 then replace `"win"` with
