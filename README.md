@@ -22,6 +22,10 @@ appTotalVersion = appCN && "windows" == osname ? 4 : 8,
 Then you can replace `"undefined"` with
 ```
 "mobile"
+
+"undefined" should usually be "desktop" or "browser" but desktop will make it stop working because it requires electron  
+and browser will turn the app into demo version  
+only "mobile" works and "undefined" is kind of hack that makes the desktop version work
 ```
 
 then replace `"win"` with
