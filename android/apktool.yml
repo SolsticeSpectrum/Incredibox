@@ -1,0 +1,34 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: Incredibox_v0.5.4_apkmody.io.apk
+compressionType: false
+doNotCompress:
+- resources.arsc
+- png
+- jpg
+- ogg
+- mp4
+- assets/www/font/raleway-black-webfont.woff2
+- assets/www/font/raleway-bold-webfont.woff2
+- assets/www/font/raleway-italic-webfont.woff2
+- assets/www/font/raleway-medium-webfont.woff2
+- assets/www/font/raleway-regular-webfont.woff2
+- assets/www/font/raleway-thin-webfont.woff2
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '22'
+  targetSdkVersion: '30'
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  stamp-cert-sha256: '8'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.5.0
+versionInfo:
+  versionCode: '54'
+  versionName: 0.5.4
