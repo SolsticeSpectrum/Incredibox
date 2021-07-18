@@ -23,7 +23,7 @@ Before each modification, redownload this repo to be sure that all files are cor
    ```  
 6. Verify the apk file with this command  
    ```
-   jarsigner -verify -verbose -certs Incredibox-v0.5.4.apk
+   jarsigner -verify -verbose -certs Incredibox-v0.5.4-unaligned.apk
    ```  
    If verification passed correctly, you can continue  
 7. Last thing you need to do is aligning the apk file with this command  
