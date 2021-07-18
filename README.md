@@ -8,7 +8,8 @@ All the differences are made with js/main.min.js and js/index.min.js
 # Branches
 There are 2 branches `android` and `desktop`  
 The desktop branch contains the version you can get on Steam or Mac  
-The android branch contains the version from Google Store
+The android branch contains the version from Google Store  
+There is also `modding` branch which aims to help modders to begin with modding
 
 # Changing versions of the app
 To change the version, just open `js/main.min.js` and `js/index.min.js`   
