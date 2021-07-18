@@ -9,9 +9,11 @@ Java Development Kit
 4. In the section System Variables find the PATH environment variable
 5. Select it and click Edit
 6. Find C:\ProgramData\Oracle\Java\javapath select it and click Delete
-7. Click New and enter C:\Program Files\Java\jdk-16.0.1\bin
-8. Click OK and close Environment Variables
-9. Open Command Prompt and try to run command `keytool`  
+7. Click New and enter C:\Program Files\Java\jdk-16.0.1\bin  
+   If you have different version of JDK, check in C:\Program Files\Java and use C:\Program Files\Java\YOUR_VERSION\bin  
+   where you replace YOUR_VERSION with version you have in C:\Program Files\Java  
+9. Click OK and close Environment Variables
+10. Open Command Prompt and try to run command `keytool`  
    If it works you can continue
 
 # Modifying
