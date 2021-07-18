@@ -8,7 +8,7 @@ Java Development Kit
 3. Click Environment Variables
 4. In the section System Variables find the PATH environment variable
 5. Select it and click Edit
-6. Find C:\ProgramData\Oracle\Java\javapath select it and click Delete
+6. Find C:\Program Files\Common Files\Oracle\Java\javapath select it and click Delete
 7. Click New and enter C:\Program Files\Java\jdk-16.0.1\bin  
    If you have different version of JDK, check in C:\Program Files\Java and use C:\Program Files\Java\YOUR_VERSION\bin  
    where you replace YOUR_VERSION with version you have in C:\Program Files\Java  
