@@ -2,6 +2,18 @@
 Java Development Kit 
 > You can get the latest one [here](https://www.oracle.com/java/technologies/javase-jdk16-downloads.html)
 
+# Setting up Java
+1. In Search, search for and then select: System (Control Panel)
+2. Click the Advanced system settings link on the right
+3. Click Environment Variables
+4. In the section System Variables find the PATH environment variable
+5. Select it and click Edit
+6. Find C:\ProgramData\Oracle\Java\javapath select it and click Delete
+7. Click New and enter C:\Program Files\Java\jdk-16.0.1\bin
+8. Click OK and close Environment Variables
+9. Open Command Prompt and try to run command `keytool`  
+   If it works you can continue
+
 # Modifying
 Before each modification, redownload this repo to be sure that all files are correct  
 
