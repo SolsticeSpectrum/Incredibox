@@ -1,0 +1,5225 @@
+Signature-Version: 1.0
+Created-By: PseudoApkSigner 1.6 (AntiSplit-G2)
+SHA1-Digest-Manifest: EyySzs5cMG93J27qan/+45TE5IU=
+
+
+Name: META-INF/androidx.arch.core_core-runtime.version
+SHA1-Digest: qNN++8YJdZRwt/odB9z4VxZxi/Q=
+
+
+Name: META-INF/androidx.asynclayoutinflater_asynclayoutinflater.version
+SHA1-Digest: oO37TIS1z0GOZiK1ntln/8I2CYM=
+
+
+Name: META-INF/androidx.coordinatorlayout_coordinatorlayout.version
+SHA1-Digest: /FfNiYdZ2plPBys/I0bioQFHxjk=
+
+
+Name: META-INF/androidx.core_core.version
+SHA1-Digest: 9Xu2CO9JIj9AVOMUWWUGvi9QNyI=
+
+
+Name: META-INF/androidx.cursoradapter_cursoradapter.version
+SHA1-Digest: 1wR39PFWZym0lSHUeLd2Fyqrjws=
+
+
+Name: META-INF/androidx.customview_customview.version
+SHA1-Digest: Iyrro05egbHcWh83F2W9PD9qd2k=
+
+
+Name: META-INF/androidx.documentfile_documentfile.version
+SHA1-Digest: /B76z4wHeO9hmkzrhsPd00Uimz0=
+
+
+Name: META-INF/androidx.drawerlayout_drawerlayout.version
+SHA1-Digest: 4sW2hPD356EbBM+e0tTGblUGrkA=
+
+
+Name: META-INF/androidx.fragment_fragment.version
+SHA1-Digest: 5B+x1ad7Ef2TDxiSsox+lLE8x4s=
+
+
+Name: META-INF/androidx.interpolator_interpolator.version
+SHA1-Digest: ALaoz1JYc8285MhgsSUoJYS5uIs=
+
+
+Name: META-INF/androidx.legacy_legacy-support-core-ui.version
+SHA1-Digest: 8Sr9pE7LKD8zJFZ47jgfr+Tj1AM=
+
+
+Name: META-INF/androidx.legacy_legacy-support-core-utils.version
+SHA1-Digest: hD5SKyUlBHXgtLiK9RRlfCPBqq4=
+
+
+Name: META-INF/androidx.legacy_legacy-support-v4.version
+SHA1-Digest: qw5NnpW9A6KpNyOatnCX/kE6dpI=
+
+
+Name: META-INF/androidx.lifecycle_lifecycle-livedata-core.version
+SHA1-Digest: lLvx7gEFnpkMBDKNEG+zbw+HH38=
+
+
+Name: META-INF/androidx.lifecycle_lifecycle-livedata.version
+SHA1-Digest: FFWCnRJetWU8FfuO/CI7RiBXQlQ=
+
+
+Name: META-INF/androidx.lifecycle_lifecycle-runtime.version
+SHA1-Digest: b2GsRLtZmLBuBYepWEWxPpMk6fk=
+
+
+Name: META-INF/androidx.lifecycle_lifecycle-viewmodel.version
+SHA1-Digest: 0pXCzr1adFEaPMw70+tqgJc9JkQ=
+
+
+Name: META-INF/androidx.loader_loader.version
+SHA1-Digest: dqEoqcUKeILa1Ls/f5sSqcVd154=
+
+
+Name: META-INF/androidx.localbroadcastmanager_localbroadcastmanager.version
+SHA1-Digest: NiRGLSZLH6/tLcl4WUSHP+KykPk=
+
+
+Name: META-INF/androidx.media_media.version
+SHA1-Digest: VzYRBCnKzyBg+ulwm3rVCt+WX1s=
+
+
+Name: META-INF/androidx.print_print.version
+SHA1-Digest: pJZgsk2hbFAt5fOiYfVsOymrd8I=
+
+
+Name: META-INF/androidx.slidingpanelayout_slidingpanelayout.version
+SHA1-Digest: 1551+Zwbg1YA5wbjE9fjZHTLZOo=
+
+
+Name: META-INF/androidx.swiperefreshlayout_swiperefreshlayout.version
+SHA1-Digest: qluVKqTQlyqng+xpw+zLrOUyVEo=
+
+
+Name: META-INF/androidx.versionedparcelable_versionedparcelable.version
+SHA1-Digest: NM0MrvgNe5sfIM+S4IRp5LAtmkY=
+
+
+Name: META-INF/androidx.viewpager_viewpager.version
+SHA1-Digest: 9HgVd4PTqVbnBwLiHdltacDefaI=
+
+
+Name: assets/www/app.html
+SHA1-Digest: vb1If0LzcSd6N5ZJKIX7fXrjP8M=
+
+
+Name: assets/www/asset-v1/anime/10_uh-sprite-hd.png
+SHA1-Digest: hVpU13Vs+KVicy1H3ohgDme1Kkc=
+
+
+Name: assets/www/asset-v1/anime/10_uh-sprite-mini.png
+SHA1-Digest: zfx8EL3fv/65tO/lCYcMAJ6UYl0=
+
+
+Name: assets/www/asset-v1/anime/10_uh-sprite.png
+SHA1-Digest: ftNx+DQGhyyRRAnc1mqR/BdLotQ=
+
+
+Name: assets/www/asset-v1/anime/10_uh.json
+SHA1-Digest: EG4ReqV5g7ePqAtMPb4/7xMkmX0=
+
+
+Name: assets/www/asset-v1/anime/11_nugu-sprite-hd.png
+SHA1-Digest: kwlbTPJFkoqJZ8zyj1r87C4fMRo=
+
+
+Name: assets/www/asset-v1/anime/11_nugu-sprite-mini.png
+SHA1-Digest: RNTxEsihG2jEbHjCKQCubtCxS0c=
+
+
+Name: assets/www/asset-v1/anime/11_nugu-sprite.png
+SHA1-Digest: u7VQ+j96PetRdvql61y6xyE8xJs=
+
+
+Name: assets/www/asset-v1/anime/11_nugu.json
+SHA1-Digest: oYy8CVHA+jC8fJERAGyxIl/s0X4=
+
+
+Name: assets/www/asset-v1/anime/12_guit-sprite-hd.png
+SHA1-Digest: QzT9cumf/GX3QdRhJJ6whLbyoTY=
+
+
+Name: assets/www/asset-v1/anime/12_guit-sprite-mini.png
+SHA1-Digest: b0K41Yt8jRFm1Rc4W+lQwKuDFFo=
+
+
+Name: assets/www/asset-v1/anime/12_guit-sprite.png
+SHA1-Digest: jSX97/C3gggtYTGp66IgDOWmVDw=
+
+
+Name: assets/www/asset-v1/anime/12_guit.json
+SHA1-Digest: C/DsSaozwCYzhon0x8YZV9RDsAk=
+
+
+Name: assets/www/asset-v1/anime/13_tromp-sprite-hd.png
+SHA1-Digest: l/9neD5+VuKIrC4EEQGP2HTNJbM=
+
+
+Name: assets/www/asset-v1/anime/13_tromp-sprite-mini.png
+SHA1-Digest: chfdmiVUVE+8omJL8Kk0SXN1sQA=
+
+
+Name: assets/www/asset-v1/anime/13_tromp-sprite.png
+SHA1-Digest: XsPNeMVdiBR3iowQ1XwPsuGF6ao=
+
+
+Name: assets/www/asset-v1/anime/13_tromp.json
+SHA1-Digest: cMBbYx4O+Pw3XKowi6kJxB/Rp7A=
+
+
+Name: assets/www/asset-v1/anime/14_pouin-sprite-hd.png
+SHA1-Digest: Gg+xOLronjl+r2lnXZP+BoSFSpg=
+
+
+Name: assets/www/asset-v1/anime/14_pouin-sprite-mini.png
+SHA1-Digest: mID/893kBiBnXLHm59aA+1r/jsw=
+
+
+Name: assets/www/asset-v1/anime/14_pouin-sprite.png
+SHA1-Digest: WAjtMVLcqY7UJ7mBXdhuwKVFA1U=
+
+
+Name: assets/www/asset-v1/anime/14_pouin.json
+SHA1-Digest: sn6YJ5RsCKyZbbTLulRfO4hAl0o=
+
+
+Name: assets/www/asset-v1/anime/15_tung-sprite-hd.png
+SHA1-Digest: D4XzwZGe514VGceD1Gv6M3jpV1I=
+
+
+Name: assets/www/asset-v1/anime/15_tung-sprite-mini.png
+SHA1-Digest: UoxlLl9OP/87g6uQwoFfxkd/yKo=
+
+
+Name: assets/www/asset-v1/anime/15_tung-sprite.png
+SHA1-Digest: SvB0hrdLDJQs+78tGLRAQQh1Tv8=
+
+
+Name: assets/www/asset-v1/anime/15_tung.json
+SHA1-Digest: YGktNB1Q3/2HmtUfY2brTAgjM8U=
+
+
+Name: assets/www/asset-v1/anime/16_aoun-sprite-hd.png
+SHA1-Digest: AjMMJrM5BwJ8F4P5M9XahgxQy9w=
+
+
+Name: assets/www/asset-v1/anime/16_aoun-sprite-mini.png
+SHA1-Digest: mpAM1nQLl+C2S1Xoznque+kQCZQ=
+
+
+Name: assets/www/asset-v1/anime/16_aoun-sprite.png
+SHA1-Digest: ShQ6t1qyoI6ZknvfmxT7Gu86Kjs=
+
+
+Name: assets/www/asset-v1/anime/16_aoun.json
+SHA1-Digest: cOpl7xqsLoJmsMCAg/iJ+ektWME=
+
+
+Name: assets/www/asset-v1/anime/17_hum-sprite-hd.png
+SHA1-Digest: Cox2FMscH5qkUfBq2EbhcCM3Ctc=
+
+
+Name: assets/www/asset-v1/anime/17_hum-sprite-mini.png
+SHA1-Digest: F/f01ayieL20AVWH0i8pm8qMpSw=
+
+
+Name: assets/www/asset-v1/anime/17_hum-sprite.png
+SHA1-Digest: V56vj4jzrGfVs3VratTp1JT8dAQ=
+
+
+Name: assets/www/asset-v1/anime/17_hum.json
+SHA1-Digest: apdTNpX6+EJVj/ossSknSxmb/MI=
+
+
+Name: assets/www/asset-v1/anime/18_get-sprite-hd.png
+SHA1-Digest: ru8tFlMt6OTQdidQiJ9BEk+DO3U=
+
+
+Name: assets/www/asset-v1/anime/18_get-sprite-mini.png
+SHA1-Digest: V3PEeDPd6bpfugX36z0kiPaJGAo=
+
+
+Name: assets/www/asset-v1/anime/18_get-sprite.png
+SHA1-Digest: wrAaQi5GKpXZTVsB4XoWwtdycR4=
+
+
+Name: assets/www/asset-v1/anime/18_get.json
+SHA1-Digest: mdXJLuSjJnIv0g3gMfIznGB20dc=
+
+
+Name: assets/www/asset-v1/anime/19_tellme-sprite-hd.png
+SHA1-Digest: 61v+h71t+5cByhLCf03O2jFbq94=
+
+
+Name: assets/www/asset-v1/anime/19_tellme-sprite-mini.png
+SHA1-Digest: Upp2FKXKOs5YvUMULG0VDRpyHew=
+
+
+Name: assets/www/asset-v1/anime/19_tellme-sprite.png
+SHA1-Digest: wpvcpZwFhLFBqh3RRPwrEyGSrSg=
+
+
+Name: assets/www/asset-v1/anime/19_tellme.json
+SHA1-Digest: Z317AD6dnZSVRcyk4xnPC4G8RIg=
+
+
+Name: assets/www/asset-v1/anime/1_lead-sprite-hd.png
+SHA1-Digest: Q7/KG+NyQKZw065ml3e2ffa8YVs=
+
+
+Name: assets/www/asset-v1/anime/1_lead-sprite-mini.png
+SHA1-Digest: C0NBEL8EgsOkUHBkoGi3qmHkk2I=
+
+
+Name: assets/www/asset-v1/anime/1_lead-sprite.png
+SHA1-Digest: U/5Hy1BTFnGqAGSHQu26eS4Ak6U=
+
+
+Name: assets/www/asset-v1/anime/1_lead.json
+SHA1-Digest: FHO1Hmk5ptJUZ08h5FkOcga1yOg=
+
+
+Name: assets/www/asset-v1/anime/20_make-sprite-hd.png
+SHA1-Digest: /rN4kqIGl1x+pE7V/9xDdNHUdIo=
+
+
+Name: assets/www/asset-v1/anime/20_make-sprite-mini.png
+SHA1-Digest: 07xnc3g4go5lBJqRGOqVygPK7nI=
+
+
+Name: assets/www/asset-v1/anime/20_make-sprite.png
+SHA1-Digest: CWwa3kO0wva4pwAl5SyqqmmYvSM=
+
+
+Name: assets/www/asset-v1/anime/20_make.json
+SHA1-Digest: TM/l/6wBpv+x0XnP+wypW85Ivj4=
+
+
+Name: assets/www/asset-v1/anime/2_deux-sprite-hd.png
+SHA1-Digest: soQUZ2sOUMmX6c+7ZO8PLWu6CY8=
+
+
+Name: assets/www/asset-v1/anime/2_deux-sprite-mini.png
+SHA1-Digest: X4s/wElUlklCsL1vxQvUSH6qqY8=
+
+
+Name: assets/www/asset-v1/anime/2_deux-sprite.png
+SHA1-Digest: C+toxH+22JGdkvHWEDn+NmQx5oo=
+
+
+Name: assets/www/asset-v1/anime/2_deux.json
+SHA1-Digest: ssrJIyHdIuSnUXcD1XnIKxtdquk=
+
+
+Name: assets/www/asset-v1/anime/3_kosh-sprite-hd.png
+SHA1-Digest: lunDjRBMDopDeDZR+7hsM1Kr7Qc=
+
+
+Name: assets/www/asset-v1/anime/3_kosh-sprite-mini.png
+SHA1-Digest: p04nXc3mu8eDdB7PkcRIPWJJ1mQ=
+
+
+Name: assets/www/asset-v1/anime/3_kosh-sprite.png
+SHA1-Digest: w9vK73gv3/q4MzksrnNnRl0PB3Q=
+
+
+Name: assets/www/asset-v1/anime/3_kosh.json
+SHA1-Digest: wjs6cfl2dMVPMPdaS7deCXFBtPI=
+
+
+Name: assets/www/asset-v1/anime/4_shpok-sprite-hd.png
+SHA1-Digest: hr/BeLjP/aIA9BfZhn1RESkP4JI=
+
+
+Name: assets/www/asset-v1/anime/4_shpok-sprite-mini.png
+SHA1-Digest: vDItxvIUP1YK6shqddqEcYCJk1M=
+
+
+Name: assets/www/asset-v1/anime/4_shpok-sprite.png
+SHA1-Digest: cfUX7co7GegLSxydwASuXZxWJnA=
+
+
+Name: assets/www/asset-v1/anime/4_shpok.json
+SHA1-Digest: Ue6mvY3M8co6I/FTiPMTe6bOWgM=
+
+
+Name: assets/www/asset-v1/anime/5_tom-sprite-hd.png
+SHA1-Digest: hPTwgpNuHqV45L4geLWMpHzg5f4=
+
+
+Name: assets/www/asset-v1/anime/5_tom-sprite-mini.png
+SHA1-Digest: TkixTcdp8zCdiHfuseQdsXdD3c4=
+
+
+Name: assets/www/asset-v1/anime/5_tom-sprite.png
+SHA1-Digest: 4tA71IJfw1IqI/wZl/FTwOf5jfQ=
+
+
+Name: assets/www/asset-v1/anime/5_tom.json
+SHA1-Digest: T/vWdrfHgx/89mYBF8KigBgGJrk=
+
+
+Name: assets/www/asset-v1/anime/6_nouana-sprite-hd.png
+SHA1-Digest: MwSMWLkS618VjzKWjgkoNNg/JtE=
+
+
+Name: assets/www/asset-v1/anime/6_nouana-sprite-mini.png
+SHA1-Digest: 1wer1hquDnib2TI7ak/2SVmy9fg=
+
+
+Name: assets/www/asset-v1/anime/6_nouana-sprite.png
+SHA1-Digest: rPbJUg0QwZq8vZZiB0WY0blYVj4=
+
+
+Name: assets/www/asset-v1/anime/6_nouana.json
+SHA1-Digest: FLZ91RQlzOi/0lC76JQQBjUY2ug=
+
+
+Name: assets/www/asset-v1/anime/7_scratch-sprite-hd.png
+SHA1-Digest: 0FRsw2l3KWI2P7unezyE6TXbm/w=
+
+
+Name: assets/www/asset-v1/anime/7_scratch-sprite-mini.png
+SHA1-Digest: pxhPSvWpsl9FCPsE09EUVFvnZkY=
+
+
+Name: assets/www/asset-v1/anime/7_scratch-sprite.png
+SHA1-Digest: K5xn92l2V0cAssmmItGKOPTFLjg=
+
+
+Name: assets/www/asset-v1/anime/7_scratch.json
+SHA1-Digest: FT3vq7mnWWTe/w/DxIxGy9nhmfQ=
+
+
+Name: assets/www/asset-v1/anime/8_trill-sprite-hd.png
+SHA1-Digest: I3tq4cApV2CjbPTc0a4D6lxKQ9s=
+
+
+Name: assets/www/asset-v1/anime/8_trill-sprite-mini.png
+SHA1-Digest: PBGmvrWBq+eAyu3wKTTL5BAEuKE=
+
+
+Name: assets/www/asset-v1/anime/8_trill-sprite.png
+SHA1-Digest: Dw+dH0sep4RVlxOMj/sX7d9HJUU=
+
+
+Name: assets/www/asset-v1/anime/8_trill.json
+SHA1-Digest: WCJAe21rwfUB+yAnqaJ8REL2dks=
+
+
+Name: assets/www/asset-v1/anime/9_bass-sprite-hd.png
+SHA1-Digest: TV8+ZSZ1fZBioYJHtElSAsva1pU=
+
+
+Name: assets/www/asset-v1/anime/9_bass-sprite-mini.png
+SHA1-Digest: LYSAqbWQuO4cV9EmVkDwY3se0lU=
+
+
+Name: assets/www/asset-v1/anime/9_bass-sprite.png
+SHA1-Digest: qN0K6+el9X5ALgPn6bmunU3IvME=
+
+
+Name: assets/www/asset-v1/anime/9_bass.json
+SHA1-Digest: YysZkNn08k6ck1RJOCurzWO8K54=
+
+
+Name: assets/www/asset-v1/app.js
+SHA1-Digest: bq9zIXORinxfHMnvkxCpLl1eZMk=
+
+
+Name: assets/www/asset-v1/img/game-bck-hd.jpg
+SHA1-Digest: OyFO1r2mtiiqyt36AbAilC15/KM=
+
+
+Name: assets/www/asset-v1/img/game-bck.jpg
+SHA1-Digest: 23B1Ic/s01xxtrBDH4Yx5B0Axcc=
+
+
+Name: assets/www/asset-v1/img/game-picto-hd.png
+SHA1-Digest: bviPqgj40PB+H9da3FKfAcAdKLo=
+
+
+Name: assets/www/asset-v1/img/game-picto-mini.png
+SHA1-Digest: AOg54B1xWmvfwWtkLstJay16EQI=
+
+
+Name: assets/www/asset-v1/img/game-picto.png
+SHA1-Digest: YIvUHSrM1SAMv2z5iNp8jXdLgUI=
+
+
+Name: assets/www/asset-v1/img/home-titre-hd.png
+SHA1-Digest: mI/zLwUFzuSxMmbS0TivAUeXbQM=
+
+
+Name: assets/www/asset-v1/img/home-titre.png
+SHA1-Digest: PwymdmZ8Ay8rY5KMpzy77V+8NbE=
+
+
+Name: assets/www/asset-v1/img/home-version-hd.png
+SHA1-Digest: 5yVWf362nCASb0rtkphRKsCj9k4=
+
+
+Name: assets/www/asset-v1/img/home-version.png
+SHA1-Digest: uvrua+laCI922RfXckZN/9SsdAg=
+
+
+Name: assets/www/asset-v1/img/polo-sprite-hd.png
+SHA1-Digest: 0FrYmDUDuwCxUq/NHzK1Ua23Fzg=
+
+
+Name: assets/www/asset-v1/img/polo-sprite-mini.png
+SHA1-Digest: mmC7BvXWibBkBm3xJ8rJGWiADWQ=
+
+
+Name: assets/www/asset-v1/img/polo-sprite.png
+SHA1-Digest: ZSMDBTSQbWuINJZgZFAtMDJWfyg=
+
+
+Name: assets/www/asset-v1/sound/ogg/10_uh_a.ogg
+SHA1-Digest: k+3uIN6Uk8bP3vDqkQTD8PVYaag=
+
+
+Name: assets/www/asset-v1/sound/ogg/11_nugu_a.ogg
+SHA1-Digest: hHEDcGWP6YV2S3//aKk8GqUWoc4=
+
+
+Name: assets/www/asset-v1/sound/ogg/12_guit_a.ogg
+SHA1-Digest: hta4ex6baqJcD9VbnO7bmqKyc6g=
+
+
+Name: assets/www/asset-v1/sound/ogg/13_tromp_a.ogg
+SHA1-Digest: mPgJgFfypQ8zpYuiafRJP2+mjEU=
+
+
+Name: assets/www/asset-v1/sound/ogg/14_pouin_a.ogg
+SHA1-Digest: i9Yj9JNVJ3kGihk2T3JRq0YDwsw=
+
+
+Name: assets/www/asset-v1/sound/ogg/15_tung_a.ogg
+SHA1-Digest: 1Lf7Fr6/7z2E2Sbj2pBtp7fYJ0c=
+
+
+Name: assets/www/asset-v1/sound/ogg/16_aoun_a.ogg
+SHA1-Digest: TrsB5UwJs00gqJ7joK/6Mf/G1QQ=
+
+
+Name: assets/www/asset-v1/sound/ogg/17_hum_a.ogg
+SHA1-Digest: syhAhVI+rq0aVB4/DxT60Ydzuug=
+
+
+Name: assets/www/asset-v1/sound/ogg/18_get_a.ogg
+SHA1-Digest: QxENe8VPwdHN7D+Lh5cso3mN7V4=
+
+
+Name: assets/www/asset-v1/sound/ogg/19_tellme_a.ogg
+SHA1-Digest: e6zsHzNnbkQWevw3zOWRKhcmjDY=
+
+
+Name: assets/www/asset-v1/sound/ogg/1_lead_a.ogg
+SHA1-Digest: 1JmvGMh0MGHpaDyy5wtZJr8qzRk=
+
+
+Name: assets/www/asset-v1/sound/ogg/20_make_a.ogg
+SHA1-Digest: YDHkdFqF3ZzNsS42NfdGbYSMhBM=
+
+
+Name: assets/www/asset-v1/sound/ogg/2_deux_a.ogg
+SHA1-Digest: ol5EebzUGUBoKlBHFn93B5QOQZc=
+
+
+Name: assets/www/asset-v1/sound/ogg/3_kosh_a.ogg
+SHA1-Digest: B8yLXy6ylHXwJeNJbWr5UULDO7E=
+
+
+Name: assets/www/asset-v1/sound/ogg/4_shpok_a.ogg
+SHA1-Digest: 0I6JYS1j6z96bbcnZD4hl8pl4qE=
+
+
+Name: assets/www/asset-v1/sound/ogg/5_tom_a.ogg
+SHA1-Digest: xpA6qOI2H6YPKlJiu0XhLTUKrVw=
+
+
+Name: assets/www/asset-v1/sound/ogg/6_nouana_a.ogg
+SHA1-Digest: FhV2t6UK4FZSZX5J7fY5oGhc/dM=
+
+
+Name: assets/www/asset-v1/sound/ogg/7_scratch_a.ogg
+SHA1-Digest: WpL5NvMfVItWXy7XR9P0TSqYqCk=
+
+
+Name: assets/www/asset-v1/sound/ogg/8_trill_a.ogg
+SHA1-Digest: c1pJQyR8a7eT87E9vAvqrvfc14M=
+
+
+Name: assets/www/asset-v1/sound/ogg/9_bass_a.ogg
+SHA1-Digest: SbM21j1DLUphK0L5vCnwY3UMs7c=
+
+
+Name: assets/www/asset-v1/sound/ogg/aspire-sailor.ogg
+SHA1-Digest: luLoOqiq8FA61z/xtxqXRK83jYM=
+
+
+Name: assets/www/asset-v1/sound/ogg/aspire-santa.ogg
+SHA1-Digest: Wy9PHPheH2bnTiBoaS9t6cUbCig=
+
+
+Name: assets/www/asset-v1/sound/ogg/aspire.ogg
+SHA1-Digest: kPCBw8BAiZxoAC9HmzJKor9Zoe8=
+
+
+Name: assets/www/asset-v1/sound/ogg/bonus-choir.ogg
+SHA1-Digest: 6K/1D9MwavzIoxjylUCYCowKg+U=
+
+
+Name: assets/www/asset-v1/sound/ogg/bonus-sailor.ogg
+SHA1-Digest: B5YcvtzYXy20wbL2Dmx10gctaDY=
+
+
+Name: assets/www/asset-v1/sound/ogg/bonus-santa.ogg
+SHA1-Digest: vT5QOhUr6YjljveGpTd8umglPSc=
+
+
+Name: assets/www/asset-v1/splash/big-homescreen-hd.jpg
+SHA1-Digest: LSWEKmFQUMHuldt55fazZMaGgy8=
+
+
+Name: assets/www/asset-v1/splash/big-homescreen.jpg
+SHA1-Digest: 49FPepsgZSt36J515Tdb1nFxuFs=
+
+
+Name: assets/www/asset-v1/splash/homescreen-hd.jpg
+SHA1-Digest: 9JH344dD4eTpsHopHUM1iV+VvGE=
+
+
+Name: assets/www/asset-v1/splash/homescreen.jpg
+SHA1-Digest: +b3yk2LJ/znkzmIZUMUBdY+2750=
+
+
+Name: assets/www/asset-v1/video/v1-b1-bck.jpg
+SHA1-Digest: i79qHaJnCijuVpJtfZsHrzsw9K0=
+
+
+Name: assets/www/asset-v1/video/v1-b1-choir-hb-hd.mp4
+SHA1-Digest: l8Ndsq4oh51Ah6H7TqJD6G8h9Lc=
+
+
+Name: assets/www/asset-v1/video/v1-b1-choir-hb-mini.mp4
+SHA1-Digest: O6XDFIa/pYtTiDPMh9Q/7xR5h8Y=
+
+
+Name: assets/www/asset-v1/video/v1-b1-choir-hb.mp4
+SHA1-Digest: DKNm1pf68okR68/zPmlNNH0oynQ=
+
+
+Name: assets/www/asset-v1/video/v1-b2-bck.jpg
+SHA1-Digest: JqP0thhc84YBKfTAe1tQEEp0AlI=
+
+
+Name: assets/www/asset-v1/video/v1-b2-sailor-hb-hd.mp4
+SHA1-Digest: FCq4rgSq6nd3CLzPd3JbcLdOZKQ=
+
+
+Name: assets/www/asset-v1/video/v1-b2-sailor-hb-mini.mp4
+SHA1-Digest: 7KlCz8tm01ItPirAs3maEasmUpc=
+
+
+Name: assets/www/asset-v1/video/v1-b2-sailor-hb.mp4
+SHA1-Digest: zlFT9ivTePH8xFSbM3LIz+fYkPQ=
+
+
+Name: assets/www/asset-v1/video/v1-b3-bck.jpg
+SHA1-Digest: HUiviKVxAUGr0kmFmSUyqcGbFuA=
+
+
+Name: assets/www/asset-v1/video/v1-b3-santa-hb-hd.mp4
+SHA1-Digest: 941+rCGoxC1LfJxBKeL0E7RXac8=
+
+
+Name: assets/www/asset-v1/video/v1-b3-santa-hb-mini.mp4
+SHA1-Digest: eR/bElWbVLLD2xJcGP3s31aqlMQ=
+
+
+Name: assets/www/asset-v1/video/v1-b3-santa-hb.mp4
+SHA1-Digest: eH7dOWlwBRkH7FqecJlx6CG1y54=
+
+
+Name: assets/www/asset-v2/anime/beat1_boom-sprite-hd.png
+SHA1-Digest: dbwoPzmLmkvX8zYAGklF6NZC3dc=
+
+
+Name: assets/www/asset-v2/anime/beat1_boom-sprite-mini.png
+SHA1-Digest: z7/dN5f1e/XH2vU75qTXwW9gTWs=
+
+
+Name: assets/www/asset-v2/anime/beat1_boom-sprite.png
+SHA1-Digest: 6Vo2rNKuRSsTU3ts4y40bW4V4/Y=
+
+
+Name: assets/www/asset-v2/anime/beat1_boom.json
+SHA1-Digest: EoA6jVwcpTiRbfhzGQW3rqfdSbg=
+
+
+Name: assets/www/asset-v2/anime/beat2_kashi-sprite-hd.png
+SHA1-Digest: O5Buc7ynBcUGBua3h7SHbYWYj/Q=
+
+
+Name: assets/www/asset-v2/anime/beat2_kashi-sprite-mini.png
+SHA1-Digest: CRp4zqc/ujiYdsXKkF8fkjnGnGI=
+
+
+Name: assets/www/asset-v2/anime/beat2_kashi-sprite.png
+SHA1-Digest: hWkYCC2drgFkgdvddmQa0+Y4pQ4=
+
+
+Name: assets/www/asset-v2/anime/beat2_kashi.json
+SHA1-Digest: yBTjn5LXm73Jo0p60bNx81l58s8=
+
+
+Name: assets/www/asset-v2/anime/beat3_paomeu-sprite-hd.png
+SHA1-Digest: 57q7xQF/B95ddpop0OdWrbWflZI=
+
+
+Name: assets/www/asset-v2/anime/beat3_paomeu-sprite-mini.png
+SHA1-Digest: oYlCY9gASX0veqGlR6HUAIRqv68=
+
+
+Name: assets/www/asset-v2/anime/beat3_paomeu-sprite.png
+SHA1-Digest: NHHn1Op6k0YLmnJs2SbfQCynxOQ=
+
+
+Name: assets/www/asset-v2/anime/beat3_paomeu.json
+SHA1-Digest: 3u3Zes0n0ZfKYYEk6+TaMhgL2jk=
+
+
+Name: assets/www/asset-v2/anime/beat4_ptttpeu-sprite-hd.png
+SHA1-Digest: Gh1jHaLPpPWCbMl1A+xuHhnJpeI=
+
+
+Name: assets/www/asset-v2/anime/beat4_ptttpeu-sprite-mini.png
+SHA1-Digest: t4vTCa9RFjZtLwjOtx4dh6sps0o=
+
+
+Name: assets/www/asset-v2/anime/beat4_ptttpeu-sprite.png
+SHA1-Digest: jsPL8Abn4qUQHDQC+k6WTdxdLsE=
+
+
+Name: assets/www/asset-v2/anime/beat4_ptttpeu.json
+SHA1-Digest: +7yU6PVecoK+RUhWwIaUiswshq8=
+
+
+Name: assets/www/asset-v2/anime/beat5_slupttt-sprite-hd.png
+SHA1-Digest: T+U4lDdKE4USTaIL2RkL1OoVOmQ=
+
+
+Name: assets/www/asset-v2/anime/beat5_slupttt-sprite-mini.png
+SHA1-Digest: qq/QG7tjhsZScwU7F1PUWShkyUQ=
+
+
+Name: assets/www/asset-v2/anime/beat5_slupttt-sprite.png
+SHA1-Digest: hKvXw3fHEHyLaJvWZgwWkpQMcmA=
+
+
+Name: assets/www/asset-v2/anime/beat5_slupttt.json
+SHA1-Digest: EJUwzKtwXJVxV0KGUodShezWwzE=
+
+
+Name: assets/www/asset-v2/anime/coeur1_oaaah-sprite-hd.png
+SHA1-Digest: ygh++4kD0G1WjhINE42WbK4i9uY=
+
+
+Name: assets/www/asset-v2/anime/coeur1_oaaah-sprite-mini.png
+SHA1-Digest: RaPIMRXa4icEkP3m/rWepeZF/4Y=
+
+
+Name: assets/www/asset-v2/anime/coeur1_oaaah-sprite.png
+SHA1-Digest: tCjoKnEfHLpbDaYG6N2SC3G5lEw=
+
+
+Name: assets/www/asset-v2/anime/coeur1_oaaah.json
+SHA1-Digest: 52xpBeLWQOQ/7LA+fSbT1TxiNhs=
+
+
+Name: assets/www/asset-v2/anime/coeur2_cougou-sprite-hd.png
+SHA1-Digest: 9NpitMw75x4QRROdjaY/KuTgzX4=
+
+
+Name: assets/www/asset-v2/anime/coeur2_cougou-sprite-mini.png
+SHA1-Digest: 4+PbIY2NCiwZgcJlhejHe/T2Jb4=
+
+
+Name: assets/www/asset-v2/anime/coeur2_cougou-sprite.png
+SHA1-Digest: CWCmIDTtZ8QKtuCCqc5U40GoaT4=
+
+
+Name: assets/www/asset-v2/anime/coeur2_cougou.json
+SHA1-Digest: TYd/HejfKLoHYW3ixEBkH2AJpsU=
+
+
+Name: assets/www/asset-v2/anime/coeur3_porticoeur-sprite-hd.png
+SHA1-Digest: yuEwt7RvXvN059vgDVIrBxpsacY=
+
+
+Name: assets/www/asset-v2/anime/coeur3_porticoeur-sprite-mini.png
+SHA1-Digest: hCVSE9vlzeuiC9a7epY56unCfBQ=
+
+
+Name: assets/www/asset-v2/anime/coeur3_porticoeur-sprite.png
+SHA1-Digest: ft09i+BrBrYTf3acTYBR5tmCTQo=
+
+
+Name: assets/www/asset-v2/anime/coeur3_porticoeur.json
+SHA1-Digest: jwLmGqxz+qipMZ6aLOLu/W5agLE=
+
+
+Name: assets/www/asset-v2/anime/effet1_poulll-sprite-hd.png
+SHA1-Digest: KcbMmgNaccgbbMb4aJ3e8KNUsl0=
+
+
+Name: assets/www/asset-v2/anime/effet1_poulll-sprite-mini.png
+SHA1-Digest: KwBNDeckbaHFmBfxWKeKtv9mV54=
+
+
+Name: assets/www/asset-v2/anime/effet1_poulll-sprite.png
+SHA1-Digest: abwyrmd64s+ifSmfgixV+apL3PE=
+
+
+Name: assets/www/asset-v2/anime/effet1_poulll.json
+SHA1-Digest: 0VCljdusuyZdbb6NLzgpMHCKNCg=
+
+
+Name: assets/www/asset-v2/anime/effet2_tucati-sprite-hd.png
+SHA1-Digest: EFreoAqr3oYVLMdCD2SPtKdNYJI=
+
+
+Name: assets/www/asset-v2/anime/effet2_tucati-sprite-mini.png
+SHA1-Digest: qzDtKyrac40XpoV4Epfiv17Q3Zg=
+
+
+Name: assets/www/asset-v2/anime/effet2_tucati-sprite.png
+SHA1-Digest: cuKOKU/pBa+NYQtxz0iM8RrWj/I=
+
+
+Name: assets/www/asset-v2/anime/effet2_tucati.json
+SHA1-Digest: M8OAOwj3s6UWAvQmHVpYjCPN+cw=
+
+
+Name: assets/www/asset-v2/anime/effet3_tuilopta-sprite-hd.png
+SHA1-Digest: DJru2MG6VLRVG04Sr8YW5pNaPew=
+
+
+Name: assets/www/asset-v2/anime/effet3_tuilopta-sprite-mini.png
+SHA1-Digest: IBHvWZSR7XGo6AVJyL3HEdiDtSg=
+
+
+Name: assets/www/asset-v2/anime/effet3_tuilopta-sprite.png
+SHA1-Digest: FJ4hxS6B8FTa6qw5S8I5libo2M8=
+
+
+Name: assets/www/asset-v2/anime/effet3_tuilopta.json
+SHA1-Digest: rrjc+T791xa5Ee0nReNVRDKi4Xs=
+
+
+Name: assets/www/asset-v2/anime/effet4_tululou-sprite-hd.png
+SHA1-Digest: 0GDFzpqeIPAHo2cKlSyf48t7x5Q=
+
+
+Name: assets/www/asset-v2/anime/effet4_tululou-sprite-mini.png
+SHA1-Digest: qXSCeK0ITdBplwZTCAVjeO1VtDk=
+
+
+Name: assets/www/asset-v2/anime/effet4_tululou-sprite.png
+SHA1-Digest: iQJ5Y9cxGdTNUtL+yPAgYcZra5A=
+
+
+Name: assets/www/asset-v2/anime/effet4_tululou.json
+SHA1-Digest: SMr6g7lk7U5A6Rx7GyfG6RY8dOw=
+
+
+Name: assets/www/asset-v2/anime/effet5_tumttt-sprite-hd.png
+SHA1-Digest: DSLvASgoFV9HwdK6wGTtKj7jkf4=
+
+
+Name: assets/www/asset-v2/anime/effet5_tumttt-sprite-mini.png
+SHA1-Digest: HCTN5JZX8hw8+r8R7faABA+bLgc=
+
+
+Name: assets/www/asset-v2/anime/effet5_tumttt-sprite.png
+SHA1-Digest: FpAWtxZgIeqFWopHvN1vkNeBaj0=
+
+
+Name: assets/www/asset-v2/anime/effet5_tumttt.json
+SHA1-Digest: Rk8G9QNgMn/6+frH6G0dcfZlSdE=
+
+
+Name: assets/www/asset-v2/anime/melo1_nananana-sprite-hd.png
+SHA1-Digest: eNsxfAcCtRgEALgKIM+RmQrUks0=
+
+
+Name: assets/www/asset-v2/anime/melo1_nananana-sprite-mini.png
+SHA1-Digest: y1FFHlPgbsZkZ6zS79rSNj1Zhvs=
+
+
+Name: assets/www/asset-v2/anime/melo1_nananana-sprite.png
+SHA1-Digest: tuxqq8pt2thWGVUBvwVAl+LGP10=
+
+
+Name: assets/www/asset-v2/anime/melo1_nananana.json
+SHA1-Digest: 3pDpsu8anp8QvriR4FHS2arac+w=
+
+
+Name: assets/www/asset-v2/anime/melo2_pelulu-sprite-hd.png
+SHA1-Digest: bYc6gtN8Mc66g/FOOFeLDIVhVRY=
+
+
+Name: assets/www/asset-v2/anime/melo2_pelulu-sprite-mini.png
+SHA1-Digest: CYdjQxS2PNFOfBX1Q0y2P3Mo2B0=
+
+
+Name: assets/www/asset-v2/anime/melo2_pelulu-sprite.png
+SHA1-Digest: /J2VFOYXdM42h7//SLVOeelwQGQ=
+
+
+Name: assets/www/asset-v2/anime/melo2_pelulu.json
+SHA1-Digest: cXvAwzbrjNkJjCKBgXGHHjvoZ2k=
+
+
+Name: assets/www/asset-v2/anime/melo3_siffle-sprite-hd.png
+SHA1-Digest: aQkMOhID1KIl5Sy9VEfvZBrhyd4=
+
+
+Name: assets/www/asset-v2/anime/melo3_siffle-sprite-mini.png
+SHA1-Digest: Le+rkZK+wMLd6Pk4WhTc3V272hY=
+
+
+Name: assets/www/asset-v2/anime/melo3_siffle-sprite.png
+SHA1-Digest: RqPsi2Puq2dnA/AgFS2KyktYRLo=
+
+
+Name: assets/www/asset-v2/anime/melo3_siffle.json
+SHA1-Digest: LFQARbjBxaAapzsAhW4SNpl2LeU=
+
+
+Name: assets/www/asset-v2/anime/melo4_tatouti-sprite-hd.png
+SHA1-Digest: 07LN6WQ8ZYmRttAfTfZ5NUYxcx0=
+
+
+Name: assets/www/asset-v2/anime/melo4_tatouti-sprite-mini.png
+SHA1-Digest: S8Z4Qum8q5d9yl/XGsoiwEMTkeo=
+
+
+Name: assets/www/asset-v2/anime/melo4_tatouti-sprite.png
+SHA1-Digest: hIUe/bsknChXpkqDm0h3MxNkp9w=
+
+
+Name: assets/www/asset-v2/anime/melo4_tatouti.json
+SHA1-Digest: Yof0n4Iuq8JcWaCjSUVgt4dxHOc=
+
+
+Name: assets/www/asset-v2/anime/melo5_tvutvutvu-sprite-hd.png
+SHA1-Digest: 2Da0Ibu5x11ccMjUm16umpCQUK4=
+
+
+Name: assets/www/asset-v2/anime/melo5_tvutvutvu-sprite-mini.png
+SHA1-Digest: eh01YJjE8Foo5Ml1PaePn/hbYJw=
+
+
+Name: assets/www/asset-v2/anime/melo5_tvutvutvu-sprite.png
+SHA1-Digest: KyYi7gHQ2oxpfrx6FvrERV2Pj4w=
+
+
+Name: assets/www/asset-v2/anime/melo5_tvutvutvu.json
+SHA1-Digest: StR0aPfP1NNPa9Meec8WZZh+kYA=
+
+
+Name: assets/www/asset-v2/anime/voix1_isit-sprite-hd.png
+SHA1-Digest: 32xgKR3CO0UL/QefqfqZJ6ihKwk=
+
+
+Name: assets/www/asset-v2/anime/voix1_isit-sprite-mini.png
+SHA1-Digest: zZnOenpLJwfo8xoCHY6x0NIr4R4=
+
+
+Name: assets/www/asset-v2/anime/voix1_isit-sprite.png
+SHA1-Digest: rfgN3PsFWe/8kkA3YHtQN/qUAT8=
+
+
+Name: assets/www/asset-v2/anime/voix1_isit.json
+SHA1-Digest: zIjq1fxvyEHIf1C7Bw6NH/kqyBk=
+
+
+Name: assets/www/asset-v2/anime/voix2_uare-sprite-hd.png
+SHA1-Digest: rrIZ1f2DoOKlZghM3W8t4ltRW+U=
+
+
+Name: assets/www/asset-v2/anime/voix2_uare-sprite-mini.png
+SHA1-Digest: NszskOohYAPUZFEvVbsVCBFJ1SM=
+
+
+Name: assets/www/asset-v2/anime/voix2_uare-sprite.png
+SHA1-Digest: TDcMeiR5yJMRUsbtMMrx7JJk6f8=
+
+
+Name: assets/www/asset-v2/anime/voix2_uare.json
+SHA1-Digest: qrLOALZajyROE1+MDkgmz7W4DNQ=
+
+
+Name: assets/www/asset-v2/app.js
+SHA1-Digest: 5ekPs8Ujf4hAaV2Zaf0jDEz9/78=
+
+
+Name: assets/www/asset-v2/img/game-bck-hd.jpg
+SHA1-Digest: hgcAdAOf9Z2kohdzBkwBJNHZF2M=
+
+
+Name: assets/www/asset-v2/img/game-bck.jpg
+SHA1-Digest: pGqj+38auTi9p68TZOplte9rqIA=
+
+
+Name: assets/www/asset-v2/img/game-picto-hd.png
+SHA1-Digest: fbSmSVGsTBUFtzs7TbsjdBsN+AY=
+
+
+Name: assets/www/asset-v2/img/game-picto.png
+SHA1-Digest: DVfD4P36wIQAxCPW/Qv/JCsZEhU=
+
+
+Name: assets/www/asset-v2/img/home-titre-expo-hd.png
+SHA1-Digest: jFkdRiRXD3Ah/vXyZ/o4KW5Q5ic=
+
+
+Name: assets/www/asset-v2/img/home-titre-expo.png
+SHA1-Digest: SLBMFViQLKVP2SMEFuRMFkUYkTE=
+
+
+Name: assets/www/asset-v2/img/home-titre-hd.png
+SHA1-Digest: M1tNShrP5WCVV1EQZa81JWynLLk=
+
+
+Name: assets/www/asset-v2/img/home-titre.png
+SHA1-Digest: q3AjRzbTtNB8sfQfPefDHVnW3PM=
+
+
+Name: assets/www/asset-v2/img/home-version-hd.png
+SHA1-Digest: WeV9GgVw7YVc5NLioQTtRkCRihQ=
+
+
+Name: assets/www/asset-v2/img/home-version.png
+SHA1-Digest: B14NIfMwdXA+VSrvos7/b3rEItc=
+
+
+Name: assets/www/asset-v2/img/polo-sprite-hd.png
+SHA1-Digest: EUwOsTHJvVaJSm+H/9rw1s94LBI=
+
+
+Name: assets/www/asset-v2/img/polo-sprite-mini.png
+SHA1-Digest: SvY2lmnMpqzvMYMurdpoAsrsM48=
+
+
+Name: assets/www/asset-v2/img/polo-sprite.png
+SHA1-Digest: qZfmmwjrPJxlNOmXqfuR9pDmsXQ=
+
+
+Name: assets/www/asset-v2/sound/ogg/aspire.ogg
+SHA1-Digest: WfhK9izNwXUiZuoqCLTXYnNFWJg=
+
+
+Name: assets/www/asset-v2/sound/ogg/beat1_boom_a.ogg
+SHA1-Digest: VXL5WyZI6+Ben89hti8tCyvQyn8=
+
+
+Name: assets/www/asset-v2/sound/ogg/beat1_boom_b.ogg
+SHA1-Digest: vPiG53OwECVIO3VG0xmo8JdX6/E=
+
+
+Name: assets/www/asset-v2/sound/ogg/beat2_kashi_a.ogg
+SHA1-Digest: 3n1ouXJ7t9UE80o3lVn7g8iXcDQ=
+
+
+Name: assets/www/asset-v2/sound/ogg/beat2_kashi_b.ogg
+SHA1-Digest: eevpruh5dnoDS/5qrIn6sNqEcyQ=
+
+
+Name: assets/www/asset-v2/sound/ogg/beat3_paomeu_a.ogg
+SHA1-Digest: EwhrVpXdvSvVHOYNMFEhYYqcTvA=
+
+
+Name: assets/www/asset-v2/sound/ogg/beat4_ptttpeu_a.ogg
+SHA1-Digest: 4UnjOPhTvr89hASMStf5EY1CwR8=
+
+
+Name: assets/www/asset-v2/sound/ogg/beat4_ptttpeu_b.ogg
+SHA1-Digest: WcN8Wx5EEJAX2avetn7zNxaHA/U=
+
+
+Name: assets/www/asset-v2/sound/ogg/beat5_slupttt_a.ogg
+SHA1-Digest: G2qB5AIGukaypM9QNIUdFMTWE4Y=
+
+
+Name: assets/www/asset-v2/sound/ogg/bonus-miss.ogg
+SHA1-Digest: /OpFsVF5SXoSg54jxFFo4uIIPeU=
+
+
+Name: assets/www/asset-v2/sound/ogg/bonus-satisfy.ogg
+SHA1-Digest: JViDynSzX9lQXOZNu9Ci1l1Bqc8=
+
+
+Name: assets/www/asset-v2/sound/ogg/bonus-world.ogg
+SHA1-Digest: 02/twoT8l31oT96F7+Qabw61qqg=
+
+
+Name: assets/www/asset-v2/sound/ogg/coeur1_oaaah_a.ogg
+SHA1-Digest: r7jzDnFNmznPnONzhhIszeJRZ08=
+
+
+Name: assets/www/asset-v2/sound/ogg/coeur1_oaaah_b.ogg
+SHA1-Digest: bQVK5/7G0YHIErph38UhEJDdkPY=
+
+
+Name: assets/www/asset-v2/sound/ogg/coeur2_cougou_a.ogg
+SHA1-Digest: 3D4+g0kKwYfCDq4n56LPvYjZSQA=
+
+
+Name: assets/www/asset-v2/sound/ogg/coeur2_cougou_b.ogg
+SHA1-Digest: FGU4xPCBb1aKOunoVIYjR4cGVRY=
+
+
+Name: assets/www/asset-v2/sound/ogg/coeur3_porticoeur_a.ogg
+SHA1-Digest: mneUSC4walIjqNnffwJLz/6yOSE=
+
+
+Name: assets/www/asset-v2/sound/ogg/coeur3_porticoeur_b.ogg
+SHA1-Digest: EvsFaW2OphVRWyU7mPCUYiDs1pk=
+
+
+Name: assets/www/asset-v2/sound/ogg/effet1_poulll_a.ogg
+SHA1-Digest: R87PefqZ0RVyi0kF5rRJc1vxjI4=
+
+
+Name: assets/www/asset-v2/sound/ogg/effet1_poulll_b.ogg
+SHA1-Digest: EqKo7bcyI3eQHNCWfmC36ooi4PQ=
+
+
+Name: assets/www/asset-v2/sound/ogg/effet2_tucati_a.ogg
+SHA1-Digest: EXwUZotKhkjhe86Wk8cvmjtgy+o=
+
+
+Name: assets/www/asset-v2/sound/ogg/effet3_tuilopta_a.ogg
+SHA1-Digest: H/tOVWNTkC5d/ElYu32rC2x9bSk=
+
+
+Name: assets/www/asset-v2/sound/ogg/effet3_tuilopta_b.ogg
+SHA1-Digest: /2dAXZMNB8+rKL8gQuW03OsQpO0=
+
+
+Name: assets/www/asset-v2/sound/ogg/effet4_tululou_a.ogg
+SHA1-Digest: Ykxmu5yOLuXES2bJzybNYlAhEys=
+
+
+Name: assets/www/asset-v2/sound/ogg/effet5_tumttt_a.ogg
+SHA1-Digest: vhe3V4vQ8uAc1wWsUXKHSETHErw=
+
+
+Name: assets/www/asset-v2/sound/ogg/effet5_tumttt_b.ogg
+SHA1-Digest: nhPj4LrT7hR8t5gkt8Kbee/r06A=
+
+
+Name: assets/www/asset-v2/sound/ogg/melo1_nananana_a.ogg
+SHA1-Digest: 1EtEz+AqbHA/2HHR7tW/I6QWqVQ=
+
+
+Name: assets/www/asset-v2/sound/ogg/melo1_nananana_b.ogg
+SHA1-Digest: mf1KVlmdFNlnqsKaIPpjeWhSDoY=
+
+
+Name: assets/www/asset-v2/sound/ogg/melo2_pelulu_a.ogg
+SHA1-Digest: qXELzkaES2SDRQ0DkKsQZisqNwE=
+
+
+Name: assets/www/asset-v2/sound/ogg/melo2_pelulu_b.ogg
+SHA1-Digest: 55IcB3BkyTp8y4FVUzcErnNS3TY=
+
+
+Name: assets/www/asset-v2/sound/ogg/melo3_siffle_a.ogg
+SHA1-Digest: eRk6Pn0gudB3f1lJb+W7haHi5gA=
+
+
+Name: assets/www/asset-v2/sound/ogg/melo3_siffle_b.ogg
+SHA1-Digest: wqXLUwMYoeUyoGrZ6/p6lZLk9kw=
+
+
+Name: assets/www/asset-v2/sound/ogg/melo4_tatouti_a.ogg
+SHA1-Digest: facvRWK7ztjS651d6HskFW9mlQI=
+
+
+Name: assets/www/asset-v2/sound/ogg/melo4_tatouti_b.ogg
+SHA1-Digest: jRXfQ4pHCODeNFmfjjM2cb4oGb4=
+
+
+Name: assets/www/asset-v2/sound/ogg/melo5_tvutvutvu_a.ogg
+SHA1-Digest: Mxmwy6jC3G0iWWGWS2n3iRqRarA=
+
+
+Name: assets/www/asset-v2/sound/ogg/melo5_tvutvutvu_b.ogg
+SHA1-Digest: RDUwCrEE0fbWMJySOvPg+SbJE8E=
+
+
+Name: assets/www/asset-v2/sound/ogg/voix1_isit_a.ogg
+SHA1-Digest: Ltr5nURfTfgkLWtuwGUX1wV1CUg=
+
+
+Name: assets/www/asset-v2/sound/ogg/voix1_isit_b.ogg
+SHA1-Digest: TYLQ5aD2pe8HxfZRq3ciTuZ0ETc=
+
+
+Name: assets/www/asset-v2/sound/ogg/voix2_uare_a.ogg
+SHA1-Digest: ped8tw/mQLZL04xp1LzUYacZ68Y=
+
+
+Name: assets/www/asset-v2/sound/ogg/voix2_uare_b.ogg
+SHA1-Digest: 4mJfLwqV4uI5CVDWjxkBdxteMCQ=
+
+
+Name: assets/www/asset-v2/splash/big-homescreen-hd.jpg
+SHA1-Digest: NsaWbyPfBCiiMFdikwB10CZRIpc=
+
+
+Name: assets/www/asset-v2/splash/big-homescreen.jpg
+SHA1-Digest: 3jaOGTquenLhEL8o1P9LFFU+IlM=
+
+
+Name: assets/www/asset-v2/splash/homescreen-expo.jpg
+SHA1-Digest: CE4aWYW/93P3poAzNzR8MtXL3Vs=
+
+
+Name: assets/www/asset-v2/splash/homescreen-hd.jpg
+SHA1-Digest: zXkVI3D6X0yPKRFJGXLmdikwaN4=
+
+
+Name: assets/www/asset-v2/splash/homescreen.jpg
+SHA1-Digest: pOvJGwSZ8M30iuGRV8mIiNwhgL4=
+
+
+Name: assets/www/asset-v2/video/v2-b1-bck.jpg
+SHA1-Digest: OotfPZqlzt09+ezxejz/5Y6y9WE=
+
+
+Name: assets/www/asset-v2/video/v2-b1-satisfy-hb-hd.mp4
+SHA1-Digest: lH8qm1mNYxt9elvyZyXIjOe6UT4=
+
+
+Name: assets/www/asset-v2/video/v2-b1-satisfy-hb-mini.mp4
+SHA1-Digest: /xfx7K9LiEs2I2IEsCyo/idmzIY=
+
+
+Name: assets/www/asset-v2/video/v2-b1-satisfy-hb.mp4
+SHA1-Digest: TWY2EcK2lM0yz54jeoPeC9E9Pxc=
+
+
+Name: assets/www/asset-v2/video/v2-b2-bck.jpg
+SHA1-Digest: 0mUToKJFMZKjKGML5Z6Hqf33IVM=
+
+
+Name: assets/www/asset-v2/video/v2-b2-miss-hb-hd.mp4
+SHA1-Digest: GkIMuT7ry+z1+7EXbOatb/WY/yI=
+
+
+Name: assets/www/asset-v2/video/v2-b2-miss-hb-mini.mp4
+SHA1-Digest: zCsUpzWSj1s3+q8/OvFHZJmIVdA=
+
+
+Name: assets/www/asset-v2/video/v2-b2-miss-hb.mp4
+SHA1-Digest: AEwwBNRLtiGNdXSRxK3ab+YGPZM=
+
+
+Name: assets/www/asset-v2/video/v2-b3-bck.jpg
+SHA1-Digest: 4AduG6GCer1eOmJ/lK1YHQiysc4=
+
+
+Name: assets/www/asset-v2/video/v2-b3-world-hb-hd.mp4
+SHA1-Digest: L5IX9Lp4PzNiYyecOvYz/0DOGUQ=
+
+
+Name: assets/www/asset-v2/video/v2-b3-world-hb-mini.mp4
+SHA1-Digest: IVb/BOUxxSmObS2ap+6ezBYS5NU=
+
+
+Name: assets/www/asset-v2/video/v2-b3-world-hb.mp4
+SHA1-Digest: 9qIdiWJ2zzHaK1ONi0GuRVXSHzg=
+
+
+Name: assets/www/asset-v3/anime/drum1_ballet-sprite-hd.png
+SHA1-Digest: UmTLvRaNn1J8cTnyI3TwncRE2Q8=
+
+
+Name: assets/www/asset-v3/anime/drum1_ballet-sprite-mini.png
+SHA1-Digest: HGZ+17t6/C+5+diLHYJXJ0OX5c8=
+
+
+Name: assets/www/asset-v3/anime/drum1_ballet-sprite.png
+SHA1-Digest: XpJtVRxh9i7K9n92rSGH/LLBp7I=
+
+
+Name: assets/www/asset-v3/anime/drum1_ballet.json
+SHA1-Digest: O0Ccs1C5qRtvYBpopa/i128kxws=
+
+
+Name: assets/www/asset-v3/anime/drum2_kick-sprite-hd.png
+SHA1-Digest: HT2XbWcoU3WHsoX6KZeuO7BnZU8=
+
+
+Name: assets/www/asset-v3/anime/drum2_kick-sprite-mini.png
+SHA1-Digest: hWA14k4F8kW7rPoBA9VM22ysfZA=
+
+
+Name: assets/www/asset-v3/anime/drum2_kick-sprite.png
+SHA1-Digest: D0ezuXypeXaQmsvumEZOdG+HY9w=
+
+
+Name: assets/www/asset-v3/anime/drum2_kick.json
+SHA1-Digest: tNtaexZ90z9cZGCIcocXt1S++zA=
+
+
+Name: assets/www/asset-v3/anime/drum3_snare-sprite-hd.png
+SHA1-Digest: Phk2jHaPj3qXG9+lBQzNDfoj8iA=
+
+
+Name: assets/www/asset-v3/anime/drum3_snare-sprite-mini.png
+SHA1-Digest: GbThjpsvagXZWslYChTWB1/9UzE=
+
+
+Name: assets/www/asset-v3/anime/drum3_snare-sprite.png
+SHA1-Digest: vpeaP9zupYGH4GEkAk9+Ory8bAk=
+
+
+Name: assets/www/asset-v3/anime/drum3_snare.json
+SHA1-Digest: AMmG3lu20QhU5Jm4dq+A8IYOWOg=
+
+
+Name: assets/www/asset-v3/anime/drum4_lead-sprite-hd.png
+SHA1-Digest: jOJMXL+jMN7JU0Qh1t70aRQDRg4=
+
+
+Name: assets/www/asset-v3/anime/drum4_lead-sprite-mini.png
+SHA1-Digest: oCgzKL1zjvjhjZFAv2pcL+ladno=
+
+
+Name: assets/www/asset-v3/anime/drum4_lead-sprite.png
+SHA1-Digest: ZVdmmXdEScYvWlmn8RTIOGxGOSA=
+
+
+Name: assets/www/asset-v3/anime/drum4_lead.json
+SHA1-Digest: vJATYXHwjDA9u3V/Zv0T2yHZREQ=
+
+
+Name: assets/www/asset-v3/anime/drum5_charley-sprite-hd.png
+SHA1-Digest: vV+0ZTZqQCSmdCRClcYfm9tDQgQ=
+
+
+Name: assets/www/asset-v3/anime/drum5_charley-sprite-mini.png
+SHA1-Digest: lDFMopT/dVslFbxDfIw1GVW/x4k=
+
+
+Name: assets/www/asset-v3/anime/drum5_charley-sprite.png
+SHA1-Digest: UYO1IkWxoZwavuAqqttA5GghXF0=
+
+
+Name: assets/www/asset-v3/anime/drum5_charley.json
+SHA1-Digest: iuaFuUS9NpUMCWODrnZdO2FJxq4=
+
+
+Name: assets/www/asset-v3/anime/effet1_long-sprite-hd.png
+SHA1-Digest: Nw5YwahPKdbClvsklbKcK/6nK20=
+
+
+Name: assets/www/asset-v3/anime/effet1_long-sprite-mini.png
+SHA1-Digest: syj6O5ibB8kUgNZkLbUECOfbFhg=
+
+
+Name: assets/www/asset-v3/anime/effet1_long-sprite.png
+SHA1-Digest: UrWinjygeAD65CRWZIhK67pAeHI=
+
+
+Name: assets/www/asset-v3/anime/effet1_long.json
+SHA1-Digest: Gb2HAcjKMhOxlXq3NT2qDpn6M/o=
+
+
+Name: assets/www/asset-v3/anime/effet2_daft1-sprite-hd.png
+SHA1-Digest: 07I4CeiILhQVv0vDw+PCP1PJmAU=
+
+
+Name: assets/www/asset-v3/anime/effet2_daft1-sprite-mini.png
+SHA1-Digest: aKD3K1ON088jhunGTiskuYexsXU=
+
+
+Name: assets/www/asset-v3/anime/effet2_daft1-sprite.png
+SHA1-Digest: Eg+2qdr31dwzkWHf1MRR97dLa2o=
+
+
+Name: assets/www/asset-v3/anime/effet2_daft1.json
+SHA1-Digest: 3FfT6sXhO9w2ZlrU22D0NLuXIHc=
+
+
+Name: assets/www/asset-v3/anime/effet3_tududu-sprite-hd.png
+SHA1-Digest: pR0AjxdcZdOfiug3SWRMaZ5lN40=
+
+
+Name: assets/www/asset-v3/anime/effet3_tududu-sprite-mini.png
+SHA1-Digest: Iw84RWfAZ3+gabRi8CzoTQy63uk=
+
+
+Name: assets/www/asset-v3/anime/effet3_tududu-sprite.png
+SHA1-Digest: c9e2hCavC2Tmh1QA7fjg5jDxxto=
+
+
+Name: assets/www/asset-v3/anime/effet3_tududu.json
+SHA1-Digest: tF3OHkVBj8Xfb6v71xFRnIdxXsQ=
+
+
+Name: assets/www/asset-v3/anime/effet4_daft2-sprite-hd.png
+SHA1-Digest: tzwYirSV6+4+k5iT8PZbLFyV5vM=
+
+
+Name: assets/www/asset-v3/anime/effet4_daft2-sprite-mini.png
+SHA1-Digest: Td+9fvMqq4BT/rzjZ1EsRHUvcis=
+
+
+Name: assets/www/asset-v3/anime/effet4_daft2-sprite.png
+SHA1-Digest: 22dKq3j37RkuqagfGKXByPDhPVA=
+
+
+Name: assets/www/asset-v3/anime/effet4_daft2.json
+SHA1-Digest: 07zapFAxtak9WSnypldGT/LW260=
+
+
+Name: assets/www/asset-v3/anime/effet5_rythme-sprite-hd.png
+SHA1-Digest: NoFMzbiDCxU68Q/9514H5PmGuC0=
+
+
+Name: assets/www/asset-v3/anime/effet5_rythme-sprite-mini.png
+SHA1-Digest: P+DB1m1iHkmphFadgHbWyZmWu3o=
+
+
+Name: assets/www/asset-v3/anime/effet5_rythme-sprite.png
+SHA1-Digest: LQSjdkHliN9S67v9CJm3HDRrSIo=
+
+
+Name: assets/www/asset-v3/anime/effet5_rythme.json
+SHA1-Digest: bSS84T9OYFJNMGeonZCH1bHdhqc=
+
+
+Name: assets/www/asset-v3/anime/melo1_tuu-sprite-hd.png
+SHA1-Digest: sZgQBLOk+t3c4ffuYIeEr5/iA6I=
+
+
+Name: assets/www/asset-v3/anime/melo1_tuu-sprite-mini.png
+SHA1-Digest: keT5EzKSEkporZmDVE9b8d/9qwg=
+
+
+Name: assets/www/asset-v3/anime/melo1_tuu-sprite.png
+SHA1-Digest: 3nJ2Dbd2DNtQQls1s5LVTY4fzHE=
+
+
+Name: assets/www/asset-v3/anime/melo1_tuu.json
+SHA1-Digest: 8O7nbtttfi964J53G+FEPGE3ZAQ=
+
+
+Name: assets/www/asset-v3/anime/melo2_indien-sprite-hd.png
+SHA1-Digest: Wxq4+hK2jlgWm0nIQPO3S1cQVF0=
+
+
+Name: assets/www/asset-v3/anime/melo2_indien-sprite-mini.png
+SHA1-Digest: KWVVGAq4BGEKSKRSeey2Sl8sjWs=
+
+
+Name: assets/www/asset-v3/anime/melo2_indien-sprite.png
+SHA1-Digest: 2CfpIcbIpDJ3o3Zk+L1O0ZbJ5us=
+
+
+Name: assets/www/asset-v3/anime/melo2_indien.json
+SHA1-Digest: 83Ow31k2Z6C03DfnworooWhjwG8=
+
+
+Name: assets/www/asset-v3/anime/melo3_armo-sprite-hd.png
+SHA1-Digest: o7/ftCz0bqMEJ6CGSZfOTuuwQ9o=
+
+
+Name: assets/www/asset-v3/anime/melo3_armo-sprite-mini.png
+SHA1-Digest: J5I2ZKM6tNj2CKr6f2AaNCXLxHM=
+
+
+Name: assets/www/asset-v3/anime/melo3_armo-sprite.png
+SHA1-Digest: hFfGuizW54SQy8g0kNPzc/agwCU=
+
+
+Name: assets/www/asset-v3/anime/melo3_armo.json
+SHA1-Digest: NZamQSqrgq5nacCARdgCSqUyci4=
+
+
+Name: assets/www/asset-v3/anime/melo4_clav-sprite-hd.png
+SHA1-Digest: uuSH/+fH4QSnoKPniIog2Y+FSgs=
+
+
+Name: assets/www/asset-v3/anime/melo4_clav-sprite-mini.png
+SHA1-Digest: d/PUv9DBAagEL8rOx7u9FZN6dF0=
+
+
+Name: assets/www/asset-v3/anime/melo4_clav-sprite.png
+SHA1-Digest: YtFFi0okBX0TmbXMlcohN0UuxX8=
+
+
+Name: assets/www/asset-v3/anime/melo4_clav.json
+SHA1-Digest: pgZqEugNkx6RwaRSJPRH5Vb52fw=
+
+
+Name: assets/www/asset-v3/anime/melo5_siffle-sprite-hd.png
+SHA1-Digest: PvH3tDW0SepMxZor1J1IU2b/MXY=
+
+
+Name: assets/www/asset-v3/anime/melo5_siffle-sprite-mini.png
+SHA1-Digest: T3tUtTrghN9gWS64kWuLvquGieQ=
+
+
+Name: assets/www/asset-v3/anime/melo5_siffle-sprite.png
+SHA1-Digest: /kPHoalqHoxKpMc7TLaqV/bMlHM=
+
+
+Name: assets/www/asset-v3/anime/melo5_siffle.json
+SHA1-Digest: 13cGua74ajCeN80qqYJ8m+z+qYI=
+
+
+Name: assets/www/asset-v3/anime/voix1_waya-sprite-hd.png
+SHA1-Digest: FWCzzZKiBy7NVStLrg7izb5yCEM=
+
+
+Name: assets/www/asset-v3/anime/voix1_waya-sprite-mini.png
+SHA1-Digest: gpgQvUO6XVVkHsgLK73DQNxlcco=
+
+
+Name: assets/www/asset-v3/anime/voix1_waya-sprite.png
+SHA1-Digest: YnlN9ZKwSGKtvRjU7u8nBjwR4gY=
+
+
+Name: assets/www/asset-v3/anime/voix1_waya.json
+SHA1-Digest: g6LMNWwfVMclH4YmJ5cbkyBsLpE=
+
+
+Name: assets/www/asset-v3/anime/voix2_ride-sprite-hd.png
+SHA1-Digest: adWtK+odOe0uBxJMUzZEfyyKLbk=
+
+
+Name: assets/www/asset-v3/anime/voix2_ride-sprite-mini.png
+SHA1-Digest: HjNJ+3dCC1XigeABKwAe48eiXnc=
+
+
+Name: assets/www/asset-v3/anime/voix2_ride-sprite.png
+SHA1-Digest: FmYzH8zKN/U4KbwhDU2eCAGIOBE=
+
+
+Name: assets/www/asset-v3/anime/voix2_ride.json
+SHA1-Digest: 8s3EicKcI4TwX5yX3JXt7Q+ztMA=
+
+
+Name: assets/www/asset-v3/anime/voix3_over-sprite-hd.png
+SHA1-Digest: /4p9A6XiWZzQqqd+RdZY3hasun8=
+
+
+Name: assets/www/asset-v3/anime/voix3_over-sprite-mini.png
+SHA1-Digest: mzt5QQ0to6bxWoDwaJeWuAlw2sY=
+
+
+Name: assets/www/asset-v3/anime/voix3_over-sprite.png
+SHA1-Digest: piLvpujyk2TokCl30fEwFRCGw3E=
+
+
+Name: assets/www/asset-v3/anime/voix3_over.json
+SHA1-Digest: fa2PVRWXyBvCpHLRtxUCuwNJGdY=
+
+
+Name: assets/www/asset-v3/anime/voix4_colors-sprite-hd.png
+SHA1-Digest: QVbGclJAc0odZd94oXjyA5X0rzk=
+
+
+Name: assets/www/asset-v3/anime/voix4_colors-sprite-mini.png
+SHA1-Digest: oB37vbQ04qLGPesAnzVshflXadg=
+
+
+Name: assets/www/asset-v3/anime/voix4_colors-sprite.png
+SHA1-Digest: 8Xd/bhAebubKr1eR//SEht8fxh8=
+
+
+Name: assets/www/asset-v3/anime/voix4_colors.json
+SHA1-Digest: IAgUAWadKTdwdv7LkLCZep+/lQs=
+
+
+Name: assets/www/asset-v3/anime/voix5_sunrise-sprite-hd.png
+SHA1-Digest: iXKozgYFM/2dxiAfJ88yxhTR1Vw=
+
+
+Name: assets/www/asset-v3/anime/voix5_sunrise-sprite-mini.png
+SHA1-Digest: ZHJ4nZw9HzS8Mw5aYX+TPQbTmJQ=
+
+
+Name: assets/www/asset-v3/anime/voix5_sunrise-sprite.png
+SHA1-Digest: 4Cgb0mCXzqZQ7mhrvbX9DWaG5PU=
+
+
+Name: assets/www/asset-v3/anime/voix5_sunrise.json
+SHA1-Digest: mGdqqP7f2vXY9kD24m5Bft83SI4=
+
+
+Name: assets/www/asset-v3/app.js
+SHA1-Digest: vB2m2/89o8l3OEGvvrMkOz/fst0=
+
+
+Name: assets/www/asset-v3/img/game-bck-hd.jpg
+SHA1-Digest: X2O6V7UhRB3Bj4AXibCjXJo7z5I=
+
+
+Name: assets/www/asset-v3/img/game-bck.jpg
+SHA1-Digest: 6Ko86wljiJlxHVoAyEDUSktmYGs=
+
+
+Name: assets/www/asset-v3/img/game-picto-hd.png
+SHA1-Digest: 4n1GaapbiCUTMvJ6RgNXvvl3+xA=
+
+
+Name: assets/www/asset-v3/img/game-picto.png
+SHA1-Digest: NNI4dX3/siI6OR4MJJ6XUeTojvk=
+
+
+Name: assets/www/asset-v3/img/home-titre-hd.png
+SHA1-Digest: WHyOo/TeHrM1CBrXWBrLjSW626Y=
+
+
+Name: assets/www/asset-v3/img/home-titre.png
+SHA1-Digest: YLynWuxtdII7Bx6Iaq0jeFkg/qA=
+
+
+Name: assets/www/asset-v3/img/home-version-hd.png
+SHA1-Digest: +W6BmqiOPqcQweU1+Ybf8hLhotg=
+
+
+Name: assets/www/asset-v3/img/home-version.png
+SHA1-Digest: jmbGMB6WqawobCT6/AiXSb01SRY=
+
+
+Name: assets/www/asset-v3/img/polo-sprite-hd.png
+SHA1-Digest: 7OlZEtfThtFcf3paVm9J/i7Elr4=
+
+
+Name: assets/www/asset-v3/img/polo-sprite-mini.png
+SHA1-Digest: uQnvOdm5xGHjw5p6MPH5P+M3n0M=
+
+
+Name: assets/www/asset-v3/img/polo-sprite.png
+SHA1-Digest: 6G0sAkgoFBjfmFiflDxhlku1Nnk=
+
+
+Name: assets/www/asset-v3/sound/ogg/aspire.ogg
+SHA1-Digest: PFPXpOFfnQ7oSNJu0w8kBBzjJDQ=
+
+
+Name: assets/www/asset-v3/sound/ogg/bonus-child.ogg
+SHA1-Digest: kCv1Jrtesuj31Vul4vHkl/uzqbk=
+
+
+Name: assets/www/asset-v3/sound/ogg/bonus-dance.ogg
+SHA1-Digest: tCw5SubWZpNu72oKMZCcq6uWYLE=
+
+
+Name: assets/www/asset-v3/sound/ogg/bonus-sunrise.ogg
+SHA1-Digest: rbtHR7x0/IEbF4zV9fPXW4TbOsc=
+
+
+Name: assets/www/asset-v3/sound/ogg/drum1_ballet_a.ogg
+SHA1-Digest: OG5DMF9XGh4WvnRKfWw3O6wfDlU=
+
+
+Name: assets/www/asset-v3/sound/ogg/drum2_kick_a.ogg
+SHA1-Digest: 5M5oO6m0qq9GAEboUOo7F6Drx78=
+
+
+Name: assets/www/asset-v3/sound/ogg/drum3_snare_a.ogg
+SHA1-Digest: khkT6yFALFJKhph9YppXclhfZ0Y=
+
+
+Name: assets/www/asset-v3/sound/ogg/drum4_lead_a.ogg
+SHA1-Digest: Bl0LQjNxnRmaAm4cVQI3SmyzRi0=
+
+
+Name: assets/www/asset-v3/sound/ogg/drum5_charley_a.ogg
+SHA1-Digest: C4xYPHy5fXvfNUxEJkBPqR+uDFY=
+
+
+Name: assets/www/asset-v3/sound/ogg/effet1_long_a.ogg
+SHA1-Digest: KmJOhQW98mGaDoK/py+I9ildAno=
+
+
+Name: assets/www/asset-v3/sound/ogg/effet1_long_b.ogg
+SHA1-Digest: fIcKWNRAkRAH8BX523H4/PQIBOg=
+
+
+Name: assets/www/asset-v3/sound/ogg/effet2_daft1_a.ogg
+SHA1-Digest: emX4LOoUCeet/r5NHQxQJh/7bDM=
+
+
+Name: assets/www/asset-v3/sound/ogg/effet3_tududu_a.ogg
+SHA1-Digest: G8V84w/zzgBPqzTbK1nxcJ5LQmw=
+
+
+Name: assets/www/asset-v3/sound/ogg/effet4_daft2_a.ogg
+SHA1-Digest: 037KIMq0CO+aqsuewHD3Dc9DgqY=
+
+
+Name: assets/www/asset-v3/sound/ogg/effet5_rythme_a.ogg
+SHA1-Digest: /U+FtWqWoIejHr+Z1FIGWF1Tsi4=
+
+
+Name: assets/www/asset-v3/sound/ogg/effet5_rythme_b.ogg
+SHA1-Digest: uWGVFKrszG7IO3wVLtZYQERfKdk=
+
+
+Name: assets/www/asset-v3/sound/ogg/melo1_tuu_a.ogg
+SHA1-Digest: fZX+8ImV8Q0GkuiwfvdBM+Y4JFw=
+
+
+Name: assets/www/asset-v3/sound/ogg/melo2_indien_a.ogg
+SHA1-Digest: gWHG5JEx1cnj4VtyD8lJtTKXWRY=
+
+
+Name: assets/www/asset-v3/sound/ogg/melo3_armo_a.ogg
+SHA1-Digest: tzcM6Euz2cDpY3C1D8qC2F8o9b4=
+
+
+Name: assets/www/asset-v3/sound/ogg/melo4_clav_a.ogg
+SHA1-Digest: TAUp0WGKfBGtV8MxCoCdkZVyVh8=
+
+
+Name: assets/www/asset-v3/sound/ogg/melo4_clav_b.ogg
+SHA1-Digest: T7MNQFhjJh48G9xb8GjvP+EJIAY=
+
+
+Name: assets/www/asset-v3/sound/ogg/melo5_siffle_a.ogg
+SHA1-Digest: 46TINbGrBX22SmQjKyI9DW7S7oc=
+
+
+Name: assets/www/asset-v3/sound/ogg/voix1_waya_a.ogg
+SHA1-Digest: xORBB0UhDyR96IWl9qA2THnnano=
+
+
+Name: assets/www/asset-v3/sound/ogg/voix2_ride_a.ogg
+SHA1-Digest: tLLaZeuOGae4EtkBc9IcRxQYguE=
+
+
+Name: assets/www/asset-v3/sound/ogg/voix2_ride_b.ogg
+SHA1-Digest: RZADL/sNAs1/XWbI01cGWY+727k=
+
+
+Name: assets/www/asset-v3/sound/ogg/voix3_over_a.ogg
+SHA1-Digest: dCRKYBUrgWPh34fjCrV9A/MAMGw=
+
+
+Name: assets/www/asset-v3/sound/ogg/voix3_over_b.ogg
+SHA1-Digest: MCJpCudA+td02wV1vGj5VDfBn0A=
+
+
+Name: assets/www/asset-v3/sound/ogg/voix4_colors_a.ogg
+SHA1-Digest: N7Vo3BThIwLnDppIg8EAOd/LQeg=
+
+
+Name: assets/www/asset-v3/sound/ogg/voix5_sunrise_a.ogg
+SHA1-Digest: 4wygFK2ZnjS8qlqO6X0NRcxSbaI=
+
+
+Name: assets/www/asset-v3/sound/ogg/voix5_sunrise_b.ogg
+SHA1-Digest: w/LV8wXDqdTbIe3aeWTBwKMM06M=
+
+
+Name: assets/www/asset-v3/splash/big-homescreen-hd.jpg
+SHA1-Digest: PfrE6d2j4GfG7QeYLSXdWhMrrms=
+
+
+Name: assets/www/asset-v3/splash/big-homescreen.jpg
+SHA1-Digest: 2wFxRrOlLbUz88kbQ4ItpT9xEro=
+
+
+Name: assets/www/asset-v3/splash/homescreen-hd.jpg
+SHA1-Digest: fMhFrluzmQwc5Tk496JES85FznY=
+
+
+Name: assets/www/asset-v3/splash/homescreen.jpg
+SHA1-Digest: 90vZ7NTP9KC5r5kIp1Bdk9xHPT4=
+
+
+Name: assets/www/asset-v3/video/v3-b1-bck.jpg
+SHA1-Digest: BLKsv3ZO2l5ZsPEG4Py85HRDkY4=
+
+
+Name: assets/www/asset-v3/video/v3-b1-child-hb-hd.mp4
+SHA1-Digest: ZCYA/UgBzMkRFSCy/ljCMofgArg=
+
+
+Name: assets/www/asset-v3/video/v3-b1-child-hb-mini.mp4
+SHA1-Digest: in3HwSNDCNJDWYpbr0EC5rvPyBY=
+
+
+Name: assets/www/asset-v3/video/v3-b1-child-hb.mp4
+SHA1-Digest: I6HJQ4abyBzSXCz3M+5x+VxBGLE=
+
+
+Name: assets/www/asset-v3/video/v3-b2-bck.jpg
+SHA1-Digest: G0YOjaH0QorFPMgzjf3XcRLX7k4=
+
+
+Name: assets/www/asset-v3/video/v3-b2-dance-hb-hd.mp4
+SHA1-Digest: XM/vdwZgKHjk+SEPR+tG2+BOtJg=
+
+
+Name: assets/www/asset-v3/video/v3-b2-dance-hb-mini.mp4
+SHA1-Digest: s3kUIZTMV53RYCQw4PWVrmxNr1Y=
+
+
+Name: assets/www/asset-v3/video/v3-b2-dance-hb.mp4
+SHA1-Digest: yo6hR8SOPqCDJDbvuUJ0ohZyXiI=
+
+
+Name: assets/www/asset-v3/video/v3-b3-bck.jpg
+SHA1-Digest: 03QLX0nHqrMs0nJ2qzL4B8r0dXw=
+
+
+Name: assets/www/asset-v3/video/v3-b3-sunrise-hb-hd.mp4
+SHA1-Digest: WpsojNVHeHePIv1NDoUDvV9un5U=
+
+
+Name: assets/www/asset-v3/video/v3-b3-sunrise-hb-mini.mp4
+SHA1-Digest: DYLmBK9tpTJ+baQG7fg/+HHEMTs=
+
+
+Name: assets/www/asset-v3/video/v3-b3-sunrise-hb.mp4
+SHA1-Digest: QbnfzWpBNVoZBkiKwyoNGiNHB0k=
+
+
+Name: assets/www/asset-v4/anime/chips1_feel-sprite-hd.png
+SHA1-Digest: sZvoLyAsXUcsQ2ipAhjDEPbCiD8=
+
+
+Name: assets/www/asset-v4/anime/chips1_feel-sprite-mini.png
+SHA1-Digest: 2fuAfZsNiUhrZOIKcX/v33h57Vg=
+
+
+Name: assets/www/asset-v4/anime/chips1_feel-sprite.png
+SHA1-Digest: I7hiVvBMMALvjNaX0ZfhI94H+NU=
+
+
+Name: assets/www/asset-v4/anime/chips1_feel.json
+SHA1-Digest: xE4tLcxq38Nvg0ZThe0tgYMYW0I=
+
+
+Name: assets/www/asset-v4/anime/chips2_chillin-sprite-hd.png
+SHA1-Digest: fscvUGyJG1v6OwlJUqlbO6kRpcM=
+
+
+Name: assets/www/asset-v4/anime/chips2_chillin-sprite-mini.png
+SHA1-Digest: dyUUb/6kZRT9vvzaH72DSZol/NA=
+
+
+Name: assets/www/asset-v4/anime/chips2_chillin-sprite.png
+SHA1-Digest: OA8w7bWwbWLH21GdXYr8SHe+Dks=
+
+
+Name: assets/www/asset-v4/anime/chips2_chillin.json
+SHA1-Digest: syJCciiBqudjwcfDjGEaGgJZ91Y=
+
+
+Name: assets/www/asset-v4/anime/chips3_yeah-sprite-hd.png
+SHA1-Digest: rbdJG2wS2JZ/HG5EeIXrOdV/WFw=
+
+
+Name: assets/www/asset-v4/anime/chips3_yeah-sprite-mini.png
+SHA1-Digest: DcLoAEjmxb16yc8dRRZ0ZyRFsqI=
+
+
+Name: assets/www/asset-v4/anime/chips3_yeah-sprite.png
+SHA1-Digest: oChyOmGRqXfiR975ck/Fw5gR92A=
+
+
+Name: assets/www/asset-v4/anime/chips3_yeah.json
+SHA1-Digest: Io4NJ6Na3k/vUkjbLrFIPgfeYuA=
+
+
+Name: assets/www/asset-v4/anime/chips4_filback-sprite-hd.png
+SHA1-Digest: qYFGqRw77zAo0YKBPeGrxKs3Hj4=
+
+
+Name: assets/www/asset-v4/anime/chips4_filback-sprite-mini.png
+SHA1-Digest: /M3biKf7eT4PvHeGFAx9fWgzAu4=
+
+
+Name: assets/www/asset-v4/anime/chips4_filback-sprite.png
+SHA1-Digest: F8nY8G4y7j/wI9Z5XQ/ajScAyQ4=
+
+
+Name: assets/www/asset-v4/anime/chips4_filback.json
+SHA1-Digest: 34cBwNvqvgyBxwPHUAihJDGTkLw=
+
+
+Name: assets/www/asset-v4/anime/chips5_teylo-sprite-hd.png
+SHA1-Digest: DoT0Xb/7NzXDOot7aERMVNprgME=
+
+
+Name: assets/www/asset-v4/anime/chips5_teylo-sprite-mini.png
+SHA1-Digest: sLEL42InHuES49BcrkWJxFj8bRs=
+
+
+Name: assets/www/asset-v4/anime/chips5_teylo-sprite.png
+SHA1-Digest: Tm/5t68FeT2cmTaxl4JLAXSvlKc=
+
+
+Name: assets/www/asset-v4/anime/chips5_teylo.json
+SHA1-Digest: B3C7iDMoRA6CEvbqlt+lWJeh158=
+
+
+Name: assets/www/asset-v4/anime/chipsdel-sprite-hd.png
+SHA1-Digest: iWAX910ra8HS+Z0jMvuAvmkKoX4=
+
+
+Name: assets/www/asset-v4/anime/chipsdel-sprite-mini.png
+SHA1-Digest: W/Ovve45rGAf6hKAxeJxO65zx2Y=
+
+
+Name: assets/www/asset-v4/anime/chipsdel-sprite.png
+SHA1-Digest: Wm0yn2370yvJyxYzA67HRmQisoY=
+
+
+Name: assets/www/asset-v4/anime/chipsdel.json
+SHA1-Digest: DSoQcbkVMgNw5SfEiXZX8ZcaM4s=
+
+
+Name: assets/www/asset-v4/anime/drum1_kick-sprite-hd.png
+SHA1-Digest: 7OCHV/ts83AEAW/z7xs7UeKcxc8=
+
+
+Name: assets/www/asset-v4/anime/drum1_kick-sprite-mini.png
+SHA1-Digest: YywXbeIL0vGJ4dUlg0vRoSfpiKU=
+
+
+Name: assets/www/asset-v4/anime/drum1_kick-sprite.png
+SHA1-Digest: BLKCn+ZcZKi0COHLCGzekpm7Fag=
+
+
+Name: assets/www/asset-v4/anime/drum1_kick.json
+SHA1-Digest: DLTBZvIgf335xUFm0IKphKL24Zk=
+
+
+Name: assets/www/asset-v4/anime/drum2_snare-sprite-hd.png
+SHA1-Digest: KQDO5M5d+Uwh4g7V9Rh/nWTrVFg=
+
+
+Name: assets/www/asset-v4/anime/drum2_snare-sprite-mini.png
+SHA1-Digest: nd39mD9GnDYNpqldQ9bKJTSmPGc=
+
+
+Name: assets/www/asset-v4/anime/drum2_snare-sprite.png
+SHA1-Digest: 8qwruxpUfie9ZFRpc2Ba+71mw3U=
+
+
+Name: assets/www/asset-v4/anime/drum2_snare.json
+SHA1-Digest: JzUrMdpa0FgYrtdtJMOIEKOPa8w=
+
+
+Name: assets/www/asset-v4/anime/drum3_touti-sprite-hd.png
+SHA1-Digest: U5hPQbpWJOODvwi1V5uE822ODYA=
+
+
+Name: assets/www/asset-v4/anime/drum3_touti-sprite-mini.png
+SHA1-Digest: uBpORY2s3ttHedEd4sgbwJHmhgI=
+
+
+Name: assets/www/asset-v4/anime/drum3_touti-sprite.png
+SHA1-Digest: aBcuC1CjEv/AFbmMxR1Kbd5XQSQ=
+
+
+Name: assets/www/asset-v4/anime/drum3_touti.json
+SHA1-Digest: NsHA0cBwSAJ4fCKVZ+S46bZD++s=
+
+
+Name: assets/www/asset-v4/anime/drum4_charley-sprite-hd.png
+SHA1-Digest: GGIphTs1ZnxjM2+N8bbe7E51j7E=
+
+
+Name: assets/www/asset-v4/anime/drum4_charley-sprite-mini.png
+SHA1-Digest: INoPUfu5fF7fYWTeGj4tAhkhfic=
+
+
+Name: assets/www/asset-v4/anime/drum4_charley-sprite.png
+SHA1-Digest: bVJcQVR/Mj4SSM5KeR9fLG6mxP8=
+
+
+Name: assets/www/asset-v4/anime/drum4_charley.json
+SHA1-Digest: L8WK56gdExyL9OtfIDH1p22s664=
+
+
+Name: assets/www/asset-v4/anime/drum5_chatom-sprite-hd.png
+SHA1-Digest: 7DQfaXxUpwkdQjJ6ieA0TAGTKw4=
+
+
+Name: assets/www/asset-v4/anime/drum5_chatom-sprite-mini.png
+SHA1-Digest: YRFed6XSfO5+NZHOJgsdJ+E11x0=
+
+
+Name: assets/www/asset-v4/anime/drum5_chatom-sprite.png
+SHA1-Digest: gU/dqzHpojDibHUjs5W98DjiKX8=
+
+
+Name: assets/www/asset-v4/anime/drum5_chatom.json
+SHA1-Digest: Sg0F3B5sNhnSzBWlWWOjDqgMX+U=
+
+
+Name: assets/www/asset-v4/anime/effect1_bass-sprite-hd.png
+SHA1-Digest: lPbXvsmlhWik/jnyJVScAqQcgsE=
+
+
+Name: assets/www/asset-v4/anime/effect1_bass-sprite-mini.png
+SHA1-Digest: 4VNlb7dnF4/OCH67nYH3sd59dYs=
+
+
+Name: assets/www/asset-v4/anime/effect1_bass-sprite.png
+SHA1-Digest: zUZCfhbUjqKV2n4cZW+fB/sRhRA=
+
+
+Name: assets/www/asset-v4/anime/effect1_bass.json
+SHA1-Digest: OJw3/dcXj1XTU5goR9FURbUTpx8=
+
+
+Name: assets/www/asset-v4/anime/effect2_enigmatic-sprite-hd.png
+SHA1-Digest: Xb0XJyh5kEEACe/lF2MUvv2MmKk=
+
+
+Name: assets/www/asset-v4/anime/effect2_enigmatic-sprite-mini.png
+SHA1-Digest: KZmhKgvkEXIFQ8B3iuVU5DjX4X4=
+
+
+Name: assets/www/asset-v4/anime/effect2_enigmatic-sprite.png
+SHA1-Digest: 3f0/SJLqkccFMAsMAx98IWuM/+M=
+
+
+Name: assets/www/asset-v4/anime/effect2_enigmatic.json
+SHA1-Digest: xZ/B7Kw42UTT3m/5xFYGFs2gUnQ=
+
+
+Name: assets/www/asset-v4/anime/effect3_cry-sprite-hd.png
+SHA1-Digest: z02UUBu21fUZ+0ytgjGrzihX2mo=
+
+
+Name: assets/www/asset-v4/anime/effect3_cry-sprite-mini.png
+SHA1-Digest: TVar51SSi0IwmZYBTkMdsARpLqw=
+
+
+Name: assets/www/asset-v4/anime/effect3_cry-sprite.png
+SHA1-Digest: I84m7VmJj8X3ZCEHRLV7nVy9Xes=
+
+
+Name: assets/www/asset-v4/anime/effect3_cry.json
+SHA1-Digest: N0Fl7Jr9NaaTeByhw04b491OeYw=
+
+
+Name: assets/www/asset-v4/anime/effect4_odoyouno-sprite-hd.png
+SHA1-Digest: kP8IGr2pGbVwlN/LBRRQ0aWIgWE=
+
+
+Name: assets/www/asset-v4/anime/effect4_odoyouno-sprite-mini.png
+SHA1-Digest: aDLlCF5bjahUcuWpg5plrb4pogU=
+
+
+Name: assets/www/asset-v4/anime/effect4_odoyouno-sprite.png
+SHA1-Digest: 4ypc/A/MwOfZ9mzWBGGXdPYLa8M=
+
+
+Name: assets/www/asset-v4/anime/effect4_odoyouno.json
+SHA1-Digest: NZbfdl4XDR8JnJClVV4zG79CPWE=
+
+
+Name: assets/www/asset-v4/anime/effect5_oua-sprite-hd.png
+SHA1-Digest: 5hBezy3Pbf/PnFF2DfKTGoj1d/g=
+
+
+Name: assets/www/asset-v4/anime/effect5_oua-sprite-mini.png
+SHA1-Digest: yO/QpcuSrcmngIDWzQIOyIEQDRU=
+
+
+Name: assets/www/asset-v4/anime/effect5_oua-sprite.png
+SHA1-Digest: TxgFwJTDWVDR22l1LgkQzG2w6eQ=
+
+
+Name: assets/www/asset-v4/anime/effect5_oua.json
+SHA1-Digest: FUdne9zHc7MCeehyGwfuVgbHPNA=
+
+
+Name: assets/www/asset-v4/anime/melo1_toun-sprite-hd.png
+SHA1-Digest: PNsSUNGkT3O5andcxX3HeQNPxag=
+
+
+Name: assets/www/asset-v4/anime/melo1_toun-sprite-mini.png
+SHA1-Digest: yeFDmceA/EVx83iRRGJGzxeYJew=
+
+
+Name: assets/www/asset-v4/anime/melo1_toun-sprite.png
+SHA1-Digest: 6HOoy3zRmsL9m2+Wh09UIwN1aEk=
+
+
+Name: assets/www/asset-v4/anime/melo1_toun.json
+SHA1-Digest: Ge/pLQ57BY+dJNXjrM3uzg/MDO8=
+
+
+Name: assets/www/asset-v4/anime/melo2_flute-sprite-hd.png
+SHA1-Digest: rpYfSjeAX8Ol2DT9lKAWmLYrwR8=
+
+
+Name: assets/www/asset-v4/anime/melo2_flute-sprite-mini.png
+SHA1-Digest: v6S1iEmhn5hshxMz8fzX3XrG6zM=
+
+
+Name: assets/www/asset-v4/anime/melo2_flute-sprite.png
+SHA1-Digest: LnVFH8FC7K9Sq7V/AdczBPJ7tUI=
+
+
+Name: assets/www/asset-v4/anime/melo2_flute.json
+SHA1-Digest: 8aeKFgbtY/PAFdwkckQxmoJytmU=
+
+
+Name: assets/www/asset-v4/anime/melo3_neou-sprite-hd.png
+SHA1-Digest: Ww7s57RIpKLbwu69c+Xi4d/qtd4=
+
+
+Name: assets/www/asset-v4/anime/melo3_neou-sprite-mini.png
+SHA1-Digest: /e0J2XQyibWP4TzJaRgIUJ8XnaE=
+
+
+Name: assets/www/asset-v4/anime/melo3_neou-sprite.png
+SHA1-Digest: 8JUIqh59HrgCU+35Ztr6Q63Ej24=
+
+
+Name: assets/www/asset-v4/anime/melo3_neou.json
+SHA1-Digest: FxMhwtbrlCTVnT+HNKv5G4BJshk=
+
+
+Name: assets/www/asset-v4/anime/melo4_hu-sprite-hd.png
+SHA1-Digest: dYFYpDPPUFtgWbk2RTK25CcPKOU=
+
+
+Name: assets/www/asset-v4/anime/melo4_hu-sprite-mini.png
+SHA1-Digest: nFLKk1fwvx6UgHQVl5LhN4F813o=
+
+
+Name: assets/www/asset-v4/anime/melo4_hu-sprite.png
+SHA1-Digest: 6hzpsEZ7bhximahYrqbbxhQnpsQ=
+
+
+Name: assets/www/asset-v4/anime/melo4_hu.json
+SHA1-Digest: idKe4TUter35R84S4nCUb0buwD8=
+
+
+Name: assets/www/asset-v4/anime/melo5_ah-sprite-hd.png
+SHA1-Digest: C8ip7fo/pvzMUMD1Xuh2bUqP69M=
+
+
+Name: assets/www/asset-v4/anime/melo5_ah-sprite-mini.png
+SHA1-Digest: jL1QbaAtO2c+TuzBzifXnyF9Zpw=
+
+
+Name: assets/www/asset-v4/anime/melo5_ah-sprite.png
+SHA1-Digest: wIoudj+DIfrI06CNhWlHxjpW2sc=
+
+
+Name: assets/www/asset-v4/anime/melo5_ah.json
+SHA1-Digest: SNI4ObjBzkyPpMO7I4eVLGjguyI=
+
+
+Name: assets/www/asset-v4/app.js
+SHA1-Digest: EjH8BiP3etph0oySpoE1H+MfYq0=
+
+
+Name: assets/www/asset-v4/img/game-bck-hd.jpg
+SHA1-Digest: zqIGwRFu0xys6NeptX3AW/No8XM=
+
+
+Name: assets/www/asset-v4/img/game-bck.jpg
+SHA1-Digest: H9cMp+I/fIqfPka4G7WRTz6UfAQ=
+
+
+Name: assets/www/asset-v4/img/game-picto-hd.png
+SHA1-Digest: H6ho6wRZG96Qxl/V4hyjyUCcQAI=
+
+
+Name: assets/www/asset-v4/img/game-picto.png
+SHA1-Digest: UT20jwFk9GK07m6ay9bcUQICni8=
+
+
+Name: assets/www/asset-v4/img/home-titre-hd.png
+SHA1-Digest: KtlB0APISNLQ2PKiAaYLeCnwMQI=
+
+
+Name: assets/www/asset-v4/img/home-titre.png
+SHA1-Digest: UCUJyuaeI/Oo7uFzqxS/cDVyTMY=
+
+
+Name: assets/www/asset-v4/img/home-version-hd.png
+SHA1-Digest: ZcGAiet//rLEYohPWdSsFMERJcw=
+
+
+Name: assets/www/asset-v4/img/home-version.png
+SHA1-Digest: ivbwKc3cMcXaI2poNZbs4AWZCYc=
+
+
+Name: assets/www/asset-v4/img/polo-sprite-hd.png
+SHA1-Digest: 4y9rxrIOZzze/BBTOtrmeSfhpDA=
+
+
+Name: assets/www/asset-v4/img/polo-sprite-mini.png
+SHA1-Digest: 5i/7DOkk6xbHzeXBY/uqx2XSxGU=
+
+
+Name: assets/www/asset-v4/img/polo-sprite.png
+SHA1-Digest: yJWfaJh6PYPSY8nD6LynqKq/rno=
+
+
+Name: assets/www/asset-v4/sound/ogg/aspire.ogg
+SHA1-Digest: hlgGxn5B8esOajtMW3EMyq5S2EA=
+
+
+Name: assets/www/asset-v4/sound/ogg/bonus-eagle.ogg
+SHA1-Digest: EEJ21VfeHkUkmNyWRNuXJ+HS+LI=
+
+
+Name: assets/www/asset-v4/sound/ogg/bonus-follow.ogg
+SHA1-Digest: pmRgWBGW5585Vef79Vp43JMys6c=
+
+
+Name: assets/www/asset-v4/sound/ogg/bonus-love.ogg
+SHA1-Digest: WYi9FFGlLIzW61fKBX8a9K8dHvc=
+
+
+Name: assets/www/asset-v4/sound/ogg/chips1_feel_a.ogg
+SHA1-Digest: cRfHAv9DwfavZTkhdjb6ZvXaevQ=
+
+
+Name: assets/www/asset-v4/sound/ogg/chips1_feel_b.ogg
+SHA1-Digest: sIqSNgwRuiG9+EL9ZZjbQXDtVeE=
+
+
+Name: assets/www/asset-v4/sound/ogg/chips2_chillin_a.ogg
+SHA1-Digest: +1IIsUWkl5veoPmP+x4c7HeWt/8=
+
+
+Name: assets/www/asset-v4/sound/ogg/chips3_yeah_a.ogg
+SHA1-Digest: Szz29rWKX3Xw49atsXjezqQAKu0=
+
+
+Name: assets/www/asset-v4/sound/ogg/chips4_filback_a.ogg
+SHA1-Digest: iYfNldyH1zA1n54WgAa5mynjgac=
+
+
+Name: assets/www/asset-v4/sound/ogg/chips4_filback_b.ogg
+SHA1-Digest: S6BgIIMsNbmFZgCSmccW6gk9oIA=
+
+
+Name: assets/www/asset-v4/sound/ogg/chips5_teylo_a.ogg
+SHA1-Digest: /tTdlg+Q6/C6QeDSd09kcLMbm+o=
+
+
+Name: assets/www/asset-v4/sound/ogg/drum1_kick_a.ogg
+SHA1-Digest: z6UTaXZ3yO95W84tnQtvRImqdCY=
+
+
+Name: assets/www/asset-v4/sound/ogg/drum1_kick_b.ogg
+SHA1-Digest: NMAu18SXdPJ44S9V8O4Hop7D5+A=
+
+
+Name: assets/www/asset-v4/sound/ogg/drum2_snare_a.ogg
+SHA1-Digest: SZdoRy+JLQGIKGLswgG9e3+OcqM=
+
+
+Name: assets/www/asset-v4/sound/ogg/drum2_snare_b.ogg
+SHA1-Digest: FlWI1hgIVpva4qrx2WguJrHZQjI=
+
+
+Name: assets/www/asset-v4/sound/ogg/drum3_touti_a.ogg
+SHA1-Digest: 18mDQwH0pAYypHM68MRZEiViAAQ=
+
+
+Name: assets/www/asset-v4/sound/ogg/drum4_charley_a.ogg
+SHA1-Digest: M/7Vhp4GB4GdDyCLzgOR8Huov0Y=
+
+
+Name: assets/www/asset-v4/sound/ogg/drum5_chatom_a.ogg
+SHA1-Digest: 1T1wq7u9Bvp6PcUs2o0vwkOnV9k=
+
+
+Name: assets/www/asset-v4/sound/ogg/drum5_chatom_b.ogg
+SHA1-Digest: ezPbEMJ5QXlvAMPdf7FvpE56fFk=
+
+
+Name: assets/www/asset-v4/sound/ogg/effect1_bass_a.ogg
+SHA1-Digest: dJKPzhjZQT+0sJNUWxFGWToDq5k=
+
+
+Name: assets/www/asset-v4/sound/ogg/effect1_bass_b.ogg
+SHA1-Digest: jqoIt3+neWSMmjkGJUBQrVvSKkM=
+
+
+Name: assets/www/asset-v4/sound/ogg/effect2_enigmatic_a.ogg
+SHA1-Digest: jYTa2CZ2w9NevgUVlGSddmNOdyQ=
+
+
+Name: assets/www/asset-v4/sound/ogg/effect3_cry_a.ogg
+SHA1-Digest: w7Zbrrsx9Xswz75LO70golVy7Bw=
+
+
+Name: assets/www/asset-v4/sound/ogg/effect4_odoyouno_a.ogg
+SHA1-Digest: h0shrt1Nz0Ge4CX7nSArrVJPDuw=
+
+
+Name: assets/www/asset-v4/sound/ogg/effect5_oua_a.ogg
+SHA1-Digest: WvZmcgoW/I3zsOlBtUWWbf2snvM=
+
+
+Name: assets/www/asset-v4/sound/ogg/melo1_toun_a.ogg
+SHA1-Digest: vvXlnu/xhk/yEqag1ik33tY1JV4=
+
+
+Name: assets/www/asset-v4/sound/ogg/melo1_toun_b.ogg
+SHA1-Digest: SqzyWCytKDNnPlelokVH+3aWzwA=
+
+
+Name: assets/www/asset-v4/sound/ogg/melo2_flute_a.ogg
+SHA1-Digest: D3BbZawh/XPXp7QC9QhVAw7C7HI=
+
+
+Name: assets/www/asset-v4/sound/ogg/melo2_flute_b.ogg
+SHA1-Digest: tb6qhh3KT2MjNJPEwNUmJGN6Ajk=
+
+
+Name: assets/www/asset-v4/sound/ogg/melo3_neou_a.ogg
+SHA1-Digest: bPGRToUbcwjeGgKWiMJERkkb2Bk=
+
+
+Name: assets/www/asset-v4/sound/ogg/melo3_neou_b.ogg
+SHA1-Digest: 1UNWfqN9OzfDvYantV4wTz2NpZ0=
+
+
+Name: assets/www/asset-v4/sound/ogg/melo4_hu_a.ogg
+SHA1-Digest: KYwKzEJLmnkg+5vDWLdLQ2Tmkk4=
+
+
+Name: assets/www/asset-v4/sound/ogg/melo4_hu_b.ogg
+SHA1-Digest: Ly9fuAPrAAjsbxC9yopSoB/nP58=
+
+
+Name: assets/www/asset-v4/sound/ogg/melo5_ah_a.ogg
+SHA1-Digest: AhXLB+kknyvW39AfYUus9tBFx3o=
+
+
+Name: assets/www/asset-v4/splash/big-homescreen-hd.jpg
+SHA1-Digest: a4FIBh/S5JktuXY+LiUPoBIkwGw=
+
+
+Name: assets/www/asset-v4/splash/big-homescreen.jpg
+SHA1-Digest: BdXXfsAaAHgPIp9Z/f4/k8XiBcs=
+
+
+Name: assets/www/asset-v4/splash/homescreen-hd.jpg
+SHA1-Digest: DFwUOlVpeEetDa6tpKZWWmN5OuM=
+
+
+Name: assets/www/asset-v4/splash/homescreen.jpg
+SHA1-Digest: ik1xWjz4uKYVFQ0nDylw3c2Fx+o=
+
+
+Name: assets/www/asset-v4/video/v4-b1-bck.jpg
+SHA1-Digest: pmqDZviNWlEolp7uGFC1xtZjqhM=
+
+
+Name: assets/www/asset-v4/video/v4-b1-love-hb-hd.mp4
+SHA1-Digest: BjL9cla+P0TluX0mEjjNOdc5EAc=
+
+
+Name: assets/www/asset-v4/video/v4-b1-love-hb-mini.mp4
+SHA1-Digest: 9qaRdkQeHZvabHzeF0vxUjq5+Vo=
+
+
+Name: assets/www/asset-v4/video/v4-b1-love-hb.mp4
+SHA1-Digest: /ZetFuLGLvRReJhxVcleAoCM/CA=
+
+
+Name: assets/www/asset-v4/video/v4-b2-bck.jpg
+SHA1-Digest: BiCzau6XBA40kTm+TX0beuhmiis=
+
+
+Name: assets/www/asset-v4/video/v4-b2-follow-hb-hd.mp4
+SHA1-Digest: mQ/sEwhmxKUpv/v+oUa1E7LgRJo=
+
+
+Name: assets/www/asset-v4/video/v4-b2-follow-hb-mini.mp4
+SHA1-Digest: bYnMKAKzwFCR040W8GNlnTqoQAY=
+
+
+Name: assets/www/asset-v4/video/v4-b2-follow-hb.mp4
+SHA1-Digest: 3wggG67AxAVzaruK1B+Kmks4tTs=
+
+
+Name: assets/www/asset-v4/video/v4-b3-bck.jpg
+SHA1-Digest: ECLWtEiL7Z0hIiPT97Cymed2Yy0=
+
+
+Name: assets/www/asset-v4/video/v4-b3-eagle-hb-hd.mp4
+SHA1-Digest: wPLDLqTOjYhoWvzIQ2VwYVD+GwM=
+
+
+Name: assets/www/asset-v4/video/v4-b3-eagle-hb-mini.mp4
+SHA1-Digest: KSRCLL47peog8DMTcYN0FdNVzLw=
+
+
+Name: assets/www/asset-v4/video/v4-b3-eagle-hb.mp4
+SHA1-Digest: ifCg0UZkoAFfeGp0lerpAMwmeUc=
+
+
+Name: assets/www/asset-v5/anime/10_kougou-sprite-hd.png
+SHA1-Digest: tAh8zXBFNvcN1H22wP03nUQIThY=
+
+
+Name: assets/www/asset-v5/anime/10_kougou-sprite-mini.png
+SHA1-Digest: K73Z8Oe6xfyQP1++gsxrbW4WKi8=
+
+
+Name: assets/www/asset-v5/anime/10_kougou-sprite.png
+SHA1-Digest: Kr67/CqqMfMXSmxgDMRqTQ9knrg=
+
+
+Name: assets/www/asset-v5/anime/10_kougou.json
+SHA1-Digest: GMQ4O8cHexpv3yNjYY+OEpsrcMU=
+
+
+Name: assets/www/asset-v5/anime/11_parimba-sprite-hd.png
+SHA1-Digest: dAfxIqooTM2sXEFe6lEEds7TChw=
+
+
+Name: assets/www/asset-v5/anime/11_parimba-sprite-mini.png
+SHA1-Digest: Cm/xTY9aHH+BejinAFQg5FMZadg=
+
+
+Name: assets/www/asset-v5/anime/11_parimba-sprite.png
+SHA1-Digest: GIcraGoMfjQJ8r38cYCwgQ+9cns=
+
+
+Name: assets/www/asset-v5/anime/11_parimba.json
+SHA1-Digest: DLsNTimJV1Q9vy+uToniHOP/uY4=
+
+
+Name: assets/www/asset-v5/anime/12_coloko-sprite-hd.png
+SHA1-Digest: e0pcr1l1VCEqJFu+CiLqtlvCvfU=
+
+
+Name: assets/www/asset-v5/anime/12_coloko-sprite-mini.png
+SHA1-Digest: zbqiwU1g3fDx1YnhY+QGlq/bm9A=
+
+
+Name: assets/www/asset-v5/anime/12_coloko-sprite.png
+SHA1-Digest: ZVDsrl2Ig74H9UT4bYISigOoUEE=
+
+
+Name: assets/www/asset-v5/anime/12_coloko.json
+SHA1-Digest: UEDGOxcFpHwEnKP9xqiN3bqKHtA=
+
+
+Name: assets/www/asset-v5/anime/13_clav-sprite-hd.png
+SHA1-Digest: e2eQL6HTXnIpns7kFOduApQP29M=
+
+
+Name: assets/www/asset-v5/anime/13_clav-sprite-mini.png
+SHA1-Digest: jwAXaQfRhSI+v4c7bGyvauHmODo=
+
+
+Name: assets/www/asset-v5/anime/13_clav-sprite.png
+SHA1-Digest: KkIfFXLHeoT1Yw6OIYGi6WFG2LM=
+
+
+Name: assets/www/asset-v5/anime/13_clav.json
+SHA1-Digest: J7k7x17DNAhPu+JhgmNOGFN6fFA=
+
+
+Name: assets/www/asset-v5/anime/14_tromp-sprite-hd.png
+SHA1-Digest: DLZo7Tt1xe6+gI9Z/zDeN0j0tRo=
+
+
+Name: assets/www/asset-v5/anime/14_tromp-sprite-mini.png
+SHA1-Digest: Gl20ac9N9BhDy9keLQuAprVyYDs=
+
+
+Name: assets/www/asset-v5/anime/14_tromp-sprite.png
+SHA1-Digest: Nv9LmKcjai0rdhgrkxVQ3ZBbEvg=
+
+
+Name: assets/www/asset-v5/anime/14_tromp.json
+SHA1-Digest: +w+vo5WT7aQ4b+Lcc75D7TnvfQQ=
+
+
+Name: assets/www/asset-v5/anime/15_trompolo-sprite-hd.png
+SHA1-Digest: OQ9tIKxVF3gP77AAk6VPJM0XQRU=
+
+
+Name: assets/www/asset-v5/anime/15_trompolo-sprite-mini.png
+SHA1-Digest: EpBmvHqWGs9/rNQRjILwSK6/Jyw=
+
+
+Name: assets/www/asset-v5/anime/15_trompolo-sprite.png
+SHA1-Digest: w3vBs5Y3cddp2ZywRgvWc9eMFg4=
+
+
+Name: assets/www/asset-v5/anime/15_trompolo.json
+SHA1-Digest: PBbOcIYNmT9NCHMkrpiYT7LSvUM=
+
+
+Name: assets/www/asset-v5/anime/16_bass-sprite-hd.png
+SHA1-Digest: YoRmXMMhj08gz950I5/kdb6XrH0=
+
+
+Name: assets/www/asset-v5/anime/16_bass-sprite-mini.png
+SHA1-Digest: ZmeDpSs+TPEGpR2DZWgo+VZnOoQ=
+
+
+Name: assets/www/asset-v5/anime/16_bass-sprite.png
+SHA1-Digest: UyaPDb2lIxIX77j+SecYzBLC3IM=
+
+
+Name: assets/www/asset-v5/anime/16_bass.json
+SHA1-Digest: bgyXBzmJkcDpANbmQ2wMnygyVqc=
+
+
+Name: assets/www/asset-v5/anime/17_wa-sprite-hd.png
+SHA1-Digest: 0KfBF9jzByYaqbPPSkAANb0s2zI=
+
+
+Name: assets/www/asset-v5/anime/17_wa-sprite-mini.png
+SHA1-Digest: WdUFT9dhqZigllLB/t+MerLaSEY=
+
+
+Name: assets/www/asset-v5/anime/17_wa-sprite.png
+SHA1-Digest: YVf8zIr1pBG8+0JAPHHkBTzbSJg=
+
+
+Name: assets/www/asset-v5/anime/17_wa.json
+SHA1-Digest: 7xt74JyGyCiiwcHJhp0ifv6jhLY=
+
+
+Name: assets/www/asset-v5/anime/18_ya-sprite-hd.png
+SHA1-Digest: BLk6BFOIx+fIRfQh9tyR6atzszo=
+
+
+Name: assets/www/asset-v5/anime/18_ya-sprite-mini.png
+SHA1-Digest: dWqkMiQ/FNy2eWnhvRqaq5wFNFY=
+
+
+Name: assets/www/asset-v5/anime/18_ya-sprite.png
+SHA1-Digest: tSwluLV9WGnIF4gLZfjG/gvImWs=
+
+
+Name: assets/www/asset-v5/anime/18_ya.json
+SHA1-Digest: VRDP1j4mLadpBrmWHU1of2/YWpY=
+
+
+Name: assets/www/asset-v5/anime/19_palapa-sprite-hd.png
+SHA1-Digest: Avy7rE0sUkah2GwVTf0mM/+3p8A=
+
+
+Name: assets/www/asset-v5/anime/19_palapa-sprite-mini.png
+SHA1-Digest: N390o0+MeGZaJSeyudl57RhAu/I=
+
+
+Name: assets/www/asset-v5/anime/19_palapa-sprite.png
+SHA1-Digest: yODFdD6efNci215dPsWnw1cFVnw=
+
+
+Name: assets/www/asset-v5/anime/19_palapa.json
+SHA1-Digest: 3bzEJFfFrzQVZ5Ytl4WXytEseVU=
+
+
+Name: assets/www/asset-v5/anime/1_poum-sprite-hd.png
+SHA1-Digest: E3YieMyjRL3upw+OcGiA4kN1wus=
+
+
+Name: assets/www/asset-v5/anime/1_poum-sprite-mini.png
+SHA1-Digest: rRZVaVbAbWDiGvK5fKCTAFZQW5c=
+
+
+Name: assets/www/asset-v5/anime/1_poum-sprite.png
+SHA1-Digest: eLwBF3P83aCO1J6e4oBRPaJgm+k=
+
+
+Name: assets/www/asset-v5/anime/1_poum.json
+SHA1-Digest: rv7EWc5c6rq0kWWnoyyWgdW8vwE=
+
+
+Name: assets/www/asset-v5/anime/20_oh-sprite-hd.png
+SHA1-Digest: +uUDk53N5bgfxMPr75HfojzdpXY=
+
+
+Name: assets/www/asset-v5/anime/20_oh-sprite-mini.png
+SHA1-Digest: aJVUyMc+oG1lj8+TcBeSVoCER4U=
+
+
+Name: assets/www/asset-v5/anime/20_oh-sprite.png
+SHA1-Digest: cv5GhuJh9yQRkEvAU57q3q0G478=
+
+
+Name: assets/www/asset-v5/anime/20_oh.json
+SHA1-Digest: iBIBnyzVZaGpiL+F6AeT+WpjN3M=
+
+
+Name: assets/www/asset-v5/anime/2_creuki-sprite-hd.png
+SHA1-Digest: k4lvrn3yQTgl2Eqc8ianO+1Eol4=
+
+
+Name: assets/www/asset-v5/anime/2_creuki-sprite-mini.png
+SHA1-Digest: 0BVNzJx0BtYhJEjAkkSVdgW53+Y=
+
+
+Name: assets/www/asset-v5/anime/2_creuki-sprite.png
+SHA1-Digest: Qo2gtwLmQxHdvDZqwwL+MiOZSu4=
+
+
+Name: assets/www/asset-v5/anime/2_creuki.json
+SHA1-Digest: +1j8hdhSZt3CDgmx/ymTzkXNybI=
+
+
+Name: assets/www/asset-v5/anime/3_shaka-sprite-hd.png
+SHA1-Digest: B0Ko6/tpm5iddZPJE13oSNbR4iY=
+
+
+Name: assets/www/asset-v5/anime/3_shaka-sprite-mini.png
+SHA1-Digest: dxFbwcU8w7DpuZDHEFOBtM2j2gs=
+
+
+Name: assets/www/asset-v5/anime/3_shaka-sprite.png
+SHA1-Digest: naTVcNIr/NcFOFzl2jmRZ0ssTM8=
+
+
+Name: assets/www/asset-v5/anime/3_shaka.json
+SHA1-Digest: ikfCGs7Navw1H9xatAobMZ9XRqE=
+
+
+Name: assets/www/asset-v5/anime/4_chouk-sprite-hd.png
+SHA1-Digest: QfDAIKIo65qKTNEfRULNQN2quWY=
+
+
+Name: assets/www/asset-v5/anime/4_chouk-sprite-mini.png
+SHA1-Digest: tfw7ihq2D+8gXjiwuhTBq+VWuTk=
+
+
+Name: assets/www/asset-v5/anime/4_chouk-sprite.png
+SHA1-Digest: H0AlSuVBfg0EmhGN7hI1V9Ca324=
+
+
+Name: assets/www/asset-v5/anime/4_chouk.json
+SHA1-Digest: ykflmQnjhwi/6sD/d9csuNFuPOM=
+
+
+Name: assets/www/asset-v5/anime/5_kaliak-sprite-hd.png
+SHA1-Digest: x5/MYhOvza+46OoRjAV1K4FMGOo=
+
+
+Name: assets/www/asset-v5/anime/5_kaliak-sprite-mini.png
+SHA1-Digest: QZgbfHtyZ8G+g4c4JaTvdqWECRg=
+
+
+Name: assets/www/asset-v5/anime/5_kaliak-sprite.png
+SHA1-Digest: r2+bkZ4gz63WOmHbbAXq3Y3HtF0=
+
+
+Name: assets/www/asset-v5/anime/5_kaliak.json
+SHA1-Digest: wChs9Db+pf3sAbe4YfWVWMP5PHc=
+
+
+Name: assets/www/asset-v5/anime/6_tek-sprite-hd.png
+SHA1-Digest: BiLNWwWKtR//V0/I4H78dOm8VQY=
+
+
+Name: assets/www/asset-v5/anime/6_tek-sprite-mini.png
+SHA1-Digest: POCr04mZFbmVUGgOfnIFDXc05jE=
+
+
+Name: assets/www/asset-v5/anime/6_tek-sprite.png
+SHA1-Digest: nG7d7zPfADPHDhYJ0kvd/NWZXgs=
+
+
+Name: assets/www/asset-v5/anime/6_tek.json
+SHA1-Digest: UdM4QYYZYvSNZqQB2mbcvvbOwR0=
+
+
+Name: assets/www/asset-v5/anime/7_tuk-sprite-hd.png
+SHA1-Digest: zEFfzO25vdEPaXuakhR943wO+4U=
+
+
+Name: assets/www/asset-v5/anime/7_tuk-sprite-mini.png
+SHA1-Digest: 89TDhD9an+Unpa4T1JnNCzAUwb8=
+
+
+Name: assets/www/asset-v5/anime/7_tuk-sprite.png
+SHA1-Digest: 4VzhW6/1e7e3CkRIvG8fWfdUBvY=
+
+
+Name: assets/www/asset-v5/anime/7_tuk.json
+SHA1-Digest: O5GVnydHshyYbJSznkV0jrtcHJc=
+
+
+Name: assets/www/asset-v5/anime/8_teung-sprite-hd.png
+SHA1-Digest: BmCNaySGUCHUdaovl1YAH+uWf7M=
+
+
+Name: assets/www/asset-v5/anime/8_teung-sprite-mini.png
+SHA1-Digest: DEqQtPhHJaHJfHQsbBcbthIlIbA=
+
+
+Name: assets/www/asset-v5/anime/8_teung-sprite.png
+SHA1-Digest: E+8TH5SInKipw4yJOZ98ZZymerw=
+
+
+Name: assets/www/asset-v5/anime/8_teung.json
+SHA1-Digest: 4b/zY73lG5T8OjRX5PT7GPEOtGQ=
+
+
+Name: assets/www/asset-v5/anime/9_ting-sprite-hd.png
+SHA1-Digest: BR5GNrWasctuV76wmCLzh07sL2A=
+
+
+Name: assets/www/asset-v5/anime/9_ting-sprite-mini.png
+SHA1-Digest: +CL+t3ceOiB+ICn8izIjxydvVsk=
+
+
+Name: assets/www/asset-v5/anime/9_ting-sprite.png
+SHA1-Digest: fSzPHWb7UFt1dgcpihP98dD9TP0=
+
+
+Name: assets/www/asset-v5/anime/9_ting.json
+SHA1-Digest: qGNYdOVM5MNNdQeHxvuqjsnJBlk=
+
+
+Name: assets/www/asset-v5/app.js
+SHA1-Digest: 8QhlFCByqsJvYaRE6OUqQU0BNZc=
+
+
+Name: assets/www/asset-v5/img/game-bck-hd.jpg
+SHA1-Digest: j5S64TOFkpPMTk83SLtSQJEGLwk=
+
+
+Name: assets/www/asset-v5/img/game-bck.jpg
+SHA1-Digest: pLvd3sHUdhj+Vf8nTv85F2hkSxo=
+
+
+Name: assets/www/asset-v5/img/game-picto-hd.png
+SHA1-Digest: WX6SbHHG617NILSXgp8avQ1ac2k=
+
+
+Name: assets/www/asset-v5/img/game-picto.png
+SHA1-Digest: yKEAGKV3zKczQaOcByjaQkPFDJk=
+
+
+Name: assets/www/asset-v5/img/home-titre-hd.png
+SHA1-Digest: 5bMCQwE/knK3LvATYMZARvWypc0=
+
+
+Name: assets/www/asset-v5/img/home-titre.png
+SHA1-Digest: FwFRJbEdlpOmwp3yqQnWBkhCbCc=
+
+
+Name: assets/www/asset-v5/img/home-version-hd.png
+SHA1-Digest: Ir2iQrpfxb0nvlxzqmCMD0v8cKo=
+
+
+Name: assets/www/asset-v5/img/home-version.png
+SHA1-Digest: VUQrHN6kHWLeQ9JAD76fr2T8oNU=
+
+
+Name: assets/www/asset-v5/img/polo-sprite-hd.png
+SHA1-Digest: FCCnyLXbiQymvvoWje7DaXRkDSM=
+
+
+Name: assets/www/asset-v5/img/polo-sprite-mini.png
+SHA1-Digest: 9JDH1SCby8yCDoAVvP5Mzxe0RZA=
+
+
+Name: assets/www/asset-v5/img/polo-sprite.png
+SHA1-Digest: Gt3icspSBkACHaOQ70/bCI2inJw=
+
+
+Name: assets/www/asset-v5/sound/ogg/10_kougou_a.ogg
+SHA1-Digest: fyFIlw26mYt+qddV1vn7xCMa4vU=
+
+
+Name: assets/www/asset-v5/sound/ogg/11_parimba_a.ogg
+SHA1-Digest: kpk5oda9uIHkc7Ua1EE5zc+6LqA=
+
+
+Name: assets/www/asset-v5/sound/ogg/12_coloko_a.ogg
+SHA1-Digest: 1jvSUbtIe/RDri/2xswEXYibPIg=
+
+
+Name: assets/www/asset-v5/sound/ogg/13_clav_a.ogg
+SHA1-Digest: THGRk1wYnXkaZ9SJQG7+fdtSAMk=
+
+
+Name: assets/www/asset-v5/sound/ogg/14_tromp_a.ogg
+SHA1-Digest: 1nl0Yzq3u0yu8+TWgHHsbbP1fgc=
+
+
+Name: assets/www/asset-v5/sound/ogg/15_trompolo_a.ogg
+SHA1-Digest: O0Tc7WcS6+xLkuQGU8Xy1gnP0O4=
+
+
+Name: assets/www/asset-v5/sound/ogg/16_bass_a.ogg
+SHA1-Digest: O1L3F8cvnj200U5jcOyoZaJTHsw=
+
+
+Name: assets/www/asset-v5/sound/ogg/17_wa_a.ogg
+SHA1-Digest: 3gCeSs+BAAdFiVo8gJp6FxlvOq0=
+
+
+Name: assets/www/asset-v5/sound/ogg/18_ya_a.ogg
+SHA1-Digest: Ns5KaxwviA5lNjuKo4pdzucBLh4=
+
+
+Name: assets/www/asset-v5/sound/ogg/19_palapa_a.ogg
+SHA1-Digest: 5i0P6lnu/kFHlmHKyMXhIZ9lg0I=
+
+
+Name: assets/www/asset-v5/sound/ogg/1_poum_a.ogg
+SHA1-Digest: cNnVWMT/UuGqq3dzgMYr2rr0cbo=
+
+
+Name: assets/www/asset-v5/sound/ogg/20_oh_a.ogg
+SHA1-Digest: FoXUkAp7egpAIXaf+SyXiv6kMts=
+
+
+Name: assets/www/asset-v5/sound/ogg/2_creuki_a.ogg
+SHA1-Digest: 8GHuTvF2rXZVheVYdXlsl1vhxX0=
+
+
+Name: assets/www/asset-v5/sound/ogg/3_shaka_a.ogg
+SHA1-Digest: kQR6vIxnM/dy0NmO9Wi62AN4t7M=
+
+
+Name: assets/www/asset-v5/sound/ogg/4_chouk_a.ogg
+SHA1-Digest: KzhNaOhYgfUaHhvfBkgbzPPPUxs=
+
+
+Name: assets/www/asset-v5/sound/ogg/5_kaliak_a.ogg
+SHA1-Digest: kfjr4i8qH8whh4UZepNg/slPv0U=
+
+
+Name: assets/www/asset-v5/sound/ogg/6_tek_a.ogg
+SHA1-Digest: barahe82u4cEbdtGLdRh11EZdgk=
+
+
+Name: assets/www/asset-v5/sound/ogg/7_tuk_a.ogg
+SHA1-Digest: Nk2krL3JOdIwQJj8raSWdKraFLE=
+
+
+Name: assets/www/asset-v5/sound/ogg/8_teung_a.ogg
+SHA1-Digest: LK60bmsCnfzbRSLmJxfdFfhZ408=
+
+
+Name: assets/www/asset-v5/sound/ogg/9_ting_a.ogg
+SHA1-Digest: 3pdTu9dollBzaycpp187AloJeFs=
+
+
+Name: assets/www/asset-v5/sound/ogg/aspire.ogg
+SHA1-Digest: Xtg9H4QioHwAVk00Xt74SH7Itts=
+
+
+Name: assets/www/asset-v5/sound/ogg/bonus-chegou.ogg
+SHA1-Digest: X3xovp+KZ9MOwEHH+O7Jxd3Digo=
+
+
+Name: assets/www/asset-v5/sound/ogg/bonus-felicidade.ogg
+SHA1-Digest: Ne5tsBJ/JZRqgdWc/xvHDGtWL8I=
+
+
+Name: assets/www/asset-v5/sound/ogg/bonus-musica.ogg
+SHA1-Digest: TdZVgKXv1xvFsftmRV0PHg3Vou4=
+
+
+Name: assets/www/asset-v5/splash/big-homescreen-hd.jpg
+SHA1-Digest: Jb2QYHR6YC4txjymHoC1dF+QliE=
+
+
+Name: assets/www/asset-v5/splash/big-homescreen.jpg
+SHA1-Digest: ELBXp+6HSrImCS4FaJ0XZdl1qtk=
+
+
+Name: assets/www/asset-v5/splash/homescreen-hd.jpg
+SHA1-Digest: LYIUjfvDUToJu7yT271xI9JqNpQ=
+
+
+Name: assets/www/asset-v5/splash/homescreen.jpg
+SHA1-Digest: cJlvAemdZo9mSmeezWjro3NWW1g=
+
+
+Name: assets/www/asset-v5/video/v5-b1-bck.jpg
+SHA1-Digest: B/UmY7OtB8gU5H4tJOxyTn8M3E0=
+
+
+Name: assets/www/asset-v5/video/v5-b1-felicidade-hb-hd.mp4
+SHA1-Digest: ND5kA8ficEO/2zSjw0AsdIDkX6g=
+
+
+Name: assets/www/asset-v5/video/v5-b1-felicidade-hb-mini.mp4
+SHA1-Digest: px8Llz2xmFgwGMLxEok9ICLmlPU=
+
+
+Name: assets/www/asset-v5/video/v5-b1-felicidade-hb.mp4
+SHA1-Digest: ihKU/Xx6Q3XzZYJnHPwxpQUaVdw=
+
+
+Name: assets/www/asset-v5/video/v5-b2-bck.jpg
+SHA1-Digest: 1QQjMr+Z9/4YJKFe37V4JXfPAxU=
+
+
+Name: assets/www/asset-v5/video/v5-b2-chegou-hb-hd.mp4
+SHA1-Digest: vAXiCJghp9DoDc3/lU0w3Syght4=
+
+
+Name: assets/www/asset-v5/video/v5-b2-chegou-hb-mini.mp4
+SHA1-Digest: eiv7Qrx4CNmnTZjm5bAAoUkjF0g=
+
+
+Name: assets/www/asset-v5/video/v5-b2-chegou-hb.mp4
+SHA1-Digest: yOjzppL1VXTkiz/awjCH6wBwsLA=
+
+
+Name: assets/www/asset-v5/video/v5-b3-bck.jpg
+SHA1-Digest: FX0uiLABfAXqg6VTc1/fmhAxD3U=
+
+
+Name: assets/www/asset-v5/video/v5-b3-musica-hb-hd.mp4
+SHA1-Digest: 8bkx5kDG1Qw8l5uFrw86xI07aHo=
+
+
+Name: assets/www/asset-v5/video/v5-b3-musica-hb-mini.mp4
+SHA1-Digest: VI3K5gPuUydxG865HI2v4wlPl5s=
+
+
+Name: assets/www/asset-v5/video/v5-b3-musica-hb.mp4
+SHA1-Digest: w2cG4G1Fd86UgjGdzJdlQjaa8fg=
+
+
+Name: assets/www/asset-v6/anime/10_shower-sprite-hd.png
+SHA1-Digest: jDA3L24xiVov0b8FMpUflLfO5mc=
+
+
+Name: assets/www/asset-v6/anime/10_shower-sprite-mini.png
+SHA1-Digest: ONYnj69z0XU5VTIsjM9+X3H1718=
+
+
+Name: assets/www/asset-v6/anime/10_shower-sprite.png
+SHA1-Digest: Oj+gXpXhoEkk+ky7BIUxfgzeBAo=
+
+
+Name: assets/www/asset-v6/anime/10_shower.json
+SHA1-Digest: lGX/GXvV1gVzgQyP+DJf+0eqH1k=
+
+
+Name: assets/www/asset-v6/anime/11_basse-sprite-hd.png
+SHA1-Digest: L8atbd+mMdCcSjgEKvKWqJ6ELO4=
+
+
+Name: assets/www/asset-v6/anime/11_basse-sprite-mini.png
+SHA1-Digest: CwMLC8prQkLi2fm+5hoFYEmpVLU=
+
+
+Name: assets/www/asset-v6/anime/11_basse-sprite.png
+SHA1-Digest: A1RSSxfWgdchxZo+6jyjBGkYjWM=
+
+
+Name: assets/www/asset-v6/anime/11_basse.json
+SHA1-Digest: OdKjjHRfBhsfrzDygMfgGBvMDJA=
+
+
+Name: assets/www/asset-v6/anime/12_hou-sprite-hd.png
+SHA1-Digest: +K7fX0l88PSDBk2SfJ2D/pD/+ME=
+
+
+Name: assets/www/asset-v6/anime/12_hou-sprite-mini.png
+SHA1-Digest: WOGfFMzJi5U+cE409XNDofTpuno=
+
+
+Name: assets/www/asset-v6/anime/12_hou-sprite.png
+SHA1-Digest: Mc9Lbwc6j7GLFAScHdgmXueu6IU=
+
+
+Name: assets/www/asset-v6/anime/12_hou.json
+SHA1-Digest: gk38X3hYCOUII22CLtWti4dy9S8=
+
+
+Name: assets/www/asset-v6/anime/13_clav-sprite-hd.png
+SHA1-Digest: e3EdO9l0IMBJLA2KewVisKzhcjM=
+
+
+Name: assets/www/asset-v6/anime/13_clav-sprite-mini.png
+SHA1-Digest: AmvcS2d40oLV1vmsWhzqgVbeQ5s=
+
+
+Name: assets/www/asset-v6/anime/13_clav-sprite.png
+SHA1-Digest: x6XWq1wMpl1xdyxtv3Mi7529AM8=
+
+
+Name: assets/www/asset-v6/anime/13_clav.json
+SHA1-Digest: vGYFW8uqeaEEuGD/7GbZpcSci6c=
+
+
+Name: assets/www/asset-v6/anime/14_synth-sprite-hd.png
+SHA1-Digest: ny3jIeyrEn3xKI0d3XPpSWGY7Wg=
+
+
+Name: assets/www/asset-v6/anime/14_synth-sprite-mini.png
+SHA1-Digest: xGMd+FIrTmFhTFuYz+OiCdHlMkY=
+
+
+Name: assets/www/asset-v6/anime/14_synth-sprite.png
+SHA1-Digest: rJuEyiq92ptYpd78PBTpJ7BP6lk=
+
+
+Name: assets/www/asset-v6/anime/14_synth.json
+SHA1-Digest: w6wtrplFpqy00bh1WsT4xy/+QUE=
+
+
+Name: assets/www/asset-v6/anime/15_yah-sprite-hd.png
+SHA1-Digest: ctmCAxfXEK4sdxjCdBwF0jKolKY=
+
+
+Name: assets/www/asset-v6/anime/15_yah-sprite-mini.png
+SHA1-Digest: FLbqV7W/DVT9g2oy7zrYTAZHPg4=
+
+
+Name: assets/www/asset-v6/anime/15_yah-sprite.png
+SHA1-Digest: Lo6mE81PdMX1rMRUq7VYBJ0fkTI=
+
+
+Name: assets/www/asset-v6/anime/15_yah.json
+SHA1-Digest: f2xjbpR0A+4x1DVS/qWTfGP1c4c=
+
+
+Name: assets/www/asset-v6/anime/16_hurry-sprite-hd.png
+SHA1-Digest: EK2p6HAH9wxg+cfeU4FJTIIPE5o=
+
+
+Name: assets/www/asset-v6/anime/16_hurry-sprite-mini.png
+SHA1-Digest: X028hCE2OK7U35oxie7H1SmPgF8=
+
+
+Name: assets/www/asset-v6/anime/16_hurry-sprite.png
+SHA1-Digest: D3Aj++xtCxwhiZ2ch7p+0eJk8DU=
+
+
+Name: assets/www/asset-v6/anime/16_hurry.json
+SHA1-Digest: 792ZQINwIneJKFxm9icLkOC4AAw=
+
+
+Name: assets/www/asset-v6/anime/17_good-sprite-hd.png
+SHA1-Digest: d/peMIR6LG1fcD2uzxKOS3OzkPE=
+
+
+Name: assets/www/asset-v6/anime/17_good-sprite-mini.png
+SHA1-Digest: WalewGywcFw5qz3PJ9J4DluRJDc=
+
+
+Name: assets/www/asset-v6/anime/17_good-sprite.png
+SHA1-Digest: 2XWahSgQxfnNPeir/taDtcLKKuM=
+
+
+Name: assets/www/asset-v6/anime/17_good.json
+SHA1-Digest: GJEYi2K84geu3fBAjVGtP/wKgBY=
+
+
+Name: assets/www/asset-v6/anime/18_mind-sprite-hd.png
+SHA1-Digest: Wx1Xua8Oh2+I2JLAj77hTNsntgI=
+
+
+Name: assets/www/asset-v6/anime/18_mind-sprite-mini.png
+SHA1-Digest: 4KCC3ygYxzUGv/u/Sdc+7D4hpCI=
+
+
+Name: assets/www/asset-v6/anime/18_mind-sprite.png
+SHA1-Digest: DLpHpPptgf4DM1kjo3nbeDzdaQU=
+
+
+Name: assets/www/asset-v6/anime/18_mind.json
+SHA1-Digest: xKBmfhZ7yyzACL/sgcTgez461ic=
+
+
+Name: assets/www/asset-v6/anime/19_haha-sprite-hd.png
+SHA1-Digest: 9Cq/PBA1vurZcJguDy/82OePWm4=
+
+
+Name: assets/www/asset-v6/anime/19_haha-sprite-mini.png
+SHA1-Digest: OsGsWFJvBboqSUDjP43tAtTkRPg=
+
+
+Name: assets/www/asset-v6/anime/19_haha-sprite.png
+SHA1-Digest: Q37WQtZ1anlF7DmT9LKp2qSkqME=
+
+
+Name: assets/www/asset-v6/anime/19_haha.json
+SHA1-Digest: TmShG9mbxNRUVh19tKtqFfTWnDo=
+
+
+Name: assets/www/asset-v6/anime/1_kick-sprite-hd.png
+SHA1-Digest: 6e5Yn/edMFREhZSoRbPLdhxFPa0=
+
+
+Name: assets/www/asset-v6/anime/1_kick-sprite-mini.png
+SHA1-Digest: b1gfzKxJdO9Oeu8kqQyS5u6JsjA=
+
+
+Name: assets/www/asset-v6/anime/1_kick-sprite.png
+SHA1-Digest: GhZHaxkWJFC8YvW+FYiJFNF4maQ=
+
+
+Name: assets/www/asset-v6/anime/1_kick.json
+SHA1-Digest: xLyJ+mZyO3cvZ2uv0QEfpa+rw00=
+
+
+Name: assets/www/asset-v6/anime/20_wow-sprite-hd.png
+SHA1-Digest: wtoXkFS8DYN57CxxU1tmyT7+nEU=
+
+
+Name: assets/www/asset-v6/anime/20_wow-sprite-mini.png
+SHA1-Digest: xpF1aPFSQdi/+9aL/IN/OroERdU=
+
+
+Name: assets/www/asset-v6/anime/20_wow-sprite.png
+SHA1-Digest: ZgYTshA+eeAoKQ7kW3F3h8pZly8=
+
+
+Name: assets/www/asset-v6/anime/20_wow.json
+SHA1-Digest: U2uDYzlHuiz9NWOzo2VDwOPJ07U=
+
+
+Name: assets/www/asset-v6/anime/2_snare-sprite-hd.png
+SHA1-Digest: M8ADxMM5lRtZa8KumXKzNi4G5vo=
+
+
+Name: assets/www/asset-v6/anime/2_snare-sprite-mini.png
+SHA1-Digest: 9LB9dQQrrgkiwV8+br3k5FL6pPo=
+
+
+Name: assets/www/asset-v6/anime/2_snare-sprite.png
+SHA1-Digest: qHn4Q093JB0CiHyCb/5lIEVTDVg=
+
+
+Name: assets/www/asset-v6/anime/2_snare.json
+SHA1-Digest: /UypAVYmSEqm2wolybDA9akPWrw=
+
+
+Name: assets/www/asset-v6/anime/3_kanye-sprite-hd.png
+SHA1-Digest: pYF9JeDs3nikVF25hugflKq61Ew=
+
+
+Name: assets/www/asset-v6/anime/3_kanye-sprite-mini.png
+SHA1-Digest: D7H28yi0xuO4HMmS2YC0J9/NgZI=
+
+
+Name: assets/www/asset-v6/anime/3_kanye-sprite.png
+SHA1-Digest: yMLQz7dSIFi+hz9afdnhEekulTs=
+
+
+Name: assets/www/asset-v6/anime/3_kanye.json
+SHA1-Digest: 9wxYqY0LykNJXiA0+oINCRoEt4Q=
+
+
+Name: assets/www/asset-v6/anime/4_tuctuc-sprite-hd.png
+SHA1-Digest: 8XbQdBiM4IOrDpDtfDnhzGbKRvc=
+
+
+Name: assets/www/asset-v6/anime/4_tuctuc-sprite-mini.png
+SHA1-Digest: w3m8y0/0ST16BBCVzJe/lKoWV6g=
+
+
+Name: assets/www/asset-v6/anime/4_tuctuc-sprite.png
+SHA1-Digest: 3Y37Ieb6qwfIGJUIlaGsslFaxvg=
+
+
+Name: assets/www/asset-v6/anime/4_tuctuc.json
+SHA1-Digest: oakAkgJJR3Kd06eWFLXu0BdjU0k=
+
+
+Name: assets/www/asset-v6/anime/5_break-sprite-hd.png
+SHA1-Digest: T0yGdigO/AYqrrbWCNnHXGHgUQ4=
+
+
+Name: assets/www/asset-v6/anime/5_break-sprite-mini.png
+SHA1-Digest: 22OdhLLA1dFQ+gl1favbuqSJDyY=
+
+
+Name: assets/www/asset-v6/anime/5_break-sprite.png
+SHA1-Digest: 1zvd0agZvzvNmloOQ6KWc7eQ/Ts=
+
+
+Name: assets/www/asset-v6/anime/5_break.json
+SHA1-Digest: 7wLIWl5OzyCyyv9MwTNFIJkz68k=
+
+
+Name: assets/www/asset-v6/anime/6_cribasse-sprite-hd.png
+SHA1-Digest: /ivgfeNOIrxmJGaNCMh3a/r/Veg=
+
+
+Name: assets/www/asset-v6/anime/6_cribasse-sprite-mini.png
+SHA1-Digest: 7YfhmTLN1bnmcmcCs/mshGXUcJ4=
+
+
+Name: assets/www/asset-v6/anime/6_cribasse-sprite.png
+SHA1-Digest: GqyI8uE/qYIlUYrqOoVFsepW8ks=
+
+
+Name: assets/www/asset-v6/anime/6_cribasse.json
+SHA1-Digest: QfoJaD9J5HSMQItQckIAjBHAYZc=
+
+
+Name: assets/www/asset-v6/anime/7_distotut-sprite-hd.png
+SHA1-Digest: FUpyYGdTlBvKZkp8Sk3EzGRtW9E=
+
+
+Name: assets/www/asset-v6/anime/7_distotut-sprite-mini.png
+SHA1-Digest: /TI3AvVdJ6JeUuf4isL1gzOVI8s=
+
+
+Name: assets/www/asset-v6/anime/7_distotut-sprite.png
+SHA1-Digest: //tkprfn7OAP1WxIKBZ4ErO83uA=
+
+
+Name: assets/www/asset-v6/anime/7_distotut.json
+SHA1-Digest: T8ELLRAuU1NmwUeEOQ7/Wy76Dxw=
+
+
+Name: assets/www/asset-v6/anime/8_screw-sprite-hd.png
+SHA1-Digest: Ot3r8/1ViUahPUconpPkpQUUNvc=
+
+
+Name: assets/www/asset-v6/anime/8_screw-sprite-mini.png
+SHA1-Digest: KMJPQ86jyiFQI5XRMcDBezXYsN4=
+
+
+Name: assets/www/asset-v6/anime/8_screw-sprite.png
+SHA1-Digest: Hy/Ru2+hKNvITwMDesEfOpiByJs=
+
+
+Name: assets/www/asset-v6/anime/8_screw.json
+SHA1-Digest: j48c+GJ9sm7HIzX9j49uXzomSkI=
+
+
+Name: assets/www/asset-v6/anime/9_shaolin-sprite-hd.png
+SHA1-Digest: Bsw7IiolHU0r0XGgmX850yNV42c=
+
+
+Name: assets/www/asset-v6/anime/9_shaolin-sprite-mini.png
+SHA1-Digest: /4O7OoR5aEMDsHZZC3u0YfLG+4U=
+
+
+Name: assets/www/asset-v6/anime/9_shaolin-sprite.png
+SHA1-Digest: Mvy19EjafHO/JRp32jSlb2r2Jy4=
+
+
+Name: assets/www/asset-v6/anime/9_shaolin.json
+SHA1-Digest: nKwfufQaJNOMStU2+ToSrWiM8kg=
+
+
+Name: assets/www/asset-v6/app.js
+SHA1-Digest: BYMGlv7tmhDLDPJgRUHUHtbAN/E=
+
+
+Name: assets/www/asset-v6/img/game-bck-hd.jpg
+SHA1-Digest: ZgOHPGqtBO9mEdE5/7RcmaX7KDE=
+
+
+Name: assets/www/asset-v6/img/game-bck.jpg
+SHA1-Digest: HgEI4DCqZh6eDahGLaD2r/r55mc=
+
+
+Name: assets/www/asset-v6/img/game-picto-hd.png
+SHA1-Digest: DQLXZ0miPPuoHZI5HwAgoTwuEOo=
+
+
+Name: assets/www/asset-v6/img/game-picto.png
+SHA1-Digest: 9pQAHzdJO5Hm8yA2z90Tf/rxW9Y=
+
+
+Name: assets/www/asset-v6/img/home-titre-hd.png
+SHA1-Digest: /Xw2XvBl5HLf4ev6fZEzFyRF97g=
+
+
+Name: assets/www/asset-v6/img/home-titre.png
+SHA1-Digest: IwkbN2eifv6Zp0PjDV1Btkmwtcs=
+
+
+Name: assets/www/asset-v6/img/home-version-hd.png
+SHA1-Digest: j7p+IAVNdvhOhx0qqyc2uJ82QIg=
+
+
+Name: assets/www/asset-v6/img/home-version.png
+SHA1-Digest: fk6SbTFt5VSR86NebTHzK8ln8Hg=
+
+
+Name: assets/www/asset-v6/img/polo-sprite-hd.png
+SHA1-Digest: 2PCFuErgWTKbQQN98EUN9wZw30M=
+
+
+Name: assets/www/asset-v6/img/polo-sprite-mini.png
+SHA1-Digest: 1VMQWKtrlFjjQplqBXU2b1txflo=
+
+
+Name: assets/www/asset-v6/img/polo-sprite.png
+SHA1-Digest: CDTnV9wEpoo+fKjW4KOF5D8NrTM=
+
+
+Name: assets/www/asset-v6/sound/ogg/10_shower_a.ogg
+SHA1-Digest: DkRc9c+gjU/BUm3MOu/Y4TtgY8U=
+
+
+Name: assets/www/asset-v6/sound/ogg/11_basse_a.ogg
+SHA1-Digest: gRMF44c+WQ8TWneJv06DRSs1tiU=
+
+
+Name: assets/www/asset-v6/sound/ogg/12_hou_a.ogg
+SHA1-Digest: NZdWk4YF8zvhGGWPaWG5TVAgwfA=
+
+
+Name: assets/www/asset-v6/sound/ogg/13_clav_a.ogg
+SHA1-Digest: vGbuEZz4vjYKDZAyCaqVltVn4dk=
+
+
+Name: assets/www/asset-v6/sound/ogg/14_synth_a.ogg
+SHA1-Digest: 86lA94aOhc/pcV7t4NnzLGvmyrQ=
+
+
+Name: assets/www/asset-v6/sound/ogg/15_yah_a.ogg
+SHA1-Digest: aVJ+yTjQFxzwTL68VZGRIEB6vyA=
+
+
+Name: assets/www/asset-v6/sound/ogg/16_hurry_a.ogg
+SHA1-Digest: jnsM7AV2f65dpXN/5rBn2mwco8c=
+
+
+Name: assets/www/asset-v6/sound/ogg/17_good_a.ogg
+SHA1-Digest: 6h0iMdsc8baTzSM3VHinGbvCdNI=
+
+
+Name: assets/www/asset-v6/sound/ogg/18_mind_a.ogg
+SHA1-Digest: eVDHSm43eMRXXMo7x3bAh1lfjkY=
+
+
+Name: assets/www/asset-v6/sound/ogg/19_haha_a.ogg
+SHA1-Digest: UB6EB3aF4Yj55c0z6CPKhlT+D/I=
+
+
+Name: assets/www/asset-v6/sound/ogg/1_kick_a.ogg
+SHA1-Digest: iXbdIHazF//xxhD/RbR0Qjw9NNQ=
+
+
+Name: assets/www/asset-v6/sound/ogg/20_wow_a.ogg
+SHA1-Digest: FeHn8CXnBE43WmPViVN6P76UiHE=
+
+
+Name: assets/www/asset-v6/sound/ogg/2_snare_a.ogg
+SHA1-Digest: kxtQsH+9D4nZ2cw4ZGp2dRCXPwU=
+
+
+Name: assets/www/asset-v6/sound/ogg/3_kanye_a.ogg
+SHA1-Digest: 7EnLrGxmHsLoqJyChQq4L6tZjvw=
+
+
+Name: assets/www/asset-v6/sound/ogg/4_tuctuc_a.ogg
+SHA1-Digest: 7+OPbhTzgaPEgfN7DT71aksu7WA=
+
+
+Name: assets/www/asset-v6/sound/ogg/5_break_a.ogg
+SHA1-Digest: dCOTUxEWlZKV2d0CauSBlqeF2ek=
+
+
+Name: assets/www/asset-v6/sound/ogg/6_cribasse_a.ogg
+SHA1-Digest: Q+IVulTMNAczzAprEZ3irrjTzaA=
+
+
+Name: assets/www/asset-v6/sound/ogg/7_distotut_a.ogg
+SHA1-Digest: eZK0FgpVXMn9v9BSREF8bYrkzZE=
+
+
+Name: assets/www/asset-v6/sound/ogg/8_screw_a.ogg
+SHA1-Digest: gvkHA+LdkZkxHSeFoCE1uaQPRHk=
+
+
+Name: assets/www/asset-v6/sound/ogg/9_shaolin_a.ogg
+SHA1-Digest: o14v4eNtx0tANT6YNIaC5ESKXXM=
+
+
+Name: assets/www/asset-v6/sound/ogg/aspire-alive.ogg
+SHA1-Digest: NZnPsbaGMKh9dIz0KN7nCf/ycho=
+
+
+Name: assets/www/asset-v6/sound/ogg/aspire-busta.ogg
+SHA1-Digest: 4CIVeOfY6VgG/GRuAvm8FjUjyz4=
+
+
+Name: assets/www/asset-v6/sound/ogg/aspire-vr.ogg
+SHA1-Digest: oxaQM85dkzLlCrwnoR1kNv35buU=
+
+
+Name: assets/www/asset-v6/sound/ogg/bonus-alive.ogg
+SHA1-Digest: bbnINCzukACKeqNI4U/8ZkWV70c=
+
+
+Name: assets/www/asset-v6/sound/ogg/bonus-busta.ogg
+SHA1-Digest: lKSlIbgQu4CzWqOPq/1RjxqpFmc=
+
+
+Name: assets/www/asset-v6/sound/ogg/bonus-vr.ogg
+SHA1-Digest: DH8hmtteJHXloZ/7vhUCkSHxvGU=
+
+
+Name: assets/www/asset-v6/splash/big-homescreen-hd.jpg
+SHA1-Digest: Y3kmtzk0ekIHV+uEAd60vnvK3xo=
+
+
+Name: assets/www/asset-v6/splash/big-homescreen.jpg
+SHA1-Digest: 2fx2n/vzjK4nPWxbfGEfxK2WeVQ=
+
+
+Name: assets/www/asset-v6/splash/homescreen-hd.jpg
+SHA1-Digest: /jj3iTuu/LdY9O9o9S6BAKRqOYk=
+
+
+Name: assets/www/asset-v6/splash/homescreen.jpg
+SHA1-Digest: ORv8NBDRmvkGHPnASx+SDfq1214=
+
+
+Name: assets/www/asset-v6/video/v6-b1-alive-hb-hd.mp4
+SHA1-Digest: fU5RqiygAOwnriymEuDoNEHooRs=
+
+
+Name: assets/www/asset-v6/video/v6-b1-alive-hb-mini.mp4
+SHA1-Digest: 1EXF9SpYrfhoRFWyMuwDUd828ck=
+
+
+Name: assets/www/asset-v6/video/v6-b1-alive-hb.mp4
+SHA1-Digest: tzRhRIUwbSyVBMXUCJgHRwah6Jg=
+
+
+Name: assets/www/asset-v6/video/v6-b1-bck.jpg
+SHA1-Digest: eKPXa1IFC9DNMh7VvnjYWBpv+Z8=
+
+
+Name: assets/www/asset-v6/video/v6-b2-bck.jpg
+SHA1-Digest: +kz0bSHOTJpopsh/M8ikprBGtcw=
+
+
+Name: assets/www/asset-v6/video/v6-b2-busta-hb-hd.mp4
+SHA1-Digest: zXr2vXKgvt+N1u6Kv4IDvvOUorc=
+
+
+Name: assets/www/asset-v6/video/v6-b2-busta-hb-mini.mp4
+SHA1-Digest: CMHgSXiEDB8+wuip84F83+SUzDI=
+
+
+Name: assets/www/asset-v6/video/v6-b2-busta-hb.mp4
+SHA1-Digest: HkCrTTLAH4+ByfkpkCkpzPjYVcE=
+
+
+Name: assets/www/asset-v6/video/v6-b3-bck.jpg
+SHA1-Digest: 7f1XTgtS1gMv1fYCQv/uPsxb/w0=
+
+
+Name: assets/www/asset-v6/video/v6-b3-vr-hb-hd.mp4
+SHA1-Digest: tv0EXyDYJc7hpgrfbHbULd3TA5I=
+
+
+Name: assets/www/asset-v6/video/v6-b3-vr-hb-mini.mp4
+SHA1-Digest: 8mt5A15vsbVYkA4Fkac54hqIxMk=
+
+
+Name: assets/www/asset-v6/video/v6-b3-vr-hb.mp4
+SHA1-Digest: fWr1EoSSfwBOhK5Cy/sIeJF0wFo=
+
+
+Name: assets/www/asset-v7/anime/10_string-sprite-hd.png
+SHA1-Digest: KPJ7OhIASjORWu2lOCorUG9fqxk=
+
+
+Name: assets/www/asset-v7/anime/10_string-sprite-mini.png
+SHA1-Digest: P5jGDxf69LwuALIEDuYt7GON+ok=
+
+
+Name: assets/www/asset-v7/anime/10_string-sprite.png
+SHA1-Digest: wEFK5GfBEUQk6fFKiDAvP/2bcQQ=
+
+
+Name: assets/www/asset-v7/anime/10_string.json
+SHA1-Digest: 6E4KxKopu7bM7KeZy1kD5PBXGZo=
+
+
+Name: assets/www/asset-v7/anime/11_citar-sprite-hd.png
+SHA1-Digest: q09DCrQc4fBmZViuQ1woOIZD9fE=
+
+
+Name: assets/www/asset-v7/anime/11_citar-sprite-mini.png
+SHA1-Digest: IaUrfZTq41dGjynWl3ZZX2WBOhw=
+
+
+Name: assets/www/asset-v7/anime/11_citar-sprite.png
+SHA1-Digest: koloI+miNzVSX3jXLCCgEyDJG9c=
+
+
+Name: assets/www/asset-v7/anime/11_citar.json
+SHA1-Digest: 6c+8x9pnKDJZH8UXcl3ZQnSxO3s=
+
+
+Name: assets/www/asset-v7/anime/12_guit-sprite-hd.png
+SHA1-Digest: j4X0wOb79loAL+Rloxnc5S8JC54=
+
+
+Name: assets/www/asset-v7/anime/12_guit-sprite-mini.png
+SHA1-Digest: BXCDl6GGwxNZWkeL/pLQDS6s68U=
+
+
+Name: assets/www/asset-v7/anime/12_guit-sprite.png
+SHA1-Digest: cwq1ge16SHA7nX1VTt/AP+6tVXc=
+
+
+Name: assets/www/asset-v7/anime/12_guit.json
+SHA1-Digest: qLLZKqkn/yYW1g+ktEl8iflFVgE=
+
+
+Name: assets/www/asset-v7/anime/13_tromp-sprite-hd.png
+SHA1-Digest: QrIJ5AU2TMfyW0BoTshsFIUBtq0=
+
+
+Name: assets/www/asset-v7/anime/13_tromp-sprite-mini.png
+SHA1-Digest: VVpaQQIftnK+gDvknztLTtgDFQs=
+
+
+Name: assets/www/asset-v7/anime/13_tromp-sprite.png
+SHA1-Digest: obufb7tUcz9pUxZZ9fKwoSIWOj0=
+
+
+Name: assets/www/asset-v7/anime/13_tromp.json
+SHA1-Digest: YQaQidni6v6cZm2XEsEe3SuniXM=
+
+
+Name: assets/www/asset-v7/anime/14_taoung-sprite-hd.png
+SHA1-Digest: 59Qf+Z2CL/zhyfMgYG7LOyT+61o=
+
+
+Name: assets/www/asset-v7/anime/14_taoung-sprite-mini.png
+SHA1-Digest: 0cBEfiGz3e1o9oKB5Y35dx4TG78=
+
+
+Name: assets/www/asset-v7/anime/14_taoung-sprite.png
+SHA1-Digest: sLvQ5zvKEs/3WJcFYnW33BCO0co=
+
+
+Name: assets/www/asset-v7/anime/14_taoung.json
+SHA1-Digest: 5SPMBBW91ePmRIqty/UehyyZ+sw=
+
+
+Name: assets/www/asset-v7/anime/15_sifle-sprite-hd.png
+SHA1-Digest: uVDzkyNHZHYoQOT6aoP7aCNi5xI=
+
+
+Name: assets/www/asset-v7/anime/15_sifle-sprite-mini.png
+SHA1-Digest: PDRbJI4a5EWBzt/TvZWASDFJvqo=
+
+
+Name: assets/www/asset-v7/anime/15_sifle-sprite.png
+SHA1-Digest: 1XLsQ+lSzSg/hGxbgU6ntavOuok=
+
+
+Name: assets/www/asset-v7/anime/15_sifle.json
+SHA1-Digest: Jn57RyeyWOL1HrADoetGSFOk5ic=
+
+
+Name: assets/www/asset-v7/anime/16_djindr-sprite-hd.png
+SHA1-Digest: nKU3X2rnx8nvL5c3qF5vSm0Q4SA=
+
+
+Name: assets/www/asset-v7/anime/16_djindr-sprite-mini.png
+SHA1-Digest: Y7KuT3nWOnVenUGhV/kNE8ZsKNA=
+
+
+Name: assets/www/asset-v7/anime/16_djindr-sprite.png
+SHA1-Digest: gNEkql39fHKFTEUSuM54y3VL4Gg=
+
+
+Name: assets/www/asset-v7/anime/16_djindr.json
+SHA1-Digest: +/3yKHMLY2Xg5E22z04cMyBfffw=
+
+
+Name: assets/www/asset-v7/anime/17_djinga-sprite-hd.png
+SHA1-Digest: wjWne5xigBAYrgqFLNgNK5nU54g=
+
+
+Name: assets/www/asset-v7/anime/17_djinga-sprite-mini.png
+SHA1-Digest: F99Ucx3RQsXPtwr4hfvPhB6Y0oQ=
+
+
+Name: assets/www/asset-v7/anime/17_djinga-sprite.png
+SHA1-Digest: 2Waf5zXq2Jalkp4pMd3O1Or32Ks=
+
+
+Name: assets/www/asset-v7/anime/17_djinga.json
+SHA1-Digest: qypQDNqC4Fd6c3ZP2kW8T5RLAyE=
+
+
+Name: assets/www/asset-v7/anime/18_djinta-sprite-hd.png
+SHA1-Digest: jN+r5pOJAWORcnX9DWnO+s9DdE0=
+
+
+Name: assets/www/asset-v7/anime/18_djinta-sprite-mini.png
+SHA1-Digest: R8Xu4sgVfVtFuuu1fyHNztzqmiY=
+
+
+Name: assets/www/asset-v7/anime/18_djinta-sprite.png
+SHA1-Digest: 2TBAWmzVrdgUjRW9jvEe87jY968=
+
+
+Name: assets/www/asset-v7/anime/18_djinta.json
+SHA1-Digest: FQBTV3HyzSd4t4mb0YEZmluUaJk=
+
+
+Name: assets/www/asset-v7/anime/19_jeevan-sprite-hd.png
+SHA1-Digest: j2dpwL+FbmHnPuLwTwt+afqMAHA=
+
+
+Name: assets/www/asset-v7/anime/19_jeevan-sprite-mini.png
+SHA1-Digest: nMc0d/oKsuoEe1VIJVphJ8DQASo=
+
+
+Name: assets/www/asset-v7/anime/19_jeevan-sprite.png
+SHA1-Digest: D5qPM3KNXLmUDE6ylGXPybxTKXY=
+
+
+Name: assets/www/asset-v7/anime/19_jeevan.json
+SHA1-Digest: 8/DFDdj7pQIe4iGd0j+N+kSwI+Y=
+
+
+Name: assets/www/asset-v7/anime/1_lead-sprite-hd.png
+SHA1-Digest: MrpNJEekbU6cJ53pj/rF+TH+YeI=
+
+
+Name: assets/www/asset-v7/anime/1_lead-sprite-mini.png
+SHA1-Digest: Toz207OKGxLmz1W81sgYQZFXweY=
+
+
+Name: assets/www/asset-v7/anime/1_lead-sprite.png
+SHA1-Digest: 5U/buo9CWMLVbVaxWTz87djWuiI=
+
+
+Name: assets/www/asset-v7/anime/1_lead.json
+SHA1-Digest: nDHnU6Bw7rE3Zz4Fqkmbg5CCRgE=
+
+
+Name: assets/www/asset-v7/anime/20_yaha-sprite-hd.png
+SHA1-Digest: PqagaCjlBV+GM438yIYhkpzzzD8=
+
+
+Name: assets/www/asset-v7/anime/20_yaha-sprite-mini.png
+SHA1-Digest: OW1BSwK1Yf+i/V4KTbwSGNaSy70=
+
+
+Name: assets/www/asset-v7/anime/20_yaha-sprite.png
+SHA1-Digest: 2yUxi4Dch8QZYWn+rD34Wb7v2wo=
+
+
+Name: assets/www/asset-v7/anime/20_yaha.json
+SHA1-Digest: q5pOw6+IMNQD1CLN10LMZKxoLv4=
+
+
+Name: assets/www/asset-v7/anime/2_pouin-sprite-hd.png
+SHA1-Digest: YWfphUvO+GURjIy5f8I6xIQmEtI=
+
+
+Name: assets/www/asset-v7/anime/2_pouin-sprite-mini.png
+SHA1-Digest: Sjh0lbNjrvXX6WZLxeuYHkTIpyw=
+
+
+Name: assets/www/asset-v7/anime/2_pouin-sprite.png
+SHA1-Digest: Qxl+367tHHz+mt0YrZzDYohXsuE=
+
+
+Name: assets/www/asset-v7/anime/2_pouin.json
+SHA1-Digest: +8E0at5U6hGuZ8VxCQ/tioER2Jo=
+
+
+Name: assets/www/asset-v7/anime/3_tung-sprite-hd.png
+SHA1-Digest: F9C0be9aE78bJfT1/Vzq9HKCQoc=
+
+
+Name: assets/www/asset-v7/anime/3_tung-sprite-mini.png
+SHA1-Digest: J0F/YGnLkaO6aF2htOAo+J3xJqY=
+
+
+Name: assets/www/asset-v7/anime/3_tung-sprite.png
+SHA1-Digest: kFRI2rjTW58D4sIyjhoiEu0BgLU=
+
+
+Name: assets/www/asset-v7/anime/3_tung.json
+SHA1-Digest: CoK6zFEgUOxL1SewhoZeqT7/1ZU=
+
+
+Name: assets/www/asset-v7/anime/4_tabla-sprite-hd.png
+SHA1-Digest: 4XdSOl68gr9bZef/lERG0nkA708=
+
+
+Name: assets/www/asset-v7/anime/4_tabla-sprite-mini.png
+SHA1-Digest: XNzs7fMmAaQTzeQw7aEXczBw49I=
+
+
+Name: assets/www/asset-v7/anime/4_tabla-sprite.png
+SHA1-Digest: Pr7as94OHH3xkyh/Iqkiz2qweKg=
+
+
+Name: assets/www/asset-v7/anime/4_tabla.json
+SHA1-Digest: 52tAzG/wgthh4SuR8fuzJDrWscM=
+
+
+Name: assets/www/asset-v7/anime/5_tuduki-sprite-hd.png
+SHA1-Digest: wisf0IpP89nJS309z0mJDXngGQg=
+
+
+Name: assets/www/asset-v7/anime/5_tuduki-sprite-mini.png
+SHA1-Digest: ZAcZhu7L4O7djzh8BCDIG6lUTa0=
+
+
+Name: assets/www/asset-v7/anime/5_tuduki-sprite.png
+SHA1-Digest: xYZYKqkfgrSovTLpBzrNoCy0jyg=
+
+
+Name: assets/www/asset-v7/anime/5_tuduki.json
+SHA1-Digest: ev9jPhvXeNSc8AeaHhJ2rNdmqiY=
+
+
+Name: assets/www/asset-v7/anime/6_bass-sprite-hd.png
+SHA1-Digest: 6KRg0w/soaajt5x4abAzYW8Ev+I=
+
+
+Name: assets/www/asset-v7/anime/6_bass-sprite-mini.png
+SHA1-Digest: VpOVlrPG8daroBiATWXdCNkTC4U=
+
+
+Name: assets/www/asset-v7/anime/6_bass-sprite.png
+SHA1-Digest: si9U960kGzhxIcxCRjyhOywe//A=
+
+
+Name: assets/www/asset-v7/anime/6_bass.json
+SHA1-Digest: QH8Hoa3S86Ga4R7a8yuuraVpiL4=
+
+
+Name: assets/www/asset-v7/anime/7_bourdon-sprite-hd.png
+SHA1-Digest: c/dhY03QzJsxXeoU7o84H4K3uo0=
+
+
+Name: assets/www/asset-v7/anime/7_bourdon-sprite-mini.png
+SHA1-Digest: ZTGm8C5igO6/H2pMH7R7Lni6OUk=
+
+
+Name: assets/www/asset-v7/anime/7_bourdon-sprite.png
+SHA1-Digest: +Ajtq3ArPq/5AyfKRWy9EnzbU5g=
+
+
+Name: assets/www/asset-v7/anime/7_bourdon.json
+SHA1-Digest: WCm/bLzGrHpmmIiwsowDW4aSkL8=
+
+
+Name: assets/www/asset-v7/anime/8_campan-sprite-hd.png
+SHA1-Digest: p/5b+b/fdrXsavSJOHO2Uj/meak=
+
+
+Name: assets/www/asset-v7/anime/8_campan-sprite-mini.png
+SHA1-Digest: GGxkhdtY9Pu02RP5W6txP32huc4=
+
+
+Name: assets/www/asset-v7/anime/8_campan-sprite.png
+SHA1-Digest: 4cJPrxlEX53pWrdBCYYfdOom8yU=
+
+
+Name: assets/www/asset-v7/anime/8_campan.json
+SHA1-Digest: qv+3Fls4jlE8ZxgWIyopug3Nobw=
+
+
+Name: assets/www/asset-v7/anime/9_kum-sprite-hd.png
+SHA1-Digest: AYflUt2gm9X4Udq01jGwmg9kH7g=
+
+
+Name: assets/www/asset-v7/anime/9_kum-sprite-mini.png
+SHA1-Digest: wXOKZJIHVxG3FnAwmD/LJqpggzw=
+
+
+Name: assets/www/asset-v7/anime/9_kum-sprite.png
+SHA1-Digest: CUsshiBdUMjL0aoMNYdiSlH/z+E=
+
+
+Name: assets/www/asset-v7/anime/9_kum.json
+SHA1-Digest: 9LcCdNyxq7dGohRDDk5gphZOe1g=
+
+
+Name: assets/www/asset-v7/app.js
+SHA1-Digest: A8Ia5qkIB1x6ejMlXwj0nWaOxrA=
+
+
+Name: assets/www/asset-v7/img/game-bck-hd.jpg
+SHA1-Digest: 9dBq8l5/A5hcWBeRQ6B7R3KIOb8=
+
+
+Name: assets/www/asset-v7/img/game-bck.jpg
+SHA1-Digest: SBGjSPbp3QSNl1OLUlAssTj3X78=
+
+
+Name: assets/www/asset-v7/img/game-picto-hd.png
+SHA1-Digest: +mc/y+i9wh6MyctKBqQ5GkwxvJY=
+
+
+Name: assets/www/asset-v7/img/game-picto.png
+SHA1-Digest: dUxsaqaU7unaFM0FgYRZ9CbjT6Y=
+
+
+Name: assets/www/asset-v7/img/home-titre-hd.png
+SHA1-Digest: pvqYJli4c1SqWeID9HZr649oB9A=
+
+
+Name: assets/www/asset-v7/img/home-titre.png
+SHA1-Digest: 89MQDIlh3rgE3vE8UVdknflNaZQ=
+
+
+Name: assets/www/asset-v7/img/home-version-hd.png
+SHA1-Digest: XhkDpoA9T6zz8nLo+ljgAaPTTdo=
+
+
+Name: assets/www/asset-v7/img/home-version.png
+SHA1-Digest: T510QYAwMaOliKkKRLDLQJkgTrc=
+
+
+Name: assets/www/asset-v7/img/polo-sprite-hd.png
+SHA1-Digest: v9q+XzKRIMxdPej9cxr9CElK3o4=
+
+
+Name: assets/www/asset-v7/img/polo-sprite-mini.png
+SHA1-Digest: RcdnQS0JjNtgjIRsgdkcp3At22I=
+
+
+Name: assets/www/asset-v7/img/polo-sprite.png
+SHA1-Digest: vztu660ImHAArq7Ss0nCmNKOKmY=
+
+
+Name: assets/www/asset-v7/sound/ogg/10_string_a.ogg
+SHA1-Digest: eQGFU6jUQe2lPAH+CvrAA6e2Vu4=
+
+
+Name: assets/www/asset-v7/sound/ogg/10_string_b.ogg
+SHA1-Digest: pAsgwein2av/4we6huG1nAwB/B0=
+
+
+Name: assets/www/asset-v7/sound/ogg/11_citar_a.ogg
+SHA1-Digest: OfV/G6StMm8C9WgpVAvByW2bOBs=
+
+
+Name: assets/www/asset-v7/sound/ogg/12_guit_a.ogg
+SHA1-Digest: Z6CUpEN4y/cVTX6ucqJXGa11Ibc=
+
+
+Name: assets/www/asset-v7/sound/ogg/13_tromp_a.ogg
+SHA1-Digest: hR1x6LezDVch1IM3EGkwat/nqBY=
+
+
+Name: assets/www/asset-v7/sound/ogg/13_tromp_b.ogg
+SHA1-Digest: U7XRmr0PYwU7d0pNQc6WA9Z9CHk=
+
+
+Name: assets/www/asset-v7/sound/ogg/14_taoung_a.ogg
+SHA1-Digest: EwH5egQ8Yl1/i7A63UQqtagZTCQ=
+
+
+Name: assets/www/asset-v7/sound/ogg/15_sifle_a.ogg
+SHA1-Digest: D0EZN3pmhK1PkSBg+v+BcIpvqGI=
+
+
+Name: assets/www/asset-v7/sound/ogg/15_sifle_b.ogg
+SHA1-Digest: 32s+vOqisru9xFke2ZRwFG+/9Ec=
+
+
+Name: assets/www/asset-v7/sound/ogg/16_djindr_a.ogg
+SHA1-Digest: jOVLknU3v+5lt0msF9KRQnoTg9Q=
+
+
+Name: assets/www/asset-v7/sound/ogg/17_djinga_a.ogg
+SHA1-Digest: /xu9c3bdTvwfRYMcpmeaoyY7JKo=
+
+
+Name: assets/www/asset-v7/sound/ogg/18_djinta_a.ogg
+SHA1-Digest: +w01QFgpODsfr4COgFVNmxWLSAk=
+
+
+Name: assets/www/asset-v7/sound/ogg/19_jeevan_a.ogg
+SHA1-Digest: Rac9SuXiblgyRjJnhpEHu65LOCE=
+
+
+Name: assets/www/asset-v7/sound/ogg/19_jeevan_b.ogg
+SHA1-Digest: teZcfH2woEOzr9syVYQE06pDozU=
+
+
+Name: assets/www/asset-v7/sound/ogg/1_lead_a.ogg
+SHA1-Digest: MBEYtW7q+VLh5ONdpIMlbhnSw0A=
+
+
+Name: assets/www/asset-v7/sound/ogg/20_yaha_a.ogg
+SHA1-Digest: a+cGFyl0upZ0iHKhd8z6tORPxVc=
+
+
+Name: assets/www/asset-v7/sound/ogg/20_yaha_b.ogg
+SHA1-Digest: nqKu/ygL0LdJcS94Y0W0FfqRSGY=
+
+
+Name: assets/www/asset-v7/sound/ogg/2_pouin_a.ogg
+SHA1-Digest: mifDd2b0WxgJlH6UQy9FO7NUVNw=
+
+
+Name: assets/www/asset-v7/sound/ogg/2_pouin_b.ogg
+SHA1-Digest: F1//Gj6mJ5PHYSwIn+iOmWex324=
+
+
+Name: assets/www/asset-v7/sound/ogg/3_tung_a.ogg
+SHA1-Digest: nD6xjr5djgEPj4Cxkdeg7guDtjM=
+
+
+Name: assets/www/asset-v7/sound/ogg/4_tabla_a.ogg
+SHA1-Digest: OzJGj9kJRQ+Ndae4MkMLje/BJ8Y=
+
+
+Name: assets/www/asset-v7/sound/ogg/5_tuduki_a.ogg
+SHA1-Digest: 6OR7g1JJRwLcyG2N6l6xp5DAvlg=
+
+
+Name: assets/www/asset-v7/sound/ogg/6_bass_a.ogg
+SHA1-Digest: V/di2WxJwiphcqApNYlSTfUOJUk=
+
+
+Name: assets/www/asset-v7/sound/ogg/6_bass_b.ogg
+SHA1-Digest: 6D9tVtdEzXQr3hgKQOAc41dO8pE=
+
+
+Name: assets/www/asset-v7/sound/ogg/7_bourdon_a.ogg
+SHA1-Digest: YfojQnbgC+uSuYzrHq5Y+IYrSow=
+
+
+Name: assets/www/asset-v7/sound/ogg/8_campan_a.ogg
+SHA1-Digest: yhOPpVl++nxnmxxoKWEWfhHCIYs=
+
+
+Name: assets/www/asset-v7/sound/ogg/9_kum_a.ogg
+SHA1-Digest: Bnkn2G/GSFyb17gNINEXUyNEn5s=
+
+
+Name: assets/www/asset-v7/sound/ogg/9_kum_b.ogg
+SHA1-Digest: gu63fXzSGFA53jSxpvJMmTblj38=
+
+
+Name: assets/www/asset-v7/sound/ogg/aspire_kabikabi.ogg
+SHA1-Digest: S4HQ1cp9S12DjwiHX3iCAwLELYs=
+
+
+Name: assets/www/asset-v7/sound/ogg/aspire_kofitez.ogg
+SHA1-Digest: NC5zKfKtLCifRNgnfcl8+s9EVic=
+
+
+Name: assets/www/asset-v7/sound/ogg/aspire_sapna.ogg
+SHA1-Digest: jAvd4nUomgCwkT8mmNFrglMCxDs=
+
+
+Name: assets/www/asset-v7/sound/ogg/bonus_kabikabi.ogg
+SHA1-Digest: UZ7vBh8+C5ZEhBkkVPKSuUYgzMo=
+
+
+Name: assets/www/asset-v7/sound/ogg/bonus_kofitez.ogg
+SHA1-Digest: S+yye8KCr2EcyN7v4kd4+exziVo=
+
+
+Name: assets/www/asset-v7/sound/ogg/bonus_sapna.ogg
+SHA1-Digest: ELdkaSVaXiJEr0u4ASNuXDb94PY=
+
+
+Name: assets/www/asset-v7/splash/big-homescreen-hd.jpg
+SHA1-Digest: BZfeixYH+wwuo4Ivo6K6s4m3Wb0=
+
+
+Name: assets/www/asset-v7/splash/big-homescreen.jpg
+SHA1-Digest: aUCk3ahOibqfMHrlSVakWPZztxU=
+
+
+Name: assets/www/asset-v7/splash/homescreen-hd.jpg
+SHA1-Digest: GXXoSzU+7Ftnvq4mhXiTck6YZTk=
+
+
+Name: assets/www/asset-v7/splash/homescreen.jpg
+SHA1-Digest: BaBb9xZgnLsgegYxsB3m37RXE2I=
+
+
+Name: assets/www/asset-v7/video/v7-b1-bck.jpg
+SHA1-Digest: AnkRJY7We4DTaZtEf3X9bi1nHUM=
+
+
+Name: assets/www/asset-v7/video/v7-b1-kofitez-hb-hd.mp4
+SHA1-Digest: WGTHMG2yoTFxmokDyLsKi4qNsmQ=
+
+
+Name: assets/www/asset-v7/video/v7-b1-kofitez-hb-mini.mp4
+SHA1-Digest: g8NUjX3XnwvB86CCTJzmtp3sFuE=
+
+
+Name: assets/www/asset-v7/video/v7-b1-kofitez-hb.mp4
+SHA1-Digest: WCa9VCiLD9LvKAa0UmsYvJl2Ph0=
+
+
+Name: assets/www/asset-v7/video/v7-b2-bck.jpg
+SHA1-Digest: LgTj8bUHiGOL/nGl24RtK0ypJHY=
+
+
+Name: assets/www/asset-v7/video/v7-b2-sapna-hb-hd.mp4
+SHA1-Digest: QRjfMYGlX1zXNu1//z7U+/R+93s=
+
+
+Name: assets/www/asset-v7/video/v7-b2-sapna-hb-mini.mp4
+SHA1-Digest: r3l5D4ZYzQDMtbLEtcrBFnHWcts=
+
+
+Name: assets/www/asset-v7/video/v7-b2-sapna-hb.mp4
+SHA1-Digest: zkbULyZmM5BSX9OhcdZ72CrJ82U=
+
+
+Name: assets/www/asset-v7/video/v7-b3-bck.jpg
+SHA1-Digest: Q1fTqOi66wzDfbusnAGo0JXsPKo=
+
+
+Name: assets/www/asset-v7/video/v7-b3-kabikabi-hb-hd.mp4
+SHA1-Digest: /RcXCyjR7xcUiq9Zx44FgsPJ/m0=
+
+
+Name: assets/www/asset-v7/video/v7-b3-kabikabi-hb-mini.mp4
+SHA1-Digest: 6r+r3Sv/2M545Vn6hgIyBM7rG+g=
+
+
+Name: assets/www/asset-v7/video/v7-b3-kabikabi-hb.mp4
+SHA1-Digest: 8Xy5EMsG71lBkXXc6rbYkWaw9PY=
+
+
+Name: assets/www/asset-v8/anime/10_epifle-sprite-hd.png
+SHA1-Digest: c/1hIx1uO4/qAvXccnHyBfiupZw=
+
+
+Name: assets/www/asset-v8/anime/10_epifle-sprite-mini.png
+SHA1-Digest: C29GjBEPj5R/JsxvWUyQi7LZ4R4=
+
+
+Name: assets/www/asset-v8/anime/10_epifle-sprite.png
+SHA1-Digest: HsbbrNCTixXnX2BhN1owdb/m1z4=
+
+
+Name: assets/www/asset-v8/anime/10_epifle.json
+SHA1-Digest: zx0/XHuJ1eYp05gQ0FlIQ/n2W3o=
+
+
+Name: assets/www/asset-v8/anime/11_arpeg-sprite-hd.png
+SHA1-Digest: G3X1CjctFOojVfdXaiGcPuAXGpU=
+
+
+Name: assets/www/asset-v8/anime/11_arpeg-sprite-mini.png
+SHA1-Digest: HlMKqMwVH7LaMtrub+EqpeznJ+Q=
+
+
+Name: assets/www/asset-v8/anime/11_arpeg-sprite.png
+SHA1-Digest: 4rqN5hdQUu8rZjIyrK3XC34+A5w=
+
+
+Name: assets/www/asset-v8/anime/11_arpeg.json
+SHA1-Digest: 7Lf/QvCbsHEGkc92QoWDNtp+MwQ=
+
+
+Name: assets/www/asset-v8/anime/12_tromp-sprite-hd.png
+SHA1-Digest: l+UosbOCS2iSNd3JlQP5WpnbTCc=
+
+
+Name: assets/www/asset-v8/anime/12_tromp-sprite-mini.png
+SHA1-Digest: jIEsBKrpJDBoWNBz6nbYmCeXuI4=
+
+
+Name: assets/www/asset-v8/anime/12_tromp-sprite.png
+SHA1-Digest: veANoNj7s7ydkEftcr1fZ4qCHzM=
+
+
+Name: assets/www/asset-v8/anime/12_tromp.json
+SHA1-Digest: /yvqNwT3yc4tLZegLa3mj6qQnoU=
+
+
+Name: assets/www/asset-v8/anime/13_pizzi-sprite-hd.png
+SHA1-Digest: i7qAd2NjqNiVoWH71bntIDZf8kw=
+
+
+Name: assets/www/asset-v8/anime/13_pizzi-sprite-mini.png
+SHA1-Digest: c0ZXFQUdm6vbXgWXdbas5OR7e8w=
+
+
+Name: assets/www/asset-v8/anime/13_pizzi-sprite.png
+SHA1-Digest: TlWV7xW3kYVhPaXJNMaYUdiMO1k=
+
+
+Name: assets/www/asset-v8/anime/13_pizzi.json
+SHA1-Digest: +Ho4KHCjJnM1G1O/Buyr8sq/qyg=
+
+
+Name: assets/www/asset-v8/anime/14_organ-sprite-hd.png
+SHA1-Digest: CvYbj/YsUAvYfyOSbIXbNi6Q+DY=
+
+
+Name: assets/www/asset-v8/anime/14_organ-sprite-mini.png
+SHA1-Digest: zjwENUQv+wPh/q0mtcRZd31wlzw=
+
+
+Name: assets/www/asset-v8/anime/14_organ-sprite.png
+SHA1-Digest: K+JP3tiNGNfQ3M7r84b1ybQ3t84=
+
+
+Name: assets/www/asset-v8/anime/14_organ.json
+SHA1-Digest: u0SX4OSbm55CyNoEgK9EA19zW8w=
+
+
+Name: assets/www/asset-v8/anime/15_synth-sprite-hd.png
+SHA1-Digest: gp6msrTPDNlrlJsp7Ce2/cXDHqc=
+
+
+Name: assets/www/asset-v8/anime/15_synth-sprite-mini.png
+SHA1-Digest: hLdD/e1pB9kh4fYcqoT2VWlZcBE=
+
+
+Name: assets/www/asset-v8/anime/15_synth-sprite.png
+SHA1-Digest: ekcgOX6QsY+3GEaVEk9dOltd5SY=
+
+
+Name: assets/www/asset-v8/anime/15_synth.json
+SHA1-Digest: XzB/ZNq9S0o5FcrBb361q+gSMeY=
+
+
+Name: assets/www/asset-v8/anime/16_follow-sprite-hd.png
+SHA1-Digest: DphEM7O0dFJ1rf58R6ZbVWJsPtc=
+
+
+Name: assets/www/asset-v8/anime/16_follow-sprite-mini.png
+SHA1-Digest: ufRlOSq6iNYwzAVtbb15MFsK+qY=
+
+
+Name: assets/www/asset-v8/anime/16_follow-sprite.png
+SHA1-Digest: fuVETrcMWMdFebsrSWNnm0DpqCM=
+
+
+Name: assets/www/asset-v8/anime/16_follow.json
+SHA1-Digest: z9gt6dPyrnt2RZIsW68fLCNadk0=
+
+
+Name: assets/www/asset-v8/anime/17_choir-sprite-hd.png
+SHA1-Digest: r5QdzrynXtFwNOoefxL+VXdiKcg=
+
+
+Name: assets/www/asset-v8/anime/17_choir-sprite-mini.png
+SHA1-Digest: oQMRPQXytC5qM8Hrd8YYIz3CBL4=
+
+
+Name: assets/www/asset-v8/anime/17_choir-sprite.png
+SHA1-Digest: yk4RBB/meLju09rr48AsgI/weVg=
+
+
+Name: assets/www/asset-v8/anime/17_choir.json
+SHA1-Digest: wUkj25wLhEL/El9kEfFML6s5gx8=
+
+
+Name: assets/www/asset-v8/anime/18_houhou-sprite-hd.png
+SHA1-Digest: X9i+NSeyao3Scl56B2hF0pbMjm4=
+
+
+Name: assets/www/asset-v8/anime/18_houhou-sprite-mini.png
+SHA1-Digest: inYhcpf2klCAun2Gojj0Tyr9l0A=
+
+
+Name: assets/www/asset-v8/anime/18_houhou-sprite.png
+SHA1-Digest: hyktdKQWWsSUyr2dg16SBdcMSyI=
+
+
+Name: assets/www/asset-v8/anime/18_houhou.json
+SHA1-Digest: DrZ2WbRlKmh2/nwcqLsiFLatWig=
+
+
+Name: assets/www/asset-v8/anime/19_reach-sprite-hd.png
+SHA1-Digest: Kvt3wTM/ePx9cxTtO7Zy/YUSyog=
+
+
+Name: assets/www/asset-v8/anime/19_reach-sprite-mini.png
+SHA1-Digest: gjFRs34nLmhqp+AYPmbqh03kUsM=
+
+
+Name: assets/www/asset-v8/anime/19_reach-sprite.png
+SHA1-Digest: nhYLLCUID0LMtjlyzI2zkgU9om8=
+
+
+Name: assets/www/asset-v8/anime/19_reach.json
+SHA1-Digest: PMJZDTTwJJQhkXy/NPGz7TfUg7M=
+
+
+Name: assets/www/asset-v8/anime/1_atlanta-sprite-hd.png
+SHA1-Digest: Es9HZXDaZ5Owm1UrJggget48/TY=
+
+
+Name: assets/www/asset-v8/anime/1_atlanta-sprite-mini.png
+SHA1-Digest: RH/IOAJKl+hxb3S3juDrre2J7Us=
+
+
+Name: assets/www/asset-v8/anime/1_atlanta-sprite.png
+SHA1-Digest: bGa5qB8LkbC9t7uKtKEbJGTq3us=
+
+
+Name: assets/www/asset-v8/anime/1_atlanta.json
+SHA1-Digest: l0gEzgqbWdynYYk2B38yhbV8HS4=
+
+
+Name: assets/www/asset-v8/anime/20_believe-sprite-hd.png
+SHA1-Digest: CYvUwB70ziJUMxsg80+zifIskrg=
+
+
+Name: assets/www/asset-v8/anime/20_believe-sprite-mini.png
+SHA1-Digest: cC0HAfgQrb4X/p+6OdZO+iUfOBs=
+
+
+Name: assets/www/asset-v8/anime/20_believe-sprite.png
+SHA1-Digest: 83epuSiG5A50kwkaZO7f65Y83NA=
+
+
+Name: assets/www/asset-v8/anime/20_believe.json
+SHA1-Digest: hLU6hDPSoJ9SvH1VlmNbxswstUI=
+
+
+Name: assets/www/asset-v8/anime/2_tuctom-sprite-hd.png
+SHA1-Digest: u247VGYBOsu5bFZ4leX0cWLatOE=
+
+
+Name: assets/www/asset-v8/anime/2_tuctom-sprite-mini.png
+SHA1-Digest: TX6C+656Taf81w2nCEMfs+TGsKo=
+
+
+Name: assets/www/asset-v8/anime/2_tuctom-sprite.png
+SHA1-Digest: EL0u5oJBjPTCyNPmaveUVEvULE8=
+
+
+Name: assets/www/asset-v8/anime/2_tuctom.json
+SHA1-Digest: jNWMYFts3vvPb+iRecokwhQADX8=
+
+
+Name: assets/www/asset-v8/anime/3_foubreak-sprite-hd.png
+SHA1-Digest: Ef7mDq+rZcKcr0wbYZ1vzbnmmBY=
+
+
+Name: assets/www/asset-v8/anime/3_foubreak-sprite-mini.png
+SHA1-Digest: HoB5q6n0gazf4JAjb5ZIqfdGbog=
+
+
+Name: assets/www/asset-v8/anime/3_foubreak-sprite.png
+SHA1-Digest: A7euIMSPQdYPNhLhFF3icv0Fdqc=
+
+
+Name: assets/www/asset-v8/anime/3_foubreak.json
+SHA1-Digest: LCq2dvBrf5e67PcBWgr72ORHA4o=
+
+
+Name: assets/www/asset-v8/anime/4_koukaki-sprite-hd.png
+SHA1-Digest: 1uACiJsQgwDlOK6ZEoPvj/MW0oE=
+
+
+Name: assets/www/asset-v8/anime/4_koukaki-sprite-mini.png
+SHA1-Digest: Q9sWWQB2rOhywFkWm10XWtr3dCY=
+
+
+Name: assets/www/asset-v8/anime/4_koukaki-sprite.png
+SHA1-Digest: uwu2AUkotPdXd6+FMHBGCCnlh+4=
+
+
+Name: assets/www/asset-v8/anime/4_koukaki.json
+SHA1-Digest: YBn/4ajokGXdc4IGtEPLlkGoEXQ=
+
+
+Name: assets/www/asset-v8/anime/5_koungou-sprite-hd.png
+SHA1-Digest: /GHHhaC01PffBYroyN3Iwc+MCe8=
+
+
+Name: assets/www/asset-v8/anime/5_koungou-sprite-mini.png
+SHA1-Digest: kbIaO8BgkYb80vIr/J3teE8f/1c=
+
+
+Name: assets/www/asset-v8/anime/5_koungou-sprite.png
+SHA1-Digest: rqA19yfzaNHZFwXwfycBf0JuI/s=
+
+
+Name: assets/www/asset-v8/anime/5_koungou.json
+SHA1-Digest: J/BKoHdTQhdca4zNCkOy6CLvO+Q=
+
+
+Name: assets/www/asset-v8/anime/6_bass-sprite-hd.png
+SHA1-Digest: k4A6XhG+z59UUIOyXUr7BYEP9Z4=
+
+
+Name: assets/www/asset-v8/anime/6_bass-sprite-mini.png
+SHA1-Digest: pACJTM2mCl3CYGMWpEVkibVLdGo=
+
+
+Name: assets/www/asset-v8/anime/6_bass-sprite.png
+SHA1-Digest: wPGgGeyc1aMznM5ca71DZNdihiM=
+
+
+Name: assets/www/asset-v8/anime/6_bass.json
+SHA1-Digest: X69NNRcLCshOlguzAxcySxra2H0=
+
+
+Name: assets/www/asset-v8/anime/7_monk-sprite-hd.png
+SHA1-Digest: eJj77HFZ1oyzt2TTornYV0UF1ns=
+
+
+Name: assets/www/asset-v8/anime/7_monk-sprite-mini.png
+SHA1-Digest: Ppj3Islyg9dfkW1xc10f0GfCJq4=
+
+
+Name: assets/www/asset-v8/anime/7_monk-sprite.png
+SHA1-Digest: c6bBDn9ruqPlsXSczWw/4hxmP+0=
+
+
+Name: assets/www/asset-v8/anime/7_monk.json
+SHA1-Digest: /6y0oHKHOgBc/SRWe7nIVwnQV/4=
+
+
+Name: assets/www/asset-v8/anime/8_sonar-sprite-hd.png
+SHA1-Digest: JUI1gH72NPWkXJX4BKi4iHDTmyQ=
+
+
+Name: assets/www/asset-v8/anime/8_sonar-sprite-mini.png
+SHA1-Digest: L8C/cvM+M4BRTYV9l/qXzq7/7a4=
+
+
+Name: assets/www/asset-v8/anime/8_sonar-sprite.png
+SHA1-Digest: KrA5Y75+fCxOdYVFwmpGj/lrDbI=
+
+
+Name: assets/www/asset-v8/anime/8_sonar.json
+SHA1-Digest: OYTnXpSK2wrcV5dle84hW220hTg=
+
+
+Name: assets/www/asset-v8/anime/9_souffle-sprite-hd.png
+SHA1-Digest: vzpVWRxtAPINEqv9HavH9OLcAIQ=
+
+
+Name: assets/www/asset-v8/anime/9_souffle-sprite-mini.png
+SHA1-Digest: FRiEMopCQAcNJg6gTJr9UimMxN8=
+
+
+Name: assets/www/asset-v8/anime/9_souffle-sprite.png
+SHA1-Digest: BmJrAiarMi748KyIEzJMEmgjGXM=
+
+
+Name: assets/www/asset-v8/anime/9_souffle.json
+SHA1-Digest: kGdxRn9fvQxYEZHU+Sn1QB21wLI=
+
+
+Name: assets/www/asset-v8/app.js
+SHA1-Digest: 5fzRidIJCrjq9H6modQ3hQcAMxw=
+
+
+Name: assets/www/asset-v8/img/game-bck-hd.jpg
+SHA1-Digest: L38GkS7cGwrfX7QTRdPhAEHwoM4=
+
+
+Name: assets/www/asset-v8/img/game-bck.jpg
+SHA1-Digest: 5EYyIgyq98W7dcvWVJAAMPotd1A=
+
+
+Name: assets/www/asset-v8/img/game-picto-hd.png
+SHA1-Digest: Ie/lN+h+uPN6Qpu5Zw12NS7edSA=
+
+
+Name: assets/www/asset-v8/img/game-picto-mini.png
+SHA1-Digest: 7R8zy43S3O0F7My4Mj8G2n5VZWM=
+
+
+Name: assets/www/asset-v8/img/game-picto.png
+SHA1-Digest: YVJVNaWrGSdNvl+uDME9rmoPLU8=
+
+
+Name: assets/www/asset-v8/img/home-titre-hd.png
+SHA1-Digest: dHUJUlXVKxOXaJyG40hmhpnZ5oc=
+
+
+Name: assets/www/asset-v8/img/home-titre.png
+SHA1-Digest: FkHjXxB6VIdG3RRwrn1K2AzexEk=
+
+
+Name: assets/www/asset-v8/img/home-version-hd.png
+SHA1-Digest: yEI890fgUUzuYM3dbtfFPNM3J6s=
+
+
+Name: assets/www/asset-v8/img/home-version.png
+SHA1-Digest: LCWnOsGnyzADtFR0niCxtZX6HjI=
+
+
+Name: assets/www/asset-v8/img/polo-sprite-hd.png
+SHA1-Digest: 2/Gp04SJX+Wb3EPunYdiZy7e758=
+
+
+Name: assets/www/asset-v8/img/polo-sprite-mini.png
+SHA1-Digest: 0324LkgTQgKjoI/J9ROm7MN+k34=
+
+
+Name: assets/www/asset-v8/img/polo-sprite.png
+SHA1-Digest: RK6a70eF572us22i08TOpwt8To4=
+
+
+Name: assets/www/asset-v8/sound/ogg/10_epifle_a.ogg
+SHA1-Digest: k2j+0m2L0GaxY55IdL0K+cNbZvU=
+
+
+Name: assets/www/asset-v8/sound/ogg/10_epifle_b.ogg
+SHA1-Digest: D9IDh8S+KjT/5Wa9nHphhAZsTAI=
+
+
+Name: assets/www/asset-v8/sound/ogg/11_arpeg_a.ogg
+SHA1-Digest: 2zf8B9eZLqYfGLS2Z5VMa2ySav0=
+
+
+Name: assets/www/asset-v8/sound/ogg/11_arpeg_b.ogg
+SHA1-Digest: pkkrrYBVZZOSX9YB8eWSeFE/uVE=
+
+
+Name: assets/www/asset-v8/sound/ogg/12_tromp_a.ogg
+SHA1-Digest: 6ZnTSRbJzck3YCetUtxUWQa3JhM=
+
+
+Name: assets/www/asset-v8/sound/ogg/12_tromp_b.ogg
+SHA1-Digest: s7J12atQqFYqt42uj6Y66QZN6dA=
+
+
+Name: assets/www/asset-v8/sound/ogg/13_pizzi_a.ogg
+SHA1-Digest: KSU+KkYxL4IcbFtAUU37KpF3yrg=
+
+
+Name: assets/www/asset-v8/sound/ogg/13_pizzi_b.ogg
+SHA1-Digest: uBx63wWfKRGoVQ7cTwuzfA/lG98=
+
+
+Name: assets/www/asset-v8/sound/ogg/14_organ_a.ogg
+SHA1-Digest: l9YdEs902G5maCa8lkPweMInWtc=
+
+
+Name: assets/www/asset-v8/sound/ogg/14_organ_b.ogg
+SHA1-Digest: CxNIO+0UV1p2tIWta73pyhYFBt4=
+
+
+Name: assets/www/asset-v8/sound/ogg/15_synth_a.ogg
+SHA1-Digest: BwYuLyW8N9FWh/dSLagzCItPx5o=
+
+
+Name: assets/www/asset-v8/sound/ogg/15_synth_b.ogg
+SHA1-Digest: e5AL9mG+lbLpQR+NcprVgmjTT9s=
+
+
+Name: assets/www/asset-v8/sound/ogg/16_follow_a.ogg
+SHA1-Digest: 6+ZVFT5wdEkR/Bd5GimhLH7W8Ts=
+
+
+Name: assets/www/asset-v8/sound/ogg/16_follow_b.ogg
+SHA1-Digest: XXfoIPBhZ0bkiGEpmxQykbigxWA=
+
+
+Name: assets/www/asset-v8/sound/ogg/17_choir_a.ogg
+SHA1-Digest: JncQJmxLEp0kEh5fvoX5MQWZ4Pg=
+
+
+Name: assets/www/asset-v8/sound/ogg/17_choir_b.ogg
+SHA1-Digest: QmhimFMWZuyfNQ3FGTXspH7Csdo=
+
+
+Name: assets/www/asset-v8/sound/ogg/18_houhou_a.ogg
+SHA1-Digest: BxRVV+FzV6U7LKy1Ha0+CqnijSE=
+
+
+Name: assets/www/asset-v8/sound/ogg/18_houhou_b.ogg
+SHA1-Digest: eU3J6DpB//4bTM2afSeRg20yr1A=
+
+
+Name: assets/www/asset-v8/sound/ogg/19_reach_a.ogg
+SHA1-Digest: A1nY0WfG0kcHf+mLsKX71wz2fBo=
+
+
+Name: assets/www/asset-v8/sound/ogg/19_reach_b.ogg
+SHA1-Digest: XyurN8/h2EhVlhrOWa/ERcJoc/Q=
+
+
+Name: assets/www/asset-v8/sound/ogg/1_atlanta_a.ogg
+SHA1-Digest: zBgD7t4xurlXiSjSVSaUgehhEy8=
+
+
+Name: assets/www/asset-v8/sound/ogg/1_atlanta_b.ogg
+SHA1-Digest: CgCVUOiJHLgooEEWSDEie5uiOi4=
+
+
+Name: assets/www/asset-v8/sound/ogg/20_believe_a.ogg
+SHA1-Digest: t8seGpC1OxvVpaG8rNVLm6X0Wcg=
+
+
+Name: assets/www/asset-v8/sound/ogg/20_believe_b.ogg
+SHA1-Digest: cGZSDCRpjt73rENlGMUmNS4GQvY=
+
+
+Name: assets/www/asset-v8/sound/ogg/21_bonus_riviera.ogg
+SHA1-Digest: 56Wc8zFYI2BKfthf0eduo3vu/Lk=
+
+
+Name: assets/www/asset-v8/sound/ogg/22_bonus_zemetekile.ogg
+SHA1-Digest: D/TCyFIgH3Z11MK9pdJH4fY4fxw=
+
+
+Name: assets/www/asset-v8/sound/ogg/23_bonus_cumulor.ogg
+SHA1-Digest: hglSPF0N+3pSefKPZTVmLsbdHGM=
+
+
+Name: assets/www/asset-v8/sound/ogg/2_tuctom_a.ogg
+SHA1-Digest: xkGiA3ZkNJW5LaL4hU6iJwpACbs=
+
+
+Name: assets/www/asset-v8/sound/ogg/2_tuctom_b.ogg
+SHA1-Digest: d2NiPJABuj064owIMfdvoGKpHHE=
+
+
+Name: assets/www/asset-v8/sound/ogg/3_foubreak_a.ogg
+SHA1-Digest: S1yL9D7YWvAmeYYK1kg8qr2kW4c=
+
+
+Name: assets/www/asset-v8/sound/ogg/3_foubreak_b.ogg
+SHA1-Digest: Xwc/UqGKniG0Sur+6HXtUUiSZwU=
+
+
+Name: assets/www/asset-v8/sound/ogg/4_koukaki_a.ogg
+SHA1-Digest: E7tT+kMw4tLvBQ7OxhB07l3pO4g=
+
+
+Name: assets/www/asset-v8/sound/ogg/5_koungou_a.ogg
+SHA1-Digest: X8vAgMJ2eAzR6sLZOeJUveNn0zs=
+
+
+Name: assets/www/asset-v8/sound/ogg/6_bass_a.ogg
+SHA1-Digest: Oe8z++Y/O7SVLxggNLsxpDFUiX8=
+
+
+Name: assets/www/asset-v8/sound/ogg/6_bass_b.ogg
+SHA1-Digest: lBf/4WdcNkrvS87gaOljK3ysLXg=
+
+
+Name: assets/www/asset-v8/sound/ogg/7_monk_a.ogg
+SHA1-Digest: Sbbh2yzKyciGmYHY1SKF/Xv0Zto=
+
+
+Name: assets/www/asset-v8/sound/ogg/7_monk_b.ogg
+SHA1-Digest: SO/HQl2NqUj5fGrVEeKeIzKYPrs=
+
+
+Name: assets/www/asset-v8/sound/ogg/8_sonar_a.ogg
+SHA1-Digest: gQ6FbpvmGNyOoswRYoAIkup3v+8=
+
+
+Name: assets/www/asset-v8/sound/ogg/9_souffle_a.ogg
+SHA1-Digest: FopMQZWpQR5vL6nQcopRBTPu7po=
+
+
+Name: assets/www/asset-v8/sound/ogg/9_souffle_b.ogg
+SHA1-Digest: 4LVul8sceUUuojzGvf44zpe/NtI=
+
+
+Name: assets/www/asset-v8/sound/ogg/aspire.ogg
+SHA1-Digest: 5AeAGIfX0iNRnS0ig+4xKL9JeDU=
+
+
+Name: assets/www/asset-v8/splash/big-homescreen-hd.jpg
+SHA1-Digest: miRULHhPjswnSzdYaAfNoPDDwBQ=
+
+
+Name: assets/www/asset-v8/splash/big-homescreen.jpg
+SHA1-Digest: KM9YuhqwW36COUiVyJyOP4hfEH8=
+
+
+Name: assets/www/asset-v8/splash/homescreen-hd.jpg
+SHA1-Digest: FdgyZIb1RaD1oPJzyt2X/3XEHnU=
+
+
+Name: assets/www/asset-v8/splash/homescreen.jpg
+SHA1-Digest: lLXrUFrwyiF5C0UA1j9e+u7VE8w=
+
+
+Name: assets/www/asset-v8/video/v8-b1-bck.jpg
+SHA1-Digest: ft1LG5dG+nqgbGFVfTucdYeZf70=
+
+
+Name: assets/www/asset-v8/video/v8-b1-riviera-hb-hd.mp4
+SHA1-Digest: niRdVX6Ga0LzfaN6T7jItcuVDkA=
+
+
+Name: assets/www/asset-v8/video/v8-b1-riviera-hb-mini.mp4
+SHA1-Digest: Wlv07vOWUiPAITQ8mbaNdPVcKOc=
+
+
+Name: assets/www/asset-v8/video/v8-b1-riviera-hb.mp4
+SHA1-Digest: ItkvscMY8CBlC92kSInlxFoDD1w=
+
+
+Name: assets/www/asset-v8/video/v8-b2-bck.jpg
+SHA1-Digest: xwL8qwYezFNCvwTYPrfn/m+/r+I=
+
+
+Name: assets/www/asset-v8/video/v8-b2-zemetekile-hb-hd.mp4
+SHA1-Digest: ktUQzx2w9uMCnhS88KLZbVBPTaY=
+
+
+Name: assets/www/asset-v8/video/v8-b2-zemetekile-hb-mini.mp4
+SHA1-Digest: qcOyUxL1f9MbBNOZvZccHgLzRRw=
+
+
+Name: assets/www/asset-v8/video/v8-b2-zemetekile-hb.mp4
+SHA1-Digest: kwnuFc3rXidCVHE12zbLOBMlngQ=
+
+
+Name: assets/www/asset-v8/video/v8-b3-bck.jpg
+SHA1-Digest: 3NC90Xj9DMOP64LmQf6e0gK5xsQ=
+
+
+Name: assets/www/asset-v8/video/v8-b3-cumulor-hb-hd.mp4
+SHA1-Digest: hhV/XffuuZzOyy3RlYvssAAeevs=
+
+
+Name: assets/www/asset-v8/video/v8-b3-cumulor-hb-mini.mp4
+SHA1-Digest: dug4qlw1AFc2fiG4Bi4sxHJQQkQ=
+
+
+Name: assets/www/asset-v8/video/v8-b3-cumulor-hb.mp4
+SHA1-Digest: Zu9HAqvx5mEZGw8IbcxU2ZzSg4s=
+
+
+Name: assets/www/cordova-js-src/android/nativeapiprovider.js
+SHA1-Digest: uNzhuUwZMOM7ZHKDswiZ2YEps6g=
+
+
+Name: assets/www/cordova-js-src/android/promptbasednativeapi.js
+SHA1-Digest: 8HA5rVq8Kf7YXcMz9mVDW+cav2E=
+
+
+Name: assets/www/cordova-js-src/exec.js
+SHA1-Digest: 7HxnKZCQenP+ZEIitr5cay0ss/Q=
+
+
+Name: assets/www/cordova-js-src/platform.js
+SHA1-Digest: +70JYQEeXlNWaOEG5h4xLyqLzKI=
+
+
+Name: assets/www/cordova-js-src/plugin/android/app.js
+SHA1-Digest: efGU9prM//8Xs9GyNFkVjFBcqaI=
+
+
+Name: assets/www/cordova.js
+SHA1-Digest: a7N9tek/60NBr/5pGyaqNrleqTI=
+
+
+Name: assets/www/cordova_plugins.js
+SHA1-Digest: q2lTFc9cWLOPypfmpfI4P+yGOI0=
+
+
+Name: assets/www/css/style.min.css
+SHA1-Digest: 9CdYTMQqn+uhsGqAQyDqB+BPDno=
+
+
+Name: assets/www/font/raleway-black-webfont.woff
+SHA1-Digest: CtHn7NQ9bS9f4MmvMcDqUJwQWv4=
+
+
+Name: assets/www/font/raleway-black-webfont.woff2
+SHA1-Digest: OxY6/cDw3AYzzu87QmA+sS60Tjc=
+
+
+Name: assets/www/font/raleway-bold-webfont.woff
+SHA1-Digest: BywoeNBakgWpUZgw/Rru/sCDksc=
+
+
+Name: assets/www/font/raleway-bold-webfont.woff2
+SHA1-Digest: YQHMJS4ypdF59G/z1Re+dx1LfeY=
+
+
+Name: assets/www/font/raleway-italic-webfont.woff
+SHA1-Digest: ht5Tk85jw9AAryo2iBXTp/XFMQg=
+
+
+Name: assets/www/font/raleway-italic-webfont.woff2
+SHA1-Digest: O2Vv1yWh3z45Uxuk9bpF3AHM5IU=
+
+
+Name: assets/www/font/raleway-medium-webfont.woff
+SHA1-Digest: +NA33Taq2+mxiGbEYTswo2QphJE=
+
+
+Name: assets/www/font/raleway-medium-webfont.woff2
+SHA1-Digest: 5nTvrGtImgeUD4hae6jCRAsVydU=
+
+
+Name: assets/www/font/raleway-regular-webfont.woff
+SHA1-Digest: JAKRrwUu3xIvtWX34S+BpWSztik=
+
+
+Name: assets/www/font/raleway-regular-webfont.woff2
+SHA1-Digest: c18+i92g8yr+DHaxNZcJQlYhNjQ=
+
+
+Name: assets/www/font/raleway-thin-webfont.woff
+SHA1-Digest: bq4A3+IVrVmg4N+Jot6ChVzN81Q=
+
+
+Name: assets/www/font/raleway-thin-webfont.woff2
+SHA1-Digest: BOOHEX7TIkoTWJlyVZaooCfVSXw=
+
+
+Name: assets/www/icons/android/hdpi.png
+SHA1-Digest: zhk9DCQDtVB6GOvXDLJ5OYyM5Bg=
+
+
+Name: assets/www/icons/android/mdpi.png
+SHA1-Digest: fF5mwJz/oirw+oHCrxIGDlYz0es=
+
+
+Name: assets/www/icons/android/xhdpi.png
+SHA1-Digest: KzDq6W1/fzmO0hSEDyUfAi8DveY=
+
+
+Name: assets/www/icons/android/xxhdpi.png
+SHA1-Digest: Lkefp55+3LB+9aWVXJCcxv7ZYBU=
+
+
+Name: assets/www/icons/android/xxxhdpi.png
+SHA1-Digest: /GnRqoiSUoTGUUugDBqPEqRg7H4=
+
+
+Name: assets/www/img/bonus-unlock-clap-darkmode.svg
+SHA1-Digest: nVeTrngqwFgMTlbF1FK8QJD6HcQ=
+
+
+Name: assets/www/img/bonus-unlock-clap.svg
+SHA1-Digest: 44o1iCthZeG2FH1VrcqEC7Jl26k=
+
+
+Name: assets/www/img/bt-bonus.svg
+SHA1-Digest: C6Ca8BbjE+QThdrbC7RF7FUwF8g=
+
+
+Name: assets/www/img/demo-bt-store.png
+SHA1-Digest: UFRMSkCV0wwtCNstI9Ry5KBt73k=
+
+
+Name: assets/www/img/demo-mockup-aasl.jpg
+SHA1-Digest: cid9SKdMze/htEz44F6AAyD487o=
+
+
+Name: assets/www/img/flags.png
+SHA1-Digest: ViMGJep976NUuzKhqS8sfvY3X5U=
+
+
+Name: assets/www/img/game-ombre.svg
+SHA1-Digest: zy4Jp0vKM9hKh+sZEKSHnk8EouA=
+
+
+Name: assets/www/img/info-didac1-hd.png
+SHA1-Digest: +8zgx2nl50FJ+JpPDsrvOETxYlM=
+
+
+Name: assets/www/img/info-didac1.png
+SHA1-Digest: ekfVQlDu9yLx5bet7lB2srpT/aA=
+
+
+Name: assets/www/img/info-didac2-hd.png
+SHA1-Digest: l6Jhk2wIcqhewD0ClXK0JMTniIg=
+
+
+Name: assets/www/img/info-didac2.png
+SHA1-Digest: 7/Bba6r+7nNi00S6OywJTGete6U=
+
+
+Name: assets/www/img/info-didac3-hd.png
+SHA1-Digest: OZRemok0i9pk/0XWl03rnqqR0j4=
+
+
+Name: assets/www/img/info-didac3.png
+SHA1-Digest: K0MmmJA97H//5K1FxJ3cH4aRxnE=
+
+
+Name: assets/www/img/info-didac4-hd.png
+SHA1-Digest: Wjh43D0gggdaG7aRfsylJMnyLtY=
+
+
+Name: assets/www/img/info-didac4.png
+SHA1-Digest: MSH1H0om11+H9w1vGOX/t23jmY0=
+
+
+Name: assets/www/img/info-didac5-hd.png
+SHA1-Digest: aPFTTUHE8u65hXqZUL4Cfw8dDMM=
+
+
+Name: assets/www/img/info-didac5.png
+SHA1-Digest: BmouJco4Ue7+QYw+8qcqkzT7VGc=
+
+
+Name: assets/www/img/popup-album-hd.png
+SHA1-Digest: yhTTz6bqsNAoBlQl/aOf9mBpihQ=
+
+
+Name: assets/www/img/popup-album.png
+SHA1-Digest: g2ZhCnM+S1zmPCVF6pawbmQyDeg=
+
+
+Name: assets/www/img/shop-img-hd.png
+SHA1-Digest: 8XzE5auQJ60jOA5PI+XenQpGsBY=
+
+
+Name: assets/www/img/shop-img.png
+SHA1-Digest: ZoGKsRcWy1hQJ5ohgeC/LlmjSdM=
+
+
+Name: assets/www/img/switch-bt-hd.png
+SHA1-Digest: B+x6S8kJyulhTOXjvEnfxBDN3Ug=
+
+
+Name: assets/www/img/switch-bt.png
+SHA1-Digest: tjdFpnEymqfLcHhLaI856N2ITmc=
+
+
+Name: assets/www/img/switch-casque.svg
+SHA1-Digest: U06DJwWZh1A8c3sRPOmCZaFvvkw=
+
+
+Name: assets/www/img/title-darkmode.svg
+SHA1-Digest: gkv4TA1BrILeWMz2oFj+7vt/V9U=
+
+
+Name: assets/www/img/title.svg
+SHA1-Digest: nNJsMhKzBl7g2EtLAlO4Zftm1bg=
+
+
+Name: assets/www/img/top-stars.svg
+SHA1-Digest: f1iR6d/aqUGMVS7x4IvS4x2Gl2g=
+
+
+Name: assets/www/index.html
+SHA1-Digest: /SZnmFuEVI1K6varfqGNL3o/Clc=
+
+
+Name: assets/www/js/index.min.js
+SHA1-Digest: pUaVq8aospCUwXHeQ+ZLdO0rp0w=
+
+
+Name: assets/www/js/libs/EasePack.min.js
+SHA1-Digest: uxC4lX6nMQqoaKp3zmtcEhPZtsI=
+
+
+Name: assets/www/js/libs/Raf.js
+SHA1-Digest: 3Qv9E4gUMAFlcu9zv5MwWYnlKrA=
+
+
+Name: assets/www/js/libs/ScrollToPlugin.min.js
+SHA1-Digest: J8Enlt+9imnMdjsa8NWmB65Deao=
+
+
+Name: assets/www/js/libs/SocialSharing.js
+SHA1-Digest: YAEysaqBxPX9eQoQIQxIDNU/IbQ=
+
+
+Name: assets/www/js/libs/TweenMax.min.js
+SHA1-Digest: F+neoYWMHQMFuS/vYw5piVhWcqw=
+
+
+Name: assets/www/js/libs/analytics.js
+SHA1-Digest: D5dqXT5bFHE5rUlphMxjY13bl3k=
+
+
+Name: assets/www/js/libs/jquery.js
+SHA1-Digest: d6XjQmeJYVDypKr4y0fMsZaQjbU=
+
+
+Name: assets/www/js/libs/lame.min.js
+SHA1-Digest: Xu18PmRuBYsc5q9a+F0t0LAh4KI=
+
+
+Name: assets/www/js/main.min.js
+SHA1-Digest: HjRTFuGUTOL+7FD8J0p2d/bmUq0=
+
+
+Name: assets/www/lang/ar.json
+SHA1-Digest: jVO60r8IS2lMQLXnc36PxhuEhjw=
+
+
+Name: assets/www/lang/bn-IN.json
+SHA1-Digest: Yq5oayncb/vjZH6XLZG/ardJelM=
+
+
+Name: assets/www/lang/de.json
+SHA1-Digest: VTxovkAA2dl+eT/4uVoXEWpUlcU=
+
+
+Name: assets/www/lang/en-US.json
+SHA1-Digest: +JgeSqDloCPsVnhdNGQ7HZPhD4c=
+
+
+Name: assets/www/lang/es.json
+SHA1-Digest: 1ZfRW7T6hitLcTx89XtKHHt8xA4=
+
+
+Name: assets/www/lang/fr.json
+SHA1-Digest: JHDypQYktM0axJpzrT2NxkD98Ck=
+
+
+Name: assets/www/lang/hi-IN.json
+SHA1-Digest: a/OGb0PDsFVZO5IDW1VmewCZzzI=
+
+
+Name: assets/www/lang/id.json
+SHA1-Digest: /+ePe/NsyPtdTlolffh/AjbEviA=
+
+
+Name: assets/www/lang/it.json
+SHA1-Digest: p9+iTPAjPKvnBNyvuk9mUDz+Clc=
+
+
+Name: assets/www/lang/ja.json
+SHA1-Digest: kWBFjLyjYMiXi8PeiFtGavHGnjg=
+
+
+Name: assets/www/lang/ko.json
+SHA1-Digest: hXs0kTF3Eu0HhfyFMAQ0DdXfhHc=
+
+
+Name: assets/www/lang/ms.json
+SHA1-Digest: Fl3sx6CTiM33AFCzpMj71qBPogA=
+
+
+Name: assets/www/lang/no.json
+SHA1-Digest: fS4Cj4UJDVpzbMYo/CKQ7i1ydKE=
+
+
+Name: assets/www/lang/pl.json
+SHA1-Digest: pUdXxOy7vJrM5C4HTnV2wzj3XJ4=
+
+
+Name: assets/www/lang/pt-BR.json
+SHA1-Digest: zr2e/bvov434+irgfg4y2AMmS7M=
+
+
+Name: assets/www/lang/ru.json
+SHA1-Digest: mmp2Nacyv11SxSGtsgJe5JGP14M=
+
+
+Name: assets/www/lang/ta-IN.json
+SHA1-Digest: SiIk9aY017GfMiMsgmNV9psZ89s=
+
+
+Name: assets/www/lang/te-IN.json
+SHA1-Digest: ucGsasOAber11qhWFqYQlnnt2rg=
+
+
+Name: assets/www/lang/th.json
+SHA1-Digest: m3/Y4diMFGS3HY72EkPnM3ySTVM=
+
+
+Name: assets/www/lang/tr.json
+SHA1-Digest: o3+wgJqjUxp7sEHgqj0tEyfcioU=
+
+
+Name: assets/www/lang/vi.json
+SHA1-Digest: 05iIxRjEikBobsCDFyA7mbChBY4=
+
+
+Name: assets/www/lang/zh-CN.json
+SHA1-Digest: rYktTVhR2gz52hnKW6nzz7RrhKo=
+
+
+Name: assets/www/lang/zh-TW.json
+SHA1-Digest: xPETihosWtbx60HDvCMtIz0GyuQ=
+
+
+Name: assets/www/plugins/cordova-plugin-audioroute/www/audioroute.js
+SHA1-Digest: jRS/ZFdngHPQX2/2lMWwgtaZbKY=
+
+
+Name: assets/www/plugins/cordova-plugin-bluetoothle/www/bluetoothle.js
+SHA1-Digest: 5FdKLsjhP+Ys3Z+1Edbe7uiYKNw=
+
+
+Name: assets/www/plugins/cordova-plugin-device/www/device.js
+SHA1-Digest: 1IgT4uoJKoBrBLFRUBZxBssZvHs=
+
+
+Name: assets/www/plugins/cordova-plugin-fullscreen/www/AndroidFullScreen.js
+SHA1-Digest: N4PtYdgHhJGpkpV6zZfiAontu4I=
+
+
+Name: assets/www/plugins/cordova-plugin-icloudkv/www/iCloudKV.js
+SHA1-Digest: ruSFA2DVM01Sy7tpaCzG8PQWFcM=
+
+
+Name: assets/www/plugins/cordova-plugin-inappbrowser/www/inappbrowser.js
+SHA1-Digest: l4BT/4xrf19q1Ed63Y0EY2NgafE=
+
+
+Name: assets/www/plugins/cordova-plugin-insomnia/www/Insomnia.js
+SHA1-Digest: 1sIp6dpG/rrRKwcZVpNbtw8DmDo=
+
+
+Name: assets/www/plugins/cordova-plugin-network-information/www/Connection.js
+SHA1-Digest: mVo0dMDk/PdNVP1fgDT5q4uvy8Y=
+
+
+Name: assets/www/plugins/cordova-plugin-network-information/www/network.js
+SHA1-Digest: mxjoSaO502y7KUzce6Et+vscFNI=
+
+
+Name: assets/www/plugins/cordova-plugin-splashscreen/www/splashscreen.js
+SHA1-Digest: W2QPXVlfZYhl064KlvwTYOZvHEQ=
+
+
+Name: assets/www/plugins/cordova-plugin-statusbar/www/statusbar.js
+SHA1-Digest: qWDX58h7XTbFHxyXQGUEgOFfEfY=
+
+
+Name: assets/www/plugins/cordova-plugin-x-socialsharing/www/SocialSharing.js
+SHA1-Digest: KMjBHFngvleRCyaD6HznWfTJ73A=
+
+
+Name: assets/www/plugins/cordova-silent-mode/www/silent-mode.js
+SHA1-Digest: 6oRiSh8N0hVgzTueNYlQ/VNqrz8=
+
+
+Name: assets/www/plugins/cordova-universal-clipboard/www/clipboard.js
+SHA1-Digest: YrHpfUW/jw4JXzLTQkyzWAOZRog=
+
+
+Name: assets/www/plugins/es6-promise-plugin/www/promise.js
+SHA1-Digest: FDDaCjgETmkfut28vnYvlr1hxI0=
+
+
+Name: assets/www/plugins/ionic-plugin-keyboard/www/android/keyboard.js
+SHA1-Digest: cHGDOEuAxl7rI4ZTdnFPgTREu7M=
+
+
+Name: assets/www/snd/soundtest.ogg
+SHA1-Digest: g5wGEgsluNLU5XcqrHMSqUzctwI=
+
+
+Name: assets/www/splashs/android/GooglePlayFeature.png
+SHA1-Digest: mmCZvsWqedhO0/yt0s2fzRduhQ4=
+
+
+Name: assets/www/splashs/android/splash-land-hdpi.png
+SHA1-Digest: CqYNVkN4h/AtQw8CbEjigt5GnA4=
+
+
+Name: assets/www/splashs/android/splash-land-ldpi.png
+SHA1-Digest: 18OQBtl/8yfdDn13Jm8GlQPxm60=
+
+
+Name: assets/www/splashs/android/splash-land-mdpi.png
+SHA1-Digest: GhAZtCRfPGLIGW8clSnrWZVmyaI=
+
+
+Name: assets/www/splashs/android/splash-land-xhdpi.png
+SHA1-Digest: 0nV4R7NB+bmaLKkXSvZBBjHy0kU=
+
+
+Name: assets/www/splashs/android/splash-land-xxhdpi.png
+SHA1-Digest: PKX6DswQKmqTWBTlgmJYhiqxt7Q=
+
+
+Name: assets/www/splashs/android/splash-land-xxxhdpi.png
+SHA1-Digest: 6/9KxClHLMpYhuAv5IH57ycPd60=
+
+
+Name: classes.dex
+SHA1-Digest: xwOFcWoqrA/KLYPfpmOeF/rF4iE=
+
+
+Name: res/drawable-v21/notification_action_background.xml
+SHA1-Digest: SJoF1WoCkYxvl86q/F01BPgRSDA=
+
+
+Name: res/drawable/notification_bg.xml
+SHA1-Digest: 0u4iKRuj4EIZE+brm8WibaNC61c=
+
+
+Name: res/drawable/notification_bg_low.xml
+SHA1-Digest: /vcQUqvEB0htordwmwg92l4ULnw=
+
+
+Name: res/drawable/notification_icon_background.xml
+SHA1-Digest: solSlCOMBauQ5AIhgsYnKkYKiQ4=
+
+
+Name: res/drawable/notification_tile_bg.xml
+SHA1-Digest: kZwZ/+U0cXSFvf50imJCIJpjs3k=
+
+
+Name: res/layout-v21/notification_action.xml
+SHA1-Digest: 0CvVHHJOKlUO2BMyMMyVuenqhB4=
+
+
+Name: res/layout-v21/notification_action_tombstone.xml
+SHA1-Digest: kWZUso0qt0diP21GfyQxujc8J6s=
+
+
+Name: res/layout-v21/notification_template_custom_big.xml
+SHA1-Digest: FG+crzxrwsYz3rmxvihuklnKwbs=
+
+
+Name: res/layout-v21/notification_template_icon_group.xml
+SHA1-Digest: dBIGQPPx0I4H4BHiieFjN8vOyl8=
+
+
+Name: res/layout/notification_media_action.xml
+SHA1-Digest: xG/oBlnM8nc1Mt7S/6kz3r3CeWc=
+
+
+Name: res/layout/notification_media_cancel_action.xml
+SHA1-Digest: UsiccKGjxsPtqsbp6F71m35hyKE=
+
+
+Name: res/layout/notification_template_big_media.xml
+SHA1-Digest: HxYWb/hCxd211CwRuvdiZqsAP5E=
+
+
+Name: res/layout/notification_template_big_media_custom.xml
+SHA1-Digest: DnOOMx6D6abQc6bYAZKgUcSJFV4=
+
+
+Name: res/layout/notification_template_big_media_narrow.xml
+SHA1-Digest: 9FwDi5LmpN0IiUqbRVBRbuZuRsc=
+
+
+Name: res/layout/notification_template_big_media_narrow_custom.xml
+SHA1-Digest: K9ZjjV/H8k1NhTfE94ptITL2rN8=
+
+
+Name: res/layout/notification_template_lines_media.xml
+SHA1-Digest: xkRXos27VNzhaVOOIFHqbds+/+4=
+
+
+Name: res/layout/notification_template_media.xml
+SHA1-Digest: PFkcW68kNbVVtvJktcqkDjIHvlU=
+
+
+Name: res/layout/notification_template_media_custom.xml
+SHA1-Digest: aPFT8na+rgmsY8qn4Z9RDRq+M/0=
+
+
+Name: res/layout/notification_template_part_chronometer.xml
+SHA1-Digest: nJ16rlv4DA2u+GW6pGEQFzlyP0o=
+
+
+Name: res/layout/notification_template_part_time.xml
+SHA1-Digest: kyhXmXKGbs1gNNaVBnWXwJWDyJc=
+
+
+Name: res/mipmap-hdpi-v4/ic_launcher.png
+SHA1-Digest: asNX6S7ojiQcOFwBwbhcAmbmQrE=
+
+
+Name: res/mipmap-mdpi-v4/ic_launcher.png
+SHA1-Digest: jr9137q/lMW/aCYExHTVCtagfsE=
+
+
+Name: res/mipmap-xhdpi-v4/ic_launcher.png
+SHA1-Digest: VKVtol9MLX2KzS1v3ir6gwUJ/tk=
+
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: wyVOrKfnnEgn3bAYBbO3N0ycoGY=
+
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher.png
+SHA1-Digest: W3bIq+d414Vm73W8wg6WXZmzWwo=
+
+
+Name: res/xml/config.xml
+SHA1-Digest: wP9zRwgTwb8CO7pObsF9iElyl7c=
+
+
+Name: res/xml/sharing_paths.xml
+SHA1-Digest: CwuWYPJgC1n3/4kKgMIq7KOQ608=
+
+
+Name: res/xml/splits0.xml
+SHA1-Digest: Ls3vXjcls+QZ3YS7GZpw1dhy3uI=
+
+
+Name: stamp-cert-sha256
+SHA1-Digest: 8L3xaVxSy6jXLeT0VsoaTW529tY=
+
+
+Name: res/drawable-xhdpi-v4/notification_bg_low_normal.9.png
+SHA1-Digest: 8ZdFAKSnu0hT3Z6o4HsBUqa4u2s=
+
+
+Name: res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png
+SHA1-Digest: i3Q41ncoSurSjIWbxqxzpUwMQoQ=
+
+
+Name: res/drawable-xhdpi-v4/notification_bg_normal.9.png
+SHA1-Digest: n8h6cMbgbyiJHbDq0IX/vkY92Ms=
+
+
+Name: res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png
+SHA1-Digest: bUJUnlcWHmPwH4gKw7B/pSfWIPI=
+
+
+Name: res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png
+SHA1-Digest: XqnQAuGLbitFFWOPi8nsYcFtEC0=
+
+
+Name: res/drawable-xxhdpi-v4/ic_action_next_item.png
+SHA1-Digest: BpQrYH1ny2s+jp4N8Il4B7LcmaM=
+
+
+Name: res/drawable-xxhdpi-v4/ic_action_previous_item.png
+SHA1-Digest: 5JVZgkC8dPBQOYN1+4aXTQKJams=
+
+
+Name: res/drawable-xxhdpi-v4/ic_action_remove.png
+SHA1-Digest: Lyd8C11uqFDxalVwKFxsnaxQxJc=
+
+
+Name: res/drawable-xxhdpi-v4/screen.png
+SHA1-Digest: o4Rv4T2YDmcwB2ThVb8EKa2c/H8=
+
+
+Name: AndroidManifest.xml
+SHA1-Digest: 42XW5iPNo5ZrM28ElcK7ueCGevE=
+
+
+Name: resources.arsc
+SHA1-Digest: ZzSWjAeaadrbt0L50NyXnAcVEiY=
+
+
