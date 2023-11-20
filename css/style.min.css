@@ -622,6 +622,11 @@ body.miniPlayer #lock-pause .bt .bck {
 	animation: g .5s cubic-bezier(.165, .84, .44, 1) .53s forwards
 }
 
+#page-splash .centered #sp-select .icon#icon9.tweenUp {
+	-webkit-animation: g .5s cubic-bezier(.165, .84, .44, 1) .58s forwards;
+	animation: g .5s cubic-bezier(.165, .84, .44, 1) .58s forwards
+}
+
 @-webkit-keyframes a {
 	to {
 		-webkit-transform: translateY(-70px);
@@ -774,7 +779,7 @@ body.miniPlayer #lock-pause .bt .bck {
 #sp-select .icon .img,
 #sp-select .icon .txt {
 	width: 120px;
-	background-size: 1030px 152px;
+	background-size: 1160px 152px;
 	background-repeat: no-repeat
 }
 
@@ -815,6 +820,10 @@ body.miniPlayer #lock-pause .bt .bck {
 	background-position: -910px 0
 }
 
+#sp-select .icon#icon9 .img {
+	background-position: -1040px 0
+}
+
 #sp-select .icon#icon1 .txt {
 	background-position: 0 -126px
 }
@@ -845,6 +854,10 @@ body.miniPlayer #lock-pause .bt .bck {
 
 #sp-select .icon#icon8 .txt {
 	background-position: -910px -126px
+}
+
+#sp-select .icon#icon9 .txt {
+	background-position: -1040px -126px
 }
 
 #sp-select .icon .img.focused {
@@ -959,6 +972,10 @@ body.miniPlayer #lock-pause .bt .bck {
 
 #sp-select .icon#icon8 .bul {
 	background-color: #5f7e7b
+}
+
+#sp-select .icon#icon9 .bul {
+	background-color: #005cfa
 }
 
 #fade-home {
@@ -3946,8 +3963,8 @@ body:not(.fluid) #box-top.random #box-bt2 #box-bt2-bck {
 	height: inherit;
 	background-image: url(../img/bt-bonus.svg);
 	background-repeat: no-repeat;
-	background-size: 210px 630px;
-	background-position: 0 -630px;
+	background-size: 210px 700px;
+	background-position: 0 -700px;
 	opacity: .7;
 	transition: opacity .3s ease-in-out
 }
@@ -4054,6 +4071,10 @@ body:not(.fluid) #box-top.random #box-bt2 #box-bt2-bck {
 
 .v8 #box-top .bt-bonus.unlock#bt-bonus-3 .icon .icn-bck {
 	background-position: -140px -560px
+}
+
+.v9 #box-top .bt-bonus.unlock#bt-bonus-1 .icon .icn-bck {
+	background-position: 0px -630px
 }
 
 #box-top .bt-bonus.unlock .quarter .svg.q0 {
