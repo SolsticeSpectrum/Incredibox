@@ -22,7 +22,7 @@ var app = new function() {
         uniqsnd: !0
     }, {
         name: "06_boom_fuzz",
-        color: "#2c86fe",
+        color: "2c86fe",
         uniqsnd: !1
     }, {
         name: "07_asap_bee",
@@ -30,7 +30,7 @@ var app = new function() {
         uniqsnd: !1
     }, {
         name: "08_m_o_g",
-        color: "#ffca06",
+        color: "ffca06",
         uniqsnd: !1
     }, {
         name: "09_arashi",
