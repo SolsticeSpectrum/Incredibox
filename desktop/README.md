@@ -1,6 +1,7 @@
 # Requirements
 NodeJS  
 > You can get the latest version [here](https://nodejs.org/en/) where you can select LTS or Current  
+
 npm  
 > You can find out how to install npm [here](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)  
 
