@@ -27,13 +27,13 @@ Before each modification, redownload this repo to be sure that all files are cor
    ```  
 4. Then you need to sign the apk file but first we need to generate a key with this command  
    ```
-   keytool -genkey -v -keystore my-release-key.keystore -alias alias_name -keyalg RSA -keysize 2048 -validity 10000
+   keytool -genkey -v -keystore my-release-key.keystore -alias alias_name -keyalg RSA -deststoretype PKCS12 -keysize 2048 -validity 10000
    ```  
    You will be asked to enter keystore password, remember this password because you will need to use it later  
    You will also be asked to enter details, you can keep it all Unknown and when it asks you if it is correct, answer <ins>yes</ins>  
 5. Now we can sign the apk file with this command  
    ```
-   jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore my-release-key.keystore Incredibox-v0.5.4-unaligned.apk alias_name
+   jarsigner -verbose -sigalg SHA256withRSA -digestalg SHA-256 -keystore my-release-key.keystore Incredibox-v0.5.4-unaligned.apk alias_name
    ```  
 6. Verify the apk file with this command  
    ```

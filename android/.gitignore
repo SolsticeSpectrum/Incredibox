@@ -1,0 +1,6 @@
+# Files
+*.apk
+*.keystore
+
+# Folders
+build

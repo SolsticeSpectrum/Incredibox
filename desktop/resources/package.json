@@ -1,0 +1,11 @@
+{
+  "name": "Incredibox",
+  "version": "0.5.4",
+  "description": "A music app that lets you create your own music with the help of a merry crew of beatboxers.",
+  "main": "main.js",
+  "author": "So Far So Good",
+  "license": "So Far So Good",
+  "dependencies": {
+    "node-machine-id": "^1.1.12"
+  }
+}
