@@ -1,8 +1,8 @@
 # Requirements
 NodeJS  
 > You can get the latest version [here](https://nodejs.org/en/) where you can select LTS or Current  
-npm
-> You can find out how to install npm [here](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) 
+npm  
+> You can find out how to install npm [here](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)  
 
 # Modifying
 1. Open Command Prompt in this folder and run this command  
