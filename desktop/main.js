@@ -1,4 +1,4 @@
-/* 1.0.1 2021-04-23 19:29:44 */
+/* 0.5.4 2021-04-23 21:06:13 */
 const {
     app: app,
     BrowserWindow: BrowserWindow,
