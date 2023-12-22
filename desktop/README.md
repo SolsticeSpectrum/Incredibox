@@ -19,9 +19,9 @@ npm
    This will run the electron app as it would after packaging  
 4. If you're satisfied, you can package the game for distribution  
    ```
-   node run package:win
-   node run package:linux
-   node run package:mac
+   npm run package:win
+   npm run package:linux
+   npm run package:mac
    ```
    This will package the game for one of those three platforms,  
    the resulting files will be stored in `out/Incredibox-PLATFORM`,  

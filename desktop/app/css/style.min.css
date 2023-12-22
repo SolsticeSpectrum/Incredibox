@@ -4077,6 +4077,14 @@ body:not(.fluid) #box-top.random #box-bt2 #box-bt2-bck {
 	background-position: 0px -630px
 }
 
+.v9 #box-top .bt-bonus.unlock#bt-bonus-2 .icon .icn-bck {
+	background-position: -70px -630px
+}
+
+.v9 #box-top .bt-bonus.unlock#bt-bonus-3 .icon .icn-bck {
+	background-position: -140px -630px
+}
+
 #box-top .bt-bonus.unlock .quarter .svg.q0 {
 	visibility: visible
 }

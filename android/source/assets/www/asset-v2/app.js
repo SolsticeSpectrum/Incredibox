@@ -82,19 +82,19 @@ var app = new function() {
         uniqsnd: !1
     }], this.bonusarray = [{
         name: "Satisfied",
-        src: "v2-b1-satisfy-hb.mp4",
+        src: "v2-b1-satisfy-hb.webm",
         code: "1,4,6,9,12",
         sound: "bonus-satisfy",
         aspire: "aspire"
     }, {
         name: "Little Miss",
-        src: "v2-b2-miss-hb.mp4",
+        src: "v2-b2-miss-hb.webm",
         code: "5,6,7,13,15",
         sound: "bonus-miss",
         aspire: "aspire"
     }, {
         name: "Why this world",
-        src: "v2-b3-world-hb.mp4",
+        src: "v2-b3-world-hb.webm",
         code: "6,8,9,14,18",
         sound: "bonus-world",
         aspire: "aspire"
